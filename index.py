@@ -12,3 +12,5 @@ for i in range(1,10):
     print('\n')
     print(i,".",sep='',end=' ')
     print('\n'.join(var.to_string(index=False).split('\n')[1:]))
+
+#code prints 10 questions in a random order
