@@ -1,0 +1,1716 @@
+﻿Answer,Article File,Article Title,Difficulty From Answerer,Difficulty From Questioner,Question
+yes,S08_set3_a4,Abraham_Lincoln,easy,easy,Was Abraham Lincoln the sixteenth President of the United States?
+Yes.,S08_set3_a4,Abraham_Lincoln,easy,easy,Was Abraham Lincoln the sixteenth President of the United States?
+yes,S08_set3_a4,Abraham_Lincoln,medium,easy,Did Lincoln sign the National Banking Act of 1863?
+Yes.,S08_set3_a4,Abraham_Lincoln,easy,easy,Did Lincoln sign the National Banking Act of 1863?
+no,S08_set3_a4,Abraham_Lincoln,medium,easy,Did his mother die of pneumonia?
+No.,S08_set3_a4,Abraham_Lincoln,easy,easy,Did his mother die of pneumonia?
+18 months,S08_set3_a4,Abraham_Lincoln,easy,medium,How many long was Lincoln's formal education?
+18 months.,S08_set3_a4,Abraham_Lincoln,medium,medium,How many long was Lincoln's formal education?
+1832,S08_set3_a4,Abraham_Lincoln,easy,medium,When did Lincoln begin his political career?
+1832.,S08_set3_a4,Abraham_Lincoln,medium,medium,When did Lincoln begin his political career?
+"the United States Note, the first paper currency in United States history",S08_set3_a4,Abraham_Lincoln,easy,medium,What did The Legal Tender Act of 1862 establish?
+"The United States Note, the first paper currency in United States history.",S08_set3_a4,Abraham_Lincoln,medium,medium,What did The Legal Tender Act of 1862 establish?
+11-year-old Grace Bedell,S08_set3_a4,Abraham_Lincoln,medium,hard,Who suggested Lincoln grow a beard?
+Grace Bedell.,S08_set3_a4,Abraham_Lincoln,medium,hard,Who suggested Lincoln grow a beard?
+1776,S08_set3_a4,Abraham_Lincoln,hard,hard,When did the Gettysburg address argue that America was born?
+1776.,S08_set3_a4,Abraham_Lincoln,hard,hard,When did the Gettysburg address argue that America was born?
+yes,S08_set3_a4,Abraham_Lincoln,medium,hard,Did Lincoln beat John C. Breckinridge in the 1860 election?
+Yes.,S08_set3_a4,Abraham_Lincoln,hard,hard,Did Lincoln beat John C. Breckinridge in the 1860 election?
+No,S08_set3_a4,Abraham_Lincoln,easy,easy,Was Abraham Lincoln the first President of the United States?
+No,S08_set3_a4,Abraham_Lincoln,medium,easy,Was Abraham Lincoln the first President of the United States?
+Yes,S08_set3_a4,Abraham_Lincoln,easy,easy,Did Lincoln start his political career in 1832?
+Yes,S08_set3_a4,Abraham_Lincoln,easy,easy,Did Lincoln start his political career in 1832?
+Yes,S08_set3_a4,Abraham_Lincoln,easy,easy,Did Lincoln ever represent Alton & Sangamon Railroad?
+Yes,S08_set3_a4,Abraham_Lincoln,easy,easy,Did Lincoln ever represent Alton & Sangamon Railroad?
+Hardin County,S08_set3_a4,Abraham_Lincoln,medium,medium,Which county was Lincoln born in?
+"Southeast Hardin County, Kentucky",S08_set3_a4,Abraham_Lincoln,medium,medium,Which county was Lincoln born in?
+"March 4, 1861",S08_set3_a4,Abraham_Lincoln,hard,medium,When did Lincoln first serve as President?
+"March 4, 1861",S08_set3_a4,Abraham_Lincoln,medium,medium,When did Lincoln first serve as President?
+John Wilkes Booth,S08_set3_a4,Abraham_Lincoln,hard,medium,Who assassinated Lincoln?
+John Wilkes Booth,S08_set3_a4,Abraham_Lincoln,hard,medium,Who assassinated Lincoln?
+Yes,S08_set3_a4,Abraham_Lincoln,hard,hard,Did Lincoln win the election of 1860?
+Yes,S08_set3_a4,Abraham_Lincoln,too hard,hard,Did Lincoln win the election of 1860?
+General McClellan,S08_set3_a4,Abraham_Lincoln,medium,hard,Who was the general in charge at the Battle of Antietam?
+John Alexander McClernand,S08_set3_a4,Abraham_Lincoln,medium,hard,Who was the general in charge at the Battle of Antietam?
+To free slaves,S08_set3_a4,Abraham_Lincoln,hard,hard,Why did Lincoln issue the Emancipation Proclamation?
+"The goal was to weaken the rebellion, which was led and controlled by slave owners.",S08_set3_a4,Abraham_Lincoln,hard,hard,Why did Lincoln issue the Emancipation Proclamation?
+,S08_set3_a4,Abraham_Lincoln,,easy,Do scholars rank lincoln among the top three presidents?
+Yes,S08_set3_a4,Abraham_Lincoln,easy,easy,Do scholars rank lincoln among the top three presidents?
+,S08_set3_a4,Abraham_Lincoln,,easy,Did lincoln have 18 months of schooling?
+Yes,S08_set3_a4,Abraham_Lincoln,easy,easy,Did lincoln have 18 months of schooling?
+,S08_set3_a4,Abraham_Lincoln,,easy,Was Lincoln chosen as a presidential candidate in 1860?
+Yes,S08_set3_a4,Abraham_Lincoln,easy,easy,Was Lincoln chosen as a presidential candidate in 1860?
+,S08_set3_a4,Abraham_Lincoln,,medium,How old was Lincoln in 1816?
+seven,S08_set3_a4,Abraham_Lincoln,medium,medium,How old was Lincoln in 1816?
+,S08_set3_a4,Abraham_Lincoln,,medium,When was the first photgraph of lincoln taken?
+1846,S08_set3_a4,Abraham_Lincoln,medium,medium,When was the first photgraph of lincoln taken?
+,S08_set3_a4,Abraham_Lincoln,,medium,How long was Lincoln's legal Career?
+23 years,S08_set3_a4,Abraham_Lincoln,medium,medium,How long was Lincoln's legal Career?
+,S08_set3_a4,Abraham_Lincoln,,hard,What trail did Lincoln use a Farmers' Almanac in?
+"he defended William ""Duff"" Armstrong",S08_set3_a4,Abraham_Lincoln,hard,hard,What trail did Lincoln use a Farmers' Almanac in?
+,S08_set3_a4,Abraham_Lincoln,,hard,Did Abraham Lincoln live in the Frontier?
+Yes,S08_set3_a4,Abraham_Lincoln,medium,hard,Did Abraham Lincoln live in the Frontier?
+,S08_set3_a4,Abraham_Lincoln,,hard,Did Lincoln's Wife's Family support slavery?
+Yes,S08_set3_a4,Abraham_Lincoln,medium,hard,Did Lincoln's Wife's Family support slavery?
+,S08_set4_a10,Alessandro_Volta,,,Volta became professor of physics in the Como high school in what year?
+,S08_set4_a10,Alessandro_Volta,,,What ac phaenomenis inde pendentibus?
+,S08_set4_a10,Alessandro_Volta,,,What may be called Volta's Law of the electrochemical series?
+,S08_set4_a10,Alessandro_Volta,,,Is it true that volta became professor of physics?
+,S08_set4_a10,Alessandro_Volta,,,Is it true that volta entered retirement in spain?
+,S08_set4_a10,Alessandro_Volta,,,When did he become professor?
+,S08_set4_a10,Alessandro_Volta,,,What did Alessandro Volta publish in 1800?
+,S08_set4_a10,Alessandro_Volta,,,Is Volta buried in the city of Como?
+,S08_set4_a10,Alessandro_Volta,,,Is the electrolyte sulphuric acid?
+,S08_set4_a10,Alessandro_Volta,,,
+,S08_set4_a10,Alessandro_Volta,,,
+,S08_set4_a10,Alessandro_Volta,,,
+,S08_set4_a10,Alessandro_Volta,,,NOTTTT  FOUND
+,S08_set4_a10,Alessandro_Volta,,,
+,S08_set4_a10,Alessandro_Volta,,,
+,S08_set4_a10,Alessandro_Volta,,,Are Count Volta 's original instruments and papers on display there ?
+,S08_set4_a10,Alessandro_Volta,,,Is Volta buried in the city of Como ?
+,S08_set4_a10,Alessandro_Volta,,,Was his 1800 paper written in French ?
+,S08_set4_a10,Alessandro_Volta,,,Are Count Volta 's original instruments and papers on display there ?
+,S08_set4_a10,Alessandro_Volta,,,Did he not realize that the frog 's leg served as both a conductor of electricity -LRB- we would now call it an electrolyte -RRB- and as a detector of electricity ?
+,S08_set4_a10,Alessandro_Volta,,,Does this not make the zinc rod the negative electrode and the copper rod the positive electrode ?
+,S08_set4_a10,Alessandro_Volta,,,What happened with $ its invention?
+,S08_set4_a10,Alessandro_Volta,,,HWhat happened at the electromotive force -LRB- emf -RRB- of a galvanic cell?
+,S08_set4_a10,Alessandro_Volta,,,What happened in 1800?
+,S08_set4_a8,Amedeo_Avogadro,,,What was an Italian savant?
+,S08_set4_a8,Amedeo_Avogadro,,,What was an Italian savant?
+Amedeo Avogadro,S08_set4_a8,Amedeo_Avogadro,medium,,Who is most noted for his contributions to the theory of molarity and molecular weight?
+,S08_set4_a8,Amedeo_Avogadro,,,Who is most noted for his contributions to the theory of molarity and molecular weight?
+,S08_set4_a8,Amedeo_Avogadro,,,Who is most noted for his contributions to the theory of molarity and molecular weight?
+Amedeo Avogadro,S08_set4_a8,Amedeo_Avogadro,medium,,Who graduated in ecclesiastical law at the early age of 20 and began to practice?
+blah,S08_set4_a8,Amedeo_Avogadro,easy,,Who graduated in ecclesiastical law at the early age of 20 and began to practice?
+,S08_set4_a8,Amedeo_Avogadro,,,Who graduated in ecclesiastical law at the early age of 20 and began to practice?
+1821,S08_set4_a8,Amedeo_Avogadro,medium,,When did he publish another memoria?
+,S08_set4_a8,Amedeo_Avogadro,,,When did he publish another memoria?
+,S08_set4_a8,Amedeo_Avogadro,,,When did he publish another memoria?
+1820,S08_set4_a8,Amedeo_Avogadro,medium,,When did he become a professor?
+,S08_set4_a8,Amedeo_Avogadro,,,When did he become a professor?
+,S08_set4_a8,Amedeo_Avogadro,,,When did he become a professor?
+yes,S08_set4_a8,Amedeo_Avogadro,easy,,Is it true that he became a professor in 1820?
+,S08_set4_a8,Amedeo_Avogadro,,,Is it true that he became a professor in 1820?
+,S08_set4_a8,Amedeo_Avogadro,,,Is it true that he became a professor in 1820?
+yes,S08_set4_a8,Amedeo_Avogadro,easy,,Was Lorenzo Romano Amedeo Carlo Avogadro an Italian savant?
+,S08_set4_a8,Amedeo_Avogadro,,,Was Lorenzo Romano Amedeo Carlo Avogadro an Italian savant?
+,S08_set4_a8,Amedeo_Avogadro,,,Was Lorenzo Romano Amedeo Carlo Avogadro an Italian savant?
+yes,S08_set4_a8,Amedeo_Avogadro,easy,,"Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?"
+,S08_set4_a8,Amedeo_Avogadro,,,"Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?"
+,S08_set4_a8,Amedeo_Avogadro,,,"Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?"
+yes,S08_set4_a8,Amedeo_Avogadro,easy,,Is he most noted for his contributions to the theory of molarity and molecular weight?
+,S08_set4_a8,Amedeo_Avogadro,,,Is he most noted for his contributions to the theory of molarity and molecular weight?
+,S08_set4_a8,Amedeo_Avogadro,,,Is he most noted for his contributions to the theory of molarity and molecular weight?
+,S08_set4_a8,Amedeo_Avogadro,,,
+,S08_set4_a8,Amedeo_Avogadro,,,
+,S08_set4_a8,Amedeo_Avogadro,,,
+,S08_set4_a8,Amedeo_Avogadro,,,
+,S08_set4_a8,Amedeo_Avogadro,,,
+,S08_set4_a8,Amedeo_Avogadro,,,
+,S08_set4_a8,Amedeo_Avogadro,,,"Who confirm that he sponsored and helped some Sardinian plotters who were organising a revolution in that island , stopped at the very last moment by the concession of Charles Albert 's statute ?"
+,S08_set4_a8,Amedeo_Avogadro,,,"Who confirm that he sponsored and helped some Sardinian plotters who were organising a revolution in that island , stopped at the very last moment by the concession of Charles Albert 's statute ?"
+,S08_set4_a8,Amedeo_Avogadro,,,He is what?
+,S08_set4_a8,Amedeo_Avogadro,,,He is what?
+,S08_set4_a8,Amedeo_Avogadro,,,The unification of Italy did what?
+yes,S08_set4_a8,Amedeo_Avogadro,easy,,Was King Victor Emmanuel III there to pay homage to Avogadro ?
+,S08_set4_a8,Amedeo_Avogadro,,,Was King Victor Emmanuel III there to pay homage to Avogadro ?
+,S08_set4_a8,Amedeo_Avogadro,,,Was King Victor Emmanuel III there to pay homage to Avogadro ?
+yes,S08_set4_a8,Amedeo_Avogadro,easy,,Is Avogadro 's number commonly used to compute the results of chemical reactions ?
+,S08_set4_a8,Amedeo_Avogadro,,,Is Avogadro 's number commonly used to compute the results of chemical reactions ?
+,S08_set4_a8,Amedeo_Avogadro,,,Is Avogadro 's number commonly used to compute the results of chemical reactions ?
+,S08_set4_a8,Amedeo_Avogadro,,,Is it approximately 6.0221415 10 23 ?
+,S08_set4_a8,Amedeo_Avogadro,,,Is it approximately 6.0221415 10 23 ?
+yes,S08_set4_a8,Amedeo_Avogadro,easy,,Did the scientific community not reserve great attention to his theory ?
+,S08_set4_a8,Amedeo_Avogadro,,,Did the scientific community not reserve great attention to his theory ?
+,S08_set4_a8,Amedeo_Avogadro,,,Did the scientific community not reserve great attention to his theory ?
+,S08_set4_a8,Amedeo_Avogadro,,,Does it not allow chemists to determine the exact amounts of substances produced in a given reaction ?
+,S08_set4_a8,Amedeo_Avogadro,,,Does it not allow chemists to determine the exact amounts of substances produced in a given reaction ?
+yes,S08_set4_a8,Amedeo_Avogadro,easy,,Was King Victor Emmanuel III there to pay homage to Avogadro ?
+,S08_set4_a8,Amedeo_Avogadro,,,Was King Victor Emmanuel III there to pay homage to Avogadro ?
+,S08_set4_a8,Amedeo_Avogadro,,,Was King Victor Emmanuel III there to pay homage to Avogadro ?
+yes,S08_set4_a8,Amedeo_Avogadro,easy,,Can the title of this famous 1811 paper be roughly translated into english?
+,S08_set4_a8,Amedeo_Avogadro,,,Can the title of this famous 1811 paper be roughly translated into english?
+,S08_set4_a8,Amedeo_Avogadro,,,Can the title of this famous 1811 paper be roughly translated into english?
+,S08_set4_a8,Amedeo_Avogadro,,,What happened in french?
+,S08_set4_a8,Amedeo_Avogadro,hard,,What happened in french?
+Avogadro had been recalled to Turin university,S08_set4_a8,Amedeo_Avogadro,medium,,What happened in 1833?
+,S08_set4_a8,Amedeo_Avogadro,,,What happened in 1833?
+blah blah blah,S08_set4_a8,Amedeo_Avogadro,hard,,What happened in 1833?
+Anders Celsius,S08_set4_a5,Anders_Celsius,medium,,Who determined the dependence of the boiling of water with atmospheric pressure?
+The Celsius crater on the Moon,S08_set4_a5,Anders_Celsius,medium,,What is named after him?
+1733,S08_set4_a5,Anders_Celsius,easy,,When did he publish a collection?
+No,S08_set4_a5,Anders_Celsius,easy,,Is it true that he published a collection in 1738?
+Yes,S08_set4_a5,Anders_Celsius,easy,,Is it true that thermometer had 100 for the freezing point?
+Yes,S08_set4_a5,Anders_Celsius,easy,,Was Celsius born in Uppsala in Sweden?
+Yes,S08_set4_a5,Anders_Celsius,easy,,"Was Anders Celsius (November 27, 1701 April 25, 1744) a Swedish astronomer?"
+Yes,S08_set4_a5,Anders_Celsius,easy,,Is The Celsius crater on the Moon named after him?
+Anders Celsius,S08_set4_a5,Anders_Celsius,medium,,Who was the first to perform and publish careful experiments aiming at the definition of an international temperature scale on scientific grounds ?
+named after him,S08_set4_a5,Anders_Celsius,medium,,The Celsius crater on the Moon is what?
+Yes,S08_set4_a5,Anders_Celsius,easy,,Is the Celsius crater on the Moon named after him ?
+Yes it had,S08_set4_a5,Anders_Celsius,easy,,Had his thermometer 100 for the freezing point of water and 0 for the boiling point ?
+Yes,S08_set4_a5,Anders_Celsius,easy,,Was Celsius born in Uppsala in Sweden ?
+Yes,S08_set4_a5,Anders_Celsius,easy,,Is the Celsius crater on the Moon named after him ?
+Yes he did,S08_set4_a5,Anders_Celsius,easy,,Did he not determine the dependence of the boiling of water with atmospheric pressure -LRB- in excellent agreement with modern data -RRB- ?
+He was professor of astronomy at Uppsala University,S08_set4_a5,Anders_Celsius,easy,,What happened from 1730 to 1744?
+The scale was reversed,S08_set4_a5,Anders_Celsius,medium,,What happened in 1745?
+Yes,S08_set1_a8,beetle,easy,easy,Are beetles insects?
+Yes,S08_set1_a8,beetle,easy,easy,Are beetles insects?
+No,S08_set1_a8,beetle,hard,easy,Can beetles be found in polar regions?
+No,S08_set1_a8,beetle,easy,easy,Can beetles be found in polar regions?
+Yes,S08_set1_a8,beetle,easy,easy,Do beetles antennae function primarily as organs of smell?
+Yes,S08_set1_a8,beetle,easy,easy,Do beetles antennae function primarily as organs of smell?
+"the head, the thorax, and the abdomen",S08_set1_a8,beetle,medium,medium,What are the three sections of a beetle?
+"The head, the thorax, and the abdomen",S08_set1_a8,beetle,medium,medium,What are the three sections of a beetle?
+mimicry,S08_set1_a8,beetle,easy,medium,Which defense mechanism uses colour or shape to deceive potential enemies?
+Mimicry,S08_set1_a8,beetle,medium,medium,Which defense mechanism uses colour or shape to deceive potential enemies?
+Colorado potato beetle,S08_set1_a8,beetle,easy,medium,Which type of beetle is a pest of potato plants?
+Colorado potato beetle,S08_set1_a8,beetle,medium,medium,Which type of beetle is a pest of potato plants?
+"their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body",S08_set1_a8,beetle,medium,hard,How can beetle larvae be differentiated from other insect larvae?
+"By their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body",S08_set1_a8,beetle,medium,hard,How can beetle larvae be differentiated from other insect larvae?
+"Some are generalists, eating both plants and animals. Other beetles are highly specialised in their diet.",S08_set1_a8,beetle,hard,hard,What do beetles eat?
+"They often feed on plants and fungi, break down animal and plant debris, and eat other invertebrates",S08_set1_a8,beetle,hard,hard,What do beetles eat?
+mouthparts,S08_set1_a8,beetle,medium,hard,What are the similarities between beetles and grasshoppers?
+Beetles have mouthparts similar to those of grasshoppers,S08_set1_a8,beetle,hard,hard,What are the similarities between beetles and grasshoppers?
+Yes,S08_set1_a8,beetle,easy,easy,Are certain species of beetles considered pests?
+yes,S08_set1_a8,beetle,easy,easy,Are certain species of beetles considered pests?
+Yes,S08_set1_a8,beetle,medium,easy,Is a beetle's general anatomy uniform?
+yes,S08_set1_a8,beetle,easy,easy,Is a beetle's general anatomy uniform?
+yes,S08_set1_a8,beetle,easy,easy,Are beetles endopterygotes?
+yes,S08_set1_a8,beetle,easy,easy,Are beetles endopterygotes?
+"350,000",S08_set1_a8,beetle,medium,medium,How many species of beetles are there?
+"about 350,000",S08_set1_a8,beetle,medium,medium,How many species of beetles are there?
+during pairing,S08_set1_a8,beetle,hard,medium,When are sperm cells transferred to the female?
+During pairing,S08_set1_a8,beetle,medium,medium,When are sperm cells transferred to the female?
+coleopterology,S08_set1_a8,beetle,medium,medium,What is the study of beetles called?
+coleopterology,S08_set1_a8,beetle,medium,medium,What is the study of beetles called?
+yes,S08_set1_a8,beetle,hard,hard,"Is it possible that there are more than 350,000 species of beetles?"
+yes,S08_set1_a8,beetle,hard,hard,"Is it possible that there are more than 350,000 species of beetles?"
+no,S08_set1_a8,beetle,hard,hard,Is the Adephaga suborder larger than the Polyphaga suborder?
+yes,S08_set1_a8,beetle,hard,hard,Is the Adephaga suborder larger than the Polyphaga suborder?
+no,S08_set1_a8,beetle,medium,hard,Do carrion beetles eat dung?
+no,S08_set1_a8,beetle,hard,hard,Do carrion beetles eat dung?
+Beetles.,S08_set1_a8,beetle,easy,,What are prey of various animals including birds and mammals?
+"The name ""Coleoptera"".",S08_set1_a8,beetle,easy,,What was given by Aristotle for the hardened shield like forewings?
+Antennae.,S08_set1_a8,beetle,easy,,Who or what vary greatly in form within the coleoptera?
+Yes.,S08_set1_a8,beetle,easy,,Are many beetles territorial?
+Yes.,S08_set1_a8,beetle,easy,,Are beetles endopterygotes with complete metamorphosis?
+One kind of gas obtained via a tracheal system.,S08_set1_a8,beetle,too hard,,Oxygen is what?
+Yes.,S08_set1_a8,beetle,easy,,Is there a thriving industry in the collection of beetle specimens for amateur and professional collectors ?
+Yes.,S08_set1_a8,beetle,easy,,Have coleopterists formed organisations to facilitate the study of beetles ?
+Yes.,S08_set1_a8,beetle,medium,,"Is the study of beetles called coleopterology , and its practitioners are coleopterists ?"
+Yes.,S08_set1_a8,beetle,easy,,May a single female lay from several dozen to several thousand eggs during her lifetime ?
+Yes.,S08_set1_a8,beetle,easy,,Can beetles be found in almost all habitats?
+They are food to beetles.,S08_set1_a8,beetle,hard,,What happened on plants and fungi?
+no,S08_set3_a9,Calvin_Coolidge,easy,easy,Was Calvin Coolidge the twenty-ninth vice president?
+Yes,S08_set3_a9,Calvin_Coolidge,easy,easy,Was Calvin Coolidge the twenty-ninth vice president?
+yes,S08_set3_a9,Calvin_Coolidge,easy,easy,"Was Calvin Coolidge born in Plymouth, Windsor County, Vermont?"
+Yes,S08_set3_a9,Calvin_Coolidge,easy,easy,"Was Calvin Coolidge born in Plymouth, Windsor County, Vermont?"
+yes,S08_set3_a9,Calvin_Coolidge,easy,easy,Did Coolidge graduate from Black River Academy?
+Yes,S08_set3_a9,Calvin_Coolidge,easy,easy,Did Coolidge graduate from Black River Academy?
+upon graduating from college,S08_set3_a9,Calvin_Coolidge,medium,medium,When did he drop John from his name?
+Upon graduating from college,S08_set3_a9,Calvin_Coolidge,medium,medium,When did he drop John from his name?
+1905,S08_set3_a9,Calvin_Coolidge,medium,medium,When did Coolidge meet and marry Grace Anna Goodhue?
+In 1905,S08_set3_a9,Calvin_Coolidge,medium,medium,When did Coolidge meet and marry Grace Anna Goodhue?
+the Roaring Twenties,S08_set3_a9,Calvin_Coolidge,medium,medium,What period of rapid economic growth did the United States experience during Coolidge's presidency?
+"the ""Roaring Twenties""",S08_set3_a9,Calvin_Coolidge,medium,medium,What period of rapid economic growth did the United States experience during Coolidge's presidency?
+"Coolidge moved to Northampton, MassachuS08_setts",S08_set3_a9,Calvin_Coolidge,medium,hard,What did Coolidge do after graduating from Amherst?
+"Coolidge moved to Northampton, MassachuS08_setts to take up the practice of law",S08_set3_a9,Calvin_Coolidge,medium,hard,What did Coolidge do after graduating from Amherst?
+MassachuS08_setts,S08_set3_a9,Calvin_Coolidge,medium,hard,Of what state was Coolidge governor?
+Coolidge,S08_set3_a9,Calvin_Coolidge,medium,hard,Who appointed Harlan Fiske Stone to the Supreme Court?
+Coolidge,S08_set3_a9,Calvin_Coolidge,hard,hard,Who appointed Harlan Fiske Stone to the Supreme Court?
+No,S08_set3_a9,Calvin_Coolidge,easy,easy,Was Coolidge the thirteenth President of the United States?
+Yes,S08_set3_a9,Calvin_Coolidge,easy,easy,Was Coolidge the thirteenth President of the United States?
+Yes,S08_set3_a9,Calvin_Coolidge,easy,easy,Was Calvin Coolidge Republican?
+Yes,S08_set3_a9,Calvin_Coolidge,easy,easy,Was Calvin Coolidge Republican?
+Yes,S08_set3_a9,Calvin_Coolidge,medium,easy,Was Calvin Coolidge a governor of MassachuS08_setts?
+Yes,S08_set3_a9,Calvin_Coolidge,medium,easy,Was Calvin Coolidge a governor of MassachuS08_setts?
+July 4 1872,S08_set3_a9,Calvin_Coolidge,medium,medium,When was Coolidge born?
+"Plymouth, Windsor County, Vermont",S08_set3_a9,Calvin_Coolidge,easy,medium,When was Coolidge born?
+Plymouth,S08_set3_a9,Calvin_Coolidge,medium,medium,Where did Coolidge's grandfather had government offices?
+The town of Plymouth Notch,S08_set3_a9,Calvin_Coolidge,hard,medium,Where did Coolidge's grandfather had government offices?
+"Plymouth, Windsor County, Vermont",S08_set3_a9,Calvin_Coolidge,medium,medium,Which state were Coolidge born in?
+Vermont,S08_set3_a9,Calvin_Coolidge,medium,medium,Which state were Coolidge born in?
+No,S08_set3_a9,Calvin_Coolidge,hard,hard,Is Calvin Jr. older than John Coolidge?
+No,S08_set3_a9,Calvin_Coolidge,hard,hard,Is Calvin Jr. older than John Coolidge?
+Yes,S08_set3_a9,Calvin_Coolidge,medium,hard,Did Coolidge get in Amherst College?
+Yes,S08_set3_a9,Calvin_Coolidge,hard,hard,Did Coolidge get in Amherst College?
+heart attack,S08_set3_a9,Calvin_Coolidge,hard,hard,What caused Calvin Jr.'s death?
+Heart attack,S08_set3_a9,Calvin_Coolidge,easy,hard,What caused Calvin Jr.'s death?
+No,S08_set3_a9,Calvin_Coolidge,easy,easy,Was John Calvin Coolidge Jr. was born in Las Vegas?
+no,S08_set3_a9,Calvin_Coolidge,easy,easy,Was John Calvin Coolidge Jr. was born in Las Vegas?
+Yes,S08_set3_a9,Calvin_Coolidge,medium,easy,Was Coolidge opposed in the Republican nomination for Governor of MassachuS08_setts in 1918?
+no,S08_set3_a9,Calvin_Coolidge,hard,easy,Was Coolidge opposed in the Republican nomination for Governor of MassachuS08_setts in 1918?
+Yes,S08_set3_a9,Calvin_Coolidge,easy,easy,Did Coolidge meet and marry Grace Anna Goodhue?
+yes,S08_set3_a9,Calvin_Coolidge,easy,easy,Did Coolidge meet and marry Grace Anna Goodhue?
+1898,S08_set3_a9,Calvin_Coolidge,medium,medium,What year did Coolidge open his own law office?
+1898,S08_set3_a9,Calvin_Coolidge,easy,medium,What year did Coolidge open his own law office?
+Phi Gamma Delta,S08_set3_a9,Calvin_Coolidge,medium,medium,What fraternity was Coolidge a member of?
+phi gamma delta,S08_set3_a9,Calvin_Coolidge,medium,medium,What fraternity was Coolidge a member of?
+Grace Anna Goodhue,S08_set3_a9,Calvin_Coolidge,medium,medium,In 1905 Coolidge met and married whom?
+Grace Anna Goodhue,S08_set3_a9,Calvin_Coolidge,medium,medium,In 1905 Coolidge met and married whom?
+It was too expensive,S08_set3_a9,Calvin_Coolidge,hard,hard,Why did Coolidge not attend law school?
+cost,S08_set3_a9,Calvin_Coolidge,too hard,hard,Why did Coolidge not attend law school?
+No,S08_set3_a9,Calvin_Coolidge,medium,hard,Have there been other US presidents that have visited Cuba?
+no,S08_set3_a9,Calvin_Coolidge,medium,hard,Have there been other US presidents that have visited Cuba?
+1906 and 1908,S08_set3_a9,Calvin_Coolidge,medium,hard,What years were Coolidge's two sons born in?
+1906 and 1908,S08_set3_a9,Calvin_Coolidge,medium,hard,What years were Coolidge's two sons born in?
+,S08_set3_a9,Calvin_Coolidge,,,What thrust him into the national spotlight?
+,S08_set3_a9,Calvin_Coolidge,,,What to be born on the fourth of July?
+,S08_set3_a9,Calvin_Coolidge,,,Who was the elder of two children of John Calvin Sr and Victoria Coolidge?
+,S08_set3_a9,Calvin_Coolidge,,,Who or what placed as high as sixth in the voting?
+,S08_set3_a9,Calvin_Coolidge,,,Is it true that he appointed stone to the supreme court?
+,S08_set3_a9,Calvin_Coolidge,,,What do well - received and he have in common?
+,S08_set3_a9,Calvin_Coolidge,,,What did Coolidge address in 1924?
+,S08_set3_a9,Calvin_Coolidge,,,Was Coolidge more outspoken?
+,S08_set3_a9,Calvin_Coolidge,,,Was Coolidge admitted to the bar?
+,S08_set3_a9,Calvin_Coolidge,,,What emigrated from Cambridge?
+,S08_set3_a9,Calvin_Coolidge,,,What graduated from Black?
+,S08_set3_a9,Calvin_Coolidge,,,What Retrieved on May?
+,S08_set3_a9,Calvin_Coolidge,,,He later what?
+,S08_set3_a9,Calvin_Coolidge,,,They were what?
+,S08_set3_a9,Calvin_Coolidge,,,The Republicans retained what?
+,S08_set3_a9,Calvin_Coolidge,,,"(NNP Harding #)(NNP Death )))(PP (IN in )(NP (NP (NN office ))(PP (IN for )(NP (DT a )(JJ full )(NN description )(NNP Vice )(NNP President )(person (NNP Coolidge ))))))))(VP (VP (VBD was )(VP (VBG visiting )(NP (PRP$ his )(NN family )(NN home ))))(, , )(SBAR (WHNP (WDT which ))(S (VP (VBD did )(RB not )(VP (VB have )(NP (NP (NN electricity ))(CC or )(NP (DT a )(NN telephone )))(, , )(PP (IN in )(NP (location (NNP Vermont ))))(SBAR (WHADVP (WRB when ))(S (NP (PRP he ))(VP (VBD received )(NP (NP (NN word ))(PP (IN of )(NP (NP (NNP Harding )(POS 's ))(NN death ))))))))))))))(. . )))"
+,S08_set3_a9,Calvin_Coolidge,,,
+,S08_set3_a9,Calvin_Coolidge,,,
+,S08_set3_a9,Calvin_Coolidge,,,Was 364 Stone later appointed Chief Justice by President Franklin D. Roosevelt ?
+,S08_set3_a9,Calvin_Coolidge,,,"Did Coolidge not publish his autobiography in 1929 and write a syndicated newspaper column , `` Calvin Coolidge Says , '' from 1930 -- 1931 ?"
+,S08_set3_a9,Calvin_Coolidge,,,"Were the more well-known Coolidges , such as architect Charles Allerton Coolidge , and diplomat Archibald Cary Coolidge , descended from other branches of the family that had stayed in MassachuS08_setts ?"
+,S08_set3_a9,Calvin_Coolidge,,,Is the genius of the average the most convincing proof of $ his strength?
+,S08_set3_a9,Calvin_Coolidge,,,What happened from tuberculosis?
+,S08_set3_a9,Calvin_Coolidge,,,"What happened from black river academy , vermont?"
+Yes.,S08_set2_a8,Canada,easy,easy,Did France cede nearly all of its colonies in Europe in 1763?
+yes,S08_set2_a8,Canada,easy,easy,Did France cede nearly all of its colonies in Europe in 1763?
+,S08_set2_a8,Canada,,easy,Did France cede nearly all of its colonies in Europe in 1763?
+Yes.,S08_set2_a8,Canada,easy,easy,Is Canada a member of the OECD?
+yes,S08_set2_a8,Canada,easy,easy,Is Canada a member of the OECD?
+,S08_set2_a8,Canada,,easy,Is Canada a member of the OECD?
+No.,S08_set2_a8,Canada,easy,easy,Is Canada's official language Zulu?
+no,S08_set2_a8,Canada,easy,easy,Is Canada's official language Zulu?
+,S08_set2_a8,Canada,,easy,Is Canada's official language Zulu?
+Chinese.,S08_set2_a8,Canada,medium,medium,What is one significant non-official language?
+Chinese,S08_set2_a8,Canada,medium,medium,What is one significant non-official language?
+,S08_set2_a8,Canada,,medium,What is one significant non-official language?
+Quebec City,S08_set2_a8,Canada,medium,medium,"In addition to Port Royal, where else did Samuel de Champlain establish a S08_settlement?"
+,S08_set2_a8,Canada,,medium,"In addition to Port Royal, where else did Samuel de Champlain establish a S08_settlement?"
+The British North America Act.,S08_set2_a8,Canada,hard,medium,What was the Consitution Act formerly called?
+British North America Act,S08_set2_a8,Canada,medium,medium,What was the Consitution Act formerly called?
+,S08_set2_a8,Canada,,medium,What was the Consitution Act formerly called?
+France and Britain.,S08_set2_a8,Canada,hard,hard,Which countries established colonies in Canada?
+Fance and Britain,S08_set2_a8,Canada,hard,hard,Which countries established colonies in Canada?
+,S08_set2_a8,Canada,,hard,Which countries established colonies in Canada?
+"During the Suez Crisis of 1956, Lester B. Pearson eased tensions by proposing the inception of the United Nations Peacekeeping Force. Canada has since served in 50 peacekeeping missions, including every UN peacekeeping effort until 1989",S08_set2_a8,Canada,medium,hard,How has Canada helped UN peacekeeping efforts?
+"Canada has played a leading role in UN peacekeeping efforts. During the Suez Crisis of 1956, Lester B. Pearson eased tensions by proposing the inception of the United Nations Peacekeeping Force. Canada has since served in 50 peacekeeping missions, including every UN peacekeeping effort until 1989",S08_set2_a8,Canada,hard,hard,How has Canada helped UN peacekeeping efforts?
+,S08_set2_a8,Canada,,hard,How has Canada helped UN peacekeeping efforts?
+28%,S08_set2_a8,Canada,too hard,hard,What percentage of the population don't speak English or French at home?
+1.5%,S08_set2_a8,Canada,hard,hard,What percentage of the population don't speak English or French at home?
+,S08_set2_a8,Canada,,hard,What percentage of the population don't speak English or French at home?
+Yes.,S08_set2_a8,Canada,easy,easy,Is Canada bilingual?
+"Yes, it is.",S08_set2_a8,Canada,easy,easy,Is Canada bilingual?
+Yes,S08_set2_a8,Canada,easy,easy,Did Canadian soldiers win the Battle of Vimy Ridge in 1917?
+"No, it did not.",S08_set2_a8,Canada,hard,easy,Did Canadian soldiers win the Battle of Vimy Ridge in 1917?
+No.,S08_set2_a8,Canada,easy,easy,Is an official language of Canada German?
+"No, it is not.",S08_set2_a8,Canada,easy,easy,Is an official language of Canada German?
+A federation now comprising ten provinces and three territories,S08_set2_a8,Canada,medium,medium,How many provinces and territories does Canada have?
+Ten provinces and three territories,S08_set2_a8,Canada,medium,medium,How many provinces and territories does Canada have?
+"While as of October 2007, Canada's national unemployment rate of 5.9% is its lowest in 33 years. Provincial unemployment rates vary from a low of 3.6% in Alberta to a high of 14.6% in Newfoundland and Labrador.",S08_set2_a8,Canada,medium,medium,What is Canada's national unemployment rate?
+"In October 2007, Canada's national unemployment rate is 5.9%.",S08_set2_a8,Canada,medium,medium,What is Canada's national unemployment rate?
+The most densely populated part of the country is the Quebec City-Windsor Corridor along the Great Lakes and Saint Lawrence River in the southeast.,S08_set2_a8,Canada,medium,medium,Where is the most densely populated part of Canada?
+The most densely populated part of the country is the Quebec City-Windsor Corridor along the Great Lakes and Saint Lawrence River in the southeast.,S08_set2_a8,Canada,medium,medium,Where is the most densely populated part of Canada?
+"Canada is the second largest country in the world, after Russia, and largest on the continent.",S08_set2_a8,Canada,medium,hard,What is the largest country in the world?
+Russia.,S08_set2_a8,Canada,hard,hard,What is the largest country in the world?
+"According to 2001 census, 77.1% of Canadians identified as being Christians; of this, Catholics make up the largest group (43.6% of Canadians). The largest Protestant denomination is the United Church of Canada; about 16.5% of Canadians declare no religious affiliation, and the remaining 6.3% were affiliated with religions other than Christianity, of which the largest is Islam numbering 1.9%, followed by Judaism: 1.1%.",S08_set2_a8,Canada,hard,hard,What is the largest religious group in Canada?
+Christian,S08_set2_a8,Canada,hard,hard,What is the largest religious group in Canada?
+1944.,S08_set2_a8,Canada,hard,hard,When did Canada have one of the largest armed forces in the world?
+World War II.,S08_set2_a8,Canada,hard,hard,When did Canada have one of the largest armed forces in the world?
+The lands,S08_set2_a8,Canada,easy,,What have been inhabited for millennia by aboriginal peoples?
+1545,S08_set2_a8,Canada,easy,,European books and maps began referring to this region as Canada in what year?
+The fur trade,S08_set2_a8,Canada,easy,,What was Canada's most important industry until the 1800s?
+yes,S08_set2_a8,Canada,easy,,Is it true that it angered many residents of the thirteen colonies?
+Canada maintains full relations with both.,S08_set2_a8,Canada,easy,,How do cuba and declining participation relate?
+yes,S08_set2_a8,Canada,easy,,Is it true that provinces have a large degree of autonomy?
+The Maple Leaf Flag,S08_set2_a8,Canada,medium,,What did Canada adopt in 1965?
+The first Canadian Army units in WW II,S08_set2_a8,Canada,easy,,What arrived in Britain?
+yes,S08_set2_a8,Canada,easy,,Are Canada 's two official languages English and French ?
+yes,S08_set2_a8,Canada,easy,,Are Canada 's official national sports ice hockey ( winter ) and lacrosse ( summer ) ?
+yes,S08_set2_a8,Canada,easy,,Is Canada a geographically vast and ethnically diverse country ?
+no!,S08_set2_a8,Canada,easy,,Did Mainland Nova Scotia not come under British rule with the Treaty of Utrecht    (: ; ?
+yes,S08_set2_a8,Canada,easy,,"Did Cartier not use the word ` Canada ' to refer to not only that village , but the entire area subject to Donnacona , Chief at Stadacona ?"
+no,S08_set2_a8,Canada,easy,,Did continental European immigrants not S08_settle the prairies ?
+yes,S08_set2_a8,Canada,easy,,Is it the world 's second largest country by total area?
+"Canada was formed as a federal, semi-autonomous polity",S08_set2_a8,Canada,easy,,What happened in 1867?
+Some are,S08_set1_a10,duck,medium,easy,Are ducks in the Arctic Northern Hemisphere migratory?
+yes,S08_set1_a10,duck,easy,easy,Are ducks in the Arctic Northern Hemisphere migratory?
+Yes,S08_set1_a10,duck,medium,easy,Is a drake a male?
+yes,S08_set1_a10,duck,easy,easy,Is a drake a male?
+No,S08_set1_a10,duck,medium,easy,"Do all ducks ""quack""?"
+no,S08_set1_a10,duck,easy,easy,"Do all ducks ""quack""?"
+the smew,S08_set1_a10,duck,medium,medium,What is the name of a specialized species of duck adapted to catch large fish?
+The duck,S08_set1_a10,duck,medium,medium,What animal attracts the most humor and silliness?
+the duck,S08_set1_a10,duck,medium,medium,What animal attracts the most humor and silliness?
+Meat,S08_set1_a10,duck,medium,medium,What is an economic use of a duck?
+being farmed for their meat,S08_set1_a10,duck,medium,medium,What is an economic use of a duck?
+A silly cartoon character,S08_set1_a10,duck,hard,hard,Who is Daffy Duck?
+a silly cartoon character,S08_set1_a10,duck,medium,hard,Who is Daffy Duck?
+They are heavier,S08_set1_a10,duck,hard,hard,What makes it more difficult for a diving duck to fly?
+they are heavier,S08_set1_a10,duck,hard,hard,What makes it more difficult for a diving duck to fly?
+"Meat, eggs, and feathers",S08_set1_a10,duck,too hard,hard,What are the reasons for hunting wild ducks?
+yes,S08_set1_a10,duck,easy,easy,Do ducks forage underwater?
+Diving ducks and sea ducks forage underwater,S08_set1_a10,duck,hard,easy,Do ducks forage underwater?
+no,S08_set1_a10,duck,medium,easy,"Do all ducks ""quack""?"
+No,S08_set1_a10,duck,easy,easy,"Do all ducks ""quack""?"
+yes,S08_set1_a10,duck,easy,easy,Is foie gras often made from ducks?
+Yes,S08_set1_a10,duck,easy,easy,Is foie gras often made from ducks?
+"They are farmed for their meat, eggs and feathers. They are also kept and bred by aviculturists and often displayed in zoos.",S08_set1_a10,duck,medium,medium,What economic uses to ducks have?
+"They can be farmed for meat, eggs, and feathers",S08_set1_a10,duck,hard,medium,What economic uses to ducks have?
+Dabbling ducks,S08_set1_a10,duck,easy,medium,What kind of ducks feed on land?
+Dabbling ducks feed on land,S08_set1_a10,duck,medium,medium,What kind of ducks feed on land?
+"loons or divers, grebes, gallinules, and coots",S08_set1_a10,duck,easy,medium,What unrelated water birds are ducks sometimes confused with?
+"loons or divers, grebes, gallinules, and coots",S08_set1_a10,duck,medium,medium,What unrelated water birds are ducks sometimes confused with?
+It is the common name for a number of species in the Anatidae family of birds.,S08_set1_a10,duck,hard,hard,What does the word duck mean?
+to bend down low as if to get under something,S08_set1_a10,duck,hard,hard,What does the word duck mean?
+"Pike, crocodilians, herons, hawks and eagles.",S08_set1_a10,duck,hard,hard,What are some common predators of ducks?
+"pike, crocodilians, and other aquatic hunters",S08_set1_a10,duck,hard,hard,What are some common predators of ducks?
+"It's tongue is a flat plate, and on the tongue's back end is a short liftable flap with about 18 short spikes for pushing struggling prey and other food down its throat",S08_set1_a10,duck,hard,hard,How does a Mallard's tongue work?
+It uses short spikes to push struggling prey and other food down its throat,S08_set1_a10,duck,hard,hard,How does a Mallard's tongue work?
+Yes,S08_set1_a10,duck,easy,easy,Are diving ducks heavier tha dabbling ducks?
+Yes,S08_set1_a10,duck,easy,easy,Are diving ducks heavier tha dabbling ducks?
+Yes,S08_set1_a10,duck,easy,easy,Are adult ducks fast fliers?
+Yes,S08_set1_a10,duck,easy,easy,Are adult ducks fast fliers?
+Yes,S08_set1_a10,duck,easy,easy,Are ducks an accepted presence in some populated areas?
+Yes,S08_set1_a10,duck,easy,easy,Are ducks an accepted presence in some populated areas?
+"loons or divers, grebes, gallinules, and coots",S08_set1_a10,duck,medium,medium,What types of unrelated water birds with similar forms are ducks sometimes confused with?
+"loons or divers, grebes, gallinules, and coots",S08_set1_a10,duck,medium,medium,What types of unrelated water birds with similar forms are ducks sometimes confused with?
+Their inability to fly.,S08_set1_a10,duck,medium,medium,Why are ducklings particularly vulnerable?
+their inability to fly makes them easy prey,S08_set1_a10,duck,medium,medium,Why are ducklings particularly vulnerable?
+"Meat,eggs,feathers",S08_set1_a10,duck,medium,medium,What are some economic uses for duck?
+"being farmed for their meat, eggs, feathers, (particularly their down)",S08_set1_a10,duck,medium,medium,What are some economic uses for duck?
+Tiny rows of plates called lamellae,S08_set1_a10,duck,hard,hard,What allows a duck to filter water out of the side of their beaks and keep food inside?
+tiny rows of plates called lamellae like a whale's baleen,S08_set1_a10,duck,hard,hard,What allows a duck to filter water out of the side of their beaks and keep food inside?
+Quacks like a duck,S08_set1_a10,duck,hard,hard,What expression is part of a conceptual framework for testing computer systems?
+Quacks like a duck,S08_set1_a10,duck,hard,hard,What expression is part of a conceptual framework for testing computer systems?
+"In many areas, wild duckof various species (including ducks farmed and released into the wild) are hunted for food or sport, by shooting, or formerly by decoys.",S08_set1_a10,duck,hard,hard,"Where did the expression ""a sitting duck"" come from?"
+"In many areas, wild ducks of various species (including ducks farmed and released into the wild) are hunted for food or sport, by shooting, or formerly by decoys.",S08_set1_a10,duck,hard,hard,"Where did the expression ""a sitting duck"" come from?"
+yes,S08_set2_a6,Egypt,easy,easy,Is Egypt bordered by the Gaza Strip?
+Yes,S08_set2_a6,Egypt,medium,easy,Is Egypt bordered by the Gaza Strip?
+no,S08_set2_a6,Egypt,medium,easy,Is Egypt the most populated country in Africa?
+No,S08_set2_a6,Egypt,easy,easy,Is Egypt the most populated country in Africa?
+yes,S08_set2_a6,Egypt,easy,easy,Does Egypt have political influence in the Middle East?
+Yes,S08_set2_a6,Egypt,medium,easy,Does Egypt have political influence in the Middle East?
+1967,S08_set2_a6,Egypt,easy,medium,When was the Six Day War?
+1967,S08_set2_a6,Egypt,medium,medium,When was the Six Day War?
+"All but Christianity, Islam, and Judaism",S08_set2_a6,Egypt,hard,medium,What religions has Egypt outlawed?
+"all religions and belief except Islam, Christianity and Judaism",S08_set2_a6,Egypt,medium,medium,What religions has Egypt outlawed?
+more than 78 million,S08_set2_a6,Egypt,easy,medium,What is the poulation of Egypt?
+78 million people,S08_set2_a6,Egypt,hard,medium,What is the poulation of Egypt?
+"the only arable agricultural land is found there,",S08_set2_a6,Egypt,medium,hard,Why does most of Egypt's population live near the Nile?
+The only arable agricultural land is found there,S08_set2_a6,Egypt,hard,hard,Why does most of Egypt's population live near the Nile?
+no,S08_set2_a6,Egypt,medium,hard,Are there a large number of Jews living in Egypt today?
+No,S08_set2_a6,Egypt,hard,hard,Are there a large number of Jews living in Egypt today?
+The New Kingdom (c.1550&#8722;1070 BC),S08_set2_a6,Egypt,hard,hard,During what period was Akhenaten a Pharaoh?
+The New Kingdom,S08_set2_a6,Egypt,hard,hard,During what period was Akhenaten a Pharaoh?
+No.,S08_set2_a6,Egypt,easy,easy,Is Egypt in Asia?
+Yes.,S08_set2_a6,Egypt,easy,easy,Does Egypt receive the least rainfall in the world?
+Yes,S08_set2_a6,Egypt,easy,easy,Does Egypt receive the least rainfall in the world?
+Yes.,S08_set2_a6,Egypt,easy,easy,Does Egypt's foreign policy operates along moderate lines?
+Yes,S08_set2_a6,Egypt,easy,easy,Does Egypt's foreign policy operates along moderate lines?
+June 18 1953.,S08_set2_a6,Egypt,medium,medium,Since when has Egypt been a republic?
+June 18 1953,S08_set2_a6,Egypt,medium,medium,Since when has Egypt been a republic?
+During the Old Kingdom.,S08_set2_a6,Egypt,medium,medium,When were the Great Sphinx and the Pyramids of Giza built?
+During the Old Kingdom,S08_set2_a6,Egypt,medium,medium,When were the Great Sphinx and the Pyramids of Giza built?
+"Libya, Sudan, the Gaza Strip and Israel.",S08_set2_a6,Egypt,hard,medium,What countries border Egypt?
+"Libya, Sudan, the Gaza Strip and Israel",S08_set2_a6,Egypt,hard,medium,What countries border Egypt?
+More than 78 million.,S08_set2_a6,Egypt,hard,hard,What is the estimated population of Egypt?
+78 million,S08_set2_a6,Egypt,hard,hard,What is the estimated population of Egypt?
+Yes.,S08_set2_a6,Egypt,hard,hard,Does snow fall in Egypt?
+Yes,S08_set2_a6,Egypt,hard,hard,Does snow fall in Egypt?
+6000 BC.,S08_set2_a6,Egypt,medium,hard,When did organized agriculture appear in the Nile Valley?
+About 6000 BC,S08_set2_a6,Egypt,medium,hard,When did organized agriculture appear in the Nile Valley?
+yes,S08_set1_a5,elephant,easy,easy,Are elephants the largest land animals alive today?
+yes,S08_set1_a5,elephant,easy,easy,Are elephants the largest land animals alive today?
+yes,S08_set1_a5,elephant,hard,easy,Can an elephant kill a rhinoceros?
+yes,S08_set1_a5,elephant,easy,easy,Can an elephant kill a rhinoceros?
+yes,S08_set1_a5,elephant,easy,easy,Are elephants good swimmers?
+yes,S08_set1_a5,elephant,easy,easy,Are elephants good swimmers?
+2,S08_set1_a5,elephant,hard,medium,How many living species of African Elephants are there?
+"The African Elephant genus contains two (or, arguably, three) living species.",S08_set1_a5,elephant,medium,medium,How many living species of African Elephants are there?
+70 years,S08_set1_a5,elephant,medium,medium,How long may elephants live?
+"As long as 70 years, sometimes longer.",S08_set1_a5,elephant,medium,medium,How long may elephants live?
+it refers literally to elephants supposedly having an excellent memory,S08_set1_a5,elephant,hard,medium,Why does the phrase 'elephants never forget' have no metaphorical meaning?
+Because it refers literally to elephants supposedly having an excellent memory.,S08_set1_a5,elephant,medium,medium,Why does the phrase 'elephants never forget' have no metaphorical meaning?
+1,S08_set1_a5,elephant,hard,hard,How many living species of Asian Elephants are there?
+one,S08_set1_a5,elephant,medium,hard,How many living species of Asian Elephants are there?
+120 kilograms,S08_set1_a5,elephant,medium,hard,How much do elephants weight at birth?
+At birth it is common for an elephant calf to weigh 120 kilograms (265 lb).,S08_set1_a5,elephant,medium,hard,How much do elephants weight at birth?
+the beast which pasS08_seth all others in wit and mind,S08_set1_a5,elephant,hard,hard,What did Aristotle say about elephants?
+"Aristotle once said the elephant was ""the beast which pasS08_seth all others in wit and mind.""",S08_set1_a5,elephant,medium,hard,What did Aristotle say about elephants?
+yes,S08_set1_a5,elephant,easy,easy,Are elephant populations in West Africa generally small and fragmented?
+Yes,S08_set1_a5,elephant,easy,easy,Are elephant populations in West Africa generally small and fragmented?
+no,S08_set1_a5,elephant,easy,easy,Is the Asian elephant larger than the African?
+Sometimes,S08_set1_a5,elephant,too hard,easy,Is the Asian elephant larger than the African?
+yes,S08_set1_a5,elephant,easy,easy,Is an elephant's skin tough?
+Yes,S08_set1_a5,elephant,easy,easy,Is an elephant's skin tough?
+by producing and receiving low frequency sound,S08_set1_a5,elephant,medium,medium,How do elephants communicate over long distances?
+By producing and receiving low-frequency sound (infrasound),S08_set1_a5,elephant,medium,medium,How do elephants communicate over long distances?
+when they are sick or wounded,S08_set1_a5,elephant,medium,medium,When do African elephants lie down?
+22 months,S08_set1_a5,elephant,medium,medium,How long is the elephant's gestation period?
+22 months,S08_set1_a5,elephant,medium,medium,How long is the elephant's gestation period?
+three,S08_set1_a5,elephant,hard,hard,How many species of African elephants have been proposed?
+three,S08_set1_a5,elephant,hard,hard,How many species of African elephants have been proposed?
+temperature regulation,S08_set1_a5,elephant,medium,hard,What are the elephant's ears important for?
+temperature regulation,S08_set1_a5,elephant,hard,hard,What are the elephant's ears important for?
+elephant,S08_set1_a5,elephant,medium,hard,What land animal has the largest brain?
+The elephant,S08_set1_a5,elephant,hard,hard,What land animal has the largest brain?
+yes,S08_set1_a5,elephant,easy,easy,Are elephants mammals?
+Yes,S08_set1_a5,elephant,easy,easy,Are elephants mammals?
+yes,S08_set1_a5,elephant,easy,easy,Have elephants been used as working animals?
+Yes,S08_set1_a5,elephant,easy,easy,Have elephants been used as working animals?
+Yes,S08_set1_a5,elephant,easy,easy,Do they prefer forested areas?
+Yes,S08_set1_a5,elephant,easy,easy,Do they prefer forested areas?
+60000,S08_set1_a5,elephant,medium,medium,What is the world population of Asian elephants?
+"The world population of Asian elephants – also called Indian Elephants or Elephas maximus – is estimated to be around 60,000",S08_set1_a5,elephant,medium,medium,What is the world population of Asian elephants?
+Ears,S08_set1_a5,elephant,medium,medium,What part of an elephant is very important for temperature regulation?
+The large flapping ears of an elephant are also very important for temperature regulation.,S08_set1_a5,elephant,medium,medium,What part of an elephant is very important for temperature regulation?
+Angola,S08_set1_a5,elephant,medium,medium,Where was the largest elephant ever recorded shot?
+The largest elephant ever recorded was shot in Angola in 1956.,S08_set1_a5,elephant,medium,medium,Where was the largest elephant ever recorded shot?
+yes,S08_set1_a5,elephant,hard,hard,Is an Asian elephant smaller than an African elephant?
+Yes,S08_set1_a5,elephant,easy,hard,Is an Asian elephant smaller than an African elephant?
+None,S08_set1_a5,elephant,hard,hard,What land animal is larger than an elephant?
+"None, the elephant is the largest land animal.",S08_set1_a5,elephant,hard,hard,What land animal is larger than an elephant?
+No,S08_set1_a5,elephant,hard,hard,Has tusklessness become a rare abnormality?
+"No, tusklessness has become a widespread hereditary trait.",S08_set1_a5,elephant,hard,hard,Has tusklessness become a rare abnormality?
+no,S08_set2_a4,Finland,easy,easy,Were the treaties signed in 1947 and 1948 with the Ukraine?
+No,S08_set2_a4,Finland,easy,easy,Were the treaties signed in 1947 and 1948 with the Ukraine?
+yes,S08_set2_a4,Finland,easy,easy,Is Finnish a member of the Baltic-Finnic subgroup of the Uralic languages?
+Yes,S08_set2_a4,Finland,easy,easy,Is Finnish a member of the Baltic-Finnic subgroup of the Uralic languages?
+no,S08_set2_a4,Finland,easy,easy,Is the most read newspaper in Finland Taloussanomat?
+No,S08_set2_a4,Finland,easy,easy,Is the most read newspaper in Finland Taloussanomat?
+Alexander I,S08_set2_a4,Finland,hard,medium,Which Russian army general conquered Finland in 1809?
+Alexander I,S08_set2_a4,Finland,medium,medium,Which Russian army general conquered Finland in 1809?
+75 years,S08_set2_a4,Finland,medium,medium,What is the life expectancy for men in Finland?
+75 years,S08_set2_a4,Finland,medium,medium,What is the life expectancy for men in Finland?
+1952,S08_set2_a4,Finland,medium,medium,"In what year were the ""Games of the XV Olympiad"" held?"
+1952,S08_set2_a4,Finland,medium,medium,"In what year were the ""Games of the XV Olympiad"" held?"
+the Gulf of Finland,S08_set2_a4,Finland,hard,hard,What body of water lies to the south of Finland?
+Archipelago Sea,S08_set2_a4,Finland,hard,hard,What body of water lies to the south of Finland?
+"Golden Eagle, Brown Bear, or Eurasian Lynx (Change imperative to interrogative)",S08_set2_a4,Finland,hard,hard,Name an animal that is growing in number due to recent conservation efforts
+Golden Eagle,S08_set2_a4,Finland,hard,hard,Name an animal that is growing in number due to recent conservation efforts
+yes,S08_set2_a4,Finland,too hard,hard,"Today, are there more cell phone subscriptions than people in Finland?"
+Yes,S08_set2_a4,Finland,hard,hard,"Today, are there more cell phone subscriptions than people in Finland?"
+yes,S08_set2_a4,Finland,easy,easy,Is Matti Vanhanen the Prime Minister of Finland?
+Yes,S08_set2_a4,Finland,easy,easy,Is Matti Vanhanen the Prime Minister of Finland?
+no,S08_set2_a4,Finland,easy,easy,Is the capital city Oslo?
+No,S08_set2_a4,Finland,easy,easy,Is the capital city Oslo?
+yes,S08_set2_a4,Finland,medium,easy,Does it have a border with Norway?
+Yes,S08_set2_a4,Finland,easy,easy,Does it have a border with Norway?
+75 years,S08_set2_a4,Finland,medium,medium,What is the life expectancy for men?
+75 years,S08_set2_a4,Finland,medium,medium,What is the life expectancy for men?
+Greater Helsinki,S08_set2_a4,Finland,hard,medium,What is the biggest city in Finland?
+the cities of the Greater Helsinki metropolitan area,S08_set2_a4,Finland,hard,medium,What is the biggest city in Finland?
+CMX,S08_set2_a4,Finland,medium,medium,Who is the most popular rock group in Finland?
+CMX,S08_set2_a4,Finland,hard,medium,Who is the most popular rock group in Finland?
+"a highly industrialised, free-market economy",S08_set2_a4,Finland,medium,hard,What is Finland's economy like?
+Northern Europe,S08_set2_a4,Finland,medium,hard,Where is Finland located?
+Northern Europe,S08_set2_a4,Finland,hard,hard,Where is Finland located?
+relatively warm,S08_set2_a4,Finland,medium,hard,What is the weather like in summer?
+relatively warm,S08_set2_a4,Finland,medium,hard,What is the weather like in summer?
+Yes,S08_set2_a4,Finland,easy,easy,Does salmon remain the favorite of fly rod enthusiasts?
+Yes,S08_set2_a4,Finland,easy,easy,Does salmon remain the favorite of fly rod enthusiasts?
+Yes,S08_set2_a4,Finland,easy,easy,Are there cathedrals scattered all across Finland?
+Yes,S08_set2_a4,Finland,easy,easy,Are there cathedrals scattered all across Finland?
+Yes,S08_set2_a4,Finland,easy,easy,"According to Reader's Digest, is Finland best for living?"
+Yes,S08_set2_a4,Finland,easy,easy,"According to Reader's Digest, is Finland best for living?"
+Twelfth Century,S08_set2_a4,Finland,medium,medium,When did the first verifiable written documents appear?
+The first verifiable written documents appeared in the twelfth century.,S08_set2_a4,Finland,medium,medium,When did the first verifiable written documents appear?
+Helsinki,S08_set2_a4,Finland,medium,medium,What is the capital city?
+The capital city is Helsinki.,S08_set2_a4,Finland,medium,medium,What is the capital city?
+Christmas,S08_set2_a4,Finland,medium,medium,What is the most extensively celebrated holiday?
+Christmas is the most extensively celebrated holiday.,S08_set2_a4,Finland,medium,medium,What is the most extensively celebrated holiday?
+No,S08_set2_a4,Finland,hard,hard,Does a large proportion of the population speak Swedish as its mother tongue?
+Yes,S08_set2_a4,Finland,hard,hard,Do women live longer than men?
+Yes,S08_set2_a4,Finland,hard,hard,Do women live longer than men?
+None,S08_set2_a4,Finland,hard,hard,What is a country with which Finland is involved in an international conflict?
+Finland is not involved in international conflicts or border disputes.,S08_set2_a4,Finland,hard,hard,What is a country with which Finland is involved in an international conflict?
+,S08_set2_a4,Finland,,,What is Helsinki?
+,S08_set2_a4,Finland,,,What is concentrated in the southern part of the country?
+,S08_set2_a4,Finland,,,What is spoken natively by a 5.5 percent minority?
+,S08_set2_a4,Finland,,,What do jari litmanen and sami hyypiä have in common?
+,S08_set2_a4,Finland,,,Is it true that he composed finlandia in 1899?
+,S08_set2_a4,Finland,,,Is it true that it has borders with sweden?
+,S08_set2_a4,Finland,,,What did Finland join in 1995?
+,S08_set2_a4,Finland,,,Is finnish culture indigenous?
+,S08_set2_a4,Finland,,,Is finnish architecture famous?
+,S08_set2_a4,Finland,,,What situated in Northern?
+,S08_set2_a4,Finland,,,What arrived in Finland?
+,S08_set2_a4,Finland,,,What ceded by Finland?
+,S08_set2_a4,Finland,,,Lunch is what?
+,S08_set2_a4,Finland,,,"Who is the autonomous Åland Islands , where Finnish is not compulsory due to Swedish being the sole official language of the province . ?"
+,S08_set2_a4,Finland,,,The earliest people were what?
+,S08_set2_a4,Finland,,,Are Various sporting events popular in Finland ?
+,S08_set2_a4,Finland,,,Are all official holidays in Finland established by acts of Parliament ?
+,S08_set2_a4,Finland,,,Are the people of Finland accustomed to technology and information services ?
+,S08_set2_a4,Finland,,,"Was one of the most productive composers of popular music Toivo Kärki , and the most famous singer Olavi Virta -LRB- 1915 -- 1972 -RRB- ?"
+,S08_set2_a4,Finland,,,Do 79 percent of the population not use the Internet ?
+,S08_set2_a4,Finland,,,Did the relationship between the Grand Duchy and the Russian Empire not sour when the Russian government made moves to restrict Finnish autonomy ?
+,S08_set2_a4,Finland,,,"Is finland , officially the republic of finland (`` `` republic of finland ('' '' , or (`` `` suomen tasavalta ('' '' in finnish and (`` `` republiken finland ('' '' in swedish , the long protocol name , which is not defined by the law?"
+,S08_set2_a4,Finland,,,Is the capital city helsinki?
+,S08_set2_a4,Finland,,,"Is finland a democratic , parliamentary republic?"
+Yes,S08_set3_a10,Gerald_Ford,easy,easy,Was Ford a member of the House of Representatives?
+yes,S08_set3_a10,Gerald_Ford,easy,easy,Was Ford a member of the House of Representatives?
+Over eight years.,S08_set3_a10,Gerald_Ford,medium,medium,For how long was Ford a member of the House of Representatives?
+Ford served for over eight years as the Republican Minority Leader of the United States House of Representatives,S08_set3_a10,Gerald_Ford,medium,medium,For how long was Ford a member of the House of Representatives?
+Yes,S08_set3_a10,Gerald_Ford,easy,easy,Was Gerald Ford a member of Delta Kappa Epsilon?
+Yes,S08_set3_a10,Gerald_Ford,easy,easy,Was Gerald Ford a member of Delta Kappa Epsilon?
+Yes,S08_set3_a10,Gerald_Ford,easy,easy,"Did ford get an award called ""Congressman's congressman""?"
+No,S08_set3_a10,Gerald_Ford,medium,easy,"Did ford get an award called ""Congressman's congressman""?"
+Yes,S08_set3_a10,Gerald_Ford,easy,easy,Did ford attend the University of Michigan?
+Yes,S08_set3_a10,Gerald_Ford,easy,easy,Did ford attend the University of Michigan?
+Center and linebacker,S08_set3_a10,Gerald_Ford,medium,medium,What positions Ford played in the school football team?
+Captain,S08_set3_a10,Gerald_Ford,hard,medium,What positions Ford played in the school football team?
+He was abusive and had a history of hitting his mother.,S08_set3_a10,Gerald_Ford,medium,medium,What did Ford say about his biological father?
+his biological father was abusive and had a history of hitting his mother,S08_set3_a10,Gerald_Ford,medium,medium,What did Ford say about his biological father?
+Bob Dole,S08_set3_a10,Gerald_Ford,hard,medium,Who did Ford nominate for Vice President?
+Nelson Rockefeller,S08_set3_a10,Gerald_Ford,medium,medium,Who did Ford nominate for Vice President?
+No,,Gerald_Ford,,,Was Ford active about Vietnamese affairs?
+hard,,\n,,S08_set3_a10,hard
+Yes,S08_set3_a10,Gerald_Ford,too hard,hard,Was Ford active about Vietnamese affairs?
+Yes,S08_set3_a10,Gerald_Ford,hard,hard,Had Ford's wife married before?
+No,S08_set3_a10,Gerald_Ford,hard,hard,Had Ford's wife married before?
+Yes,S08_set3_a10,Gerald_Ford,medium,hard,Is Ford related with the assassination of John F. Kennedy?
+yes,S08_set3_a10,Gerald_Ford,easy,easy,Was Gerald Ford the 38th President of the United States?
+yes,S08_set3_a10,Gerald_Ford,easy,easy,Was Gerald Ford the 38th President of the United States?
+yes,S08_set3_a10,Gerald_Ford,easy,easy,Did Gerald Ford serve as the Republican Minority Leader of the House of Representatives?
+yes,S08_set3_a10,Gerald_Ford,easy,easy,Did Gerald Ford serve as the Republican Minority Leader of the House of Representatives?
+yes,S08_set3_a10,Gerald_Ford,easy,easy,Was Ford an Eagle Scout?
+yes,S08_set3_a10,Gerald_Ford,easy,easy,Was Ford an Eagle Scout?
+Michigan's 5th congressional district,S08_set3_a10,Gerald_Ford,medium,medium,What district was Ford elected from?
+Michigan's 5th congressional district,S08_set3_a10,Gerald_Ford,medium,medium,What district was Ford elected from?
+400,S08_set3_a10,Gerald_Ford,medium,medium,How many Eagle Scouts were involved in Ford's funeral procession?
+About 400,S08_set3_a10,Gerald_Ford,medium,medium,How many Eagle Scouts were involved in Ford's funeral procession?
+Jay Berwanger,S08_set3_a10,Gerald_Ford,hard,medium,Which future Heisman Trophy winner did Ford tackle?
+Jay Berwanger,S08_set3_a10,Gerald_Ford,medium,medium,Which future Heisman Trophy winner did Ford tackle?
+no,S08_set3_a10,Gerald_Ford,hard,hard,Has another US President been an Eagle Scout?
+no,S08_set3_a10,Gerald_Ford,hard,hard,Has another US President been an Eagle Scout?
+yes,S08_set3_a10,Gerald_Ford,medium,hard,Did Ford need to do extra work to pay for college?
+yes,S08_set3_a10,Gerald_Ford,hard,hard,Did Ford need to do extra work to pay for college?
+no,S08_set3_a10,Gerald_Ford,hard,hard,Have more than five Presidents lived past the age of 90?
+no,S08_set3_a10,Gerald_Ford,hard,hard,Have more than five Presidents lived past the age of 90?
+The Monterey supported landings at both locations.,S08_set3_a10,Gerald_Ford,medium,,How do kwajalein and eniwetok relate?
+Ford received a commission as ensign in the US Naval Reserve.,S08_set3_a10,Gerald_Ford,medium,,"What did Ford receive on April 13, 1942?"
+Yes.,S08_set3_a10,Gerald_Ford,easy,,Was Ford released from the hospital?
+Yes.,S08_set3_a10,Gerald_Ford,easy,,"Was Ford interred at his Presidential Museum in Grand Rapids, Michigan?"
+Yes.,S08_set3_a10,Gerald_Ford,easy,,Is Ford one of only four former Presidents to live to 90 or more years of age ?
+Yes.,S08_set3_a10,Gerald_Ford,easy,,Was Ford the last surviving member of the Warren Commission ?
+No.,S08_set3_a10,Gerald_Ford,easy,,"Did Grand Rapids supporters not urge him to take on Bartel J. Jonkman , the incumbent Republican congressman ?"
+They did claim Ford's pardon was quid pro quo.,S08_set3_a10,Gerald_Ford,easy,,Did they not claim Ford 's pardon was quid pro quo in exchange for Nixon 's resignation ?
+yes,S08_set2_a5,Ghana,easy,easy,Does Ghana have twice the per capita output of the poorer countries in West Africa?
+yes,S08_set2_a5,Ghana,easy,easy,Does Ghana have twice the per capita output of the poorer countries in West Africa?
+yes,S08_set2_a5,Ghana,easy,easy,Is English Ghana's official language?
+yes,S08_set2_a5,Ghana,easy,easy,Is English Ghana's official language?
+No,S08_set2_a5,Ghana,medium,easy,Did the Dutch build the Elmina Castle?
+no,S08_set2_a5,Ghana,easy,easy,Did the Dutch build the Elmina Castle?
+1957,S08_set2_a5,Ghana,medium,medium,When did Ghana achieve independence from the United Kingdom?
+1957,S08_set2_a5,Ghana,medium,medium,When did Ghana achieve independence from the United Kingdom?
+10,S08_set2_a5,Ghana,easy,medium,How many regions is Ghana divided into?
+10,S08_set2_a5,Ghana,medium,medium,How many regions is Ghana divided into?
+President John Agyekum Kofuor,S08_set2_a5,Ghana,easy,medium,Who is the head of state of Ghana?
+John Agyekum Kufuor,S08_set2_a5,Ghana,medium,medium,Who is the head of state of Ghana?
+Christian,S08_set2_a5,Ghana,hard,hard,What is the dominant religion in Ghana?
+christian,S08_set2_a5,Ghana,hard,hard,What is the dominant religion in Ghana?
+Kwa and Gur,S08_set2_a5,Ghana,hard,hard,What are the two subfamilies of the Native Ghanaian languages?
+Kwa and Gur,S08_set2_a5,Ghana,hard,hard,What are the two subfamilies of the Native Ghanaian languages?
+Warm and comparatively dry,S08_set2_a5,Ghana,hard,hard,What is the weather like at Lake Volta?
+warm and comparatively dry,S08_set2_a5,Ghana,hard,hard,What is the weather like at Lake Volta?
+no,S08_set2_a5,Ghana,easy,easy,Is Ghana in Asia?
+No,S08_set2_a5,Ghana,easy,easy,Is Ghana in Asia?
+yes,S08_set2_a5,Ghana,easy,easy,Is English the official language?
+Yes,S08_set2_a5,Ghana,easy,easy,Is English the official language?
+yes,S08_set2_a5,Ghana,easy,easy,Is Ghana's head of state John Agyekum Kufuor?
+Yes,S08_set2_a5,Ghana,easy,easy,Is Ghana's head of state John Agyekum Kufuor?
+warrior king,S08_set2_a5,Ghana,medium,medium,What does the word Ghana mean?
+Warrior King,S08_set2_a5,Ghana,medium,medium,What does the word Ghana mean?
+founder and first president,S08_set2_a5,Ghana,medium,medium,Who was Kwame Nkrumah?
+founder and first president of the modern Ghanaian state,S08_set2_a5,Ghana,medium,medium,Who was Kwame Nkrumah?
+500 miles north,S08_set2_a5,Ghana,medium,medium,Where is old Ghana in relation to present Ghana?
+"500 miles north of the present Ghana, and occupied the area between Rivers Senegal and Niger",S08_set2_a5,Ghana,medium,medium,Where is old Ghana in relation to present Ghana?
+the New Patriotic Party and National Democratic Congress,S08_set2_a5,Ghana,hard,hard,Who makes up Ghana's Parliament?
+the New Patriotic Party and National Democratic Congress,S08_set2_a5,Ghana,hard,hard,Who makes up Ghana's Parliament?
+The UK,S08_set2_a5,Ghana,too hard,hard,What European countries established states in Ghana?
+"Portugual, France, Britain, Netherlands",S08_set2_a5,Ghana,hard,hard,What European countries established states in Ghana?
+,S08_set2_a5,Ghana,,,What was Wagadugu?
+,S08_set2_a5,Ghana,,,"What was controlled by Sundiata in 1240 AD, and absorbed into the larger Mali Empire?"
+,S08_set2_a5,Ghana,,,What connected the Akans to this Empire?
+,S08_set2_a5,Ghana,,,Is it true that anecdotal evidence connected the akans to this empire?
+,S08_set2_a5,Ghana,,,Is it true that the portuguese came to ghana in the 15th century?
+,S08_set2_a5,Ghana,,,Is it true that agricultural expansion marked the period before 500?
+,S08_set2_a5,Ghana,,,What did Ghana capture in 1642?
+,S08_set2_a5,Ghana,,,Is The Parliament of Ghana unicameral?
+,S08_set2_a5,Ghana,,,Is Medieval Ghana (4th- 13th Century): The Republic of Ghana is named after the medieval Ghana Empire of West Africa. named after the medieval Ghana Empire of West Africa?
+,S08_set2_a5,Ghana,,,What was on March?
+,S08_set2_a5,Ghana,,,
+,S08_set2_a5,Ghana,,,
+,S08_set2_a5,Ghana,,,The coastline is what?
+,S08_set2_a5,Ghana,,,Ghana 's spending on education has what?
+,S08_set2_a5,Ghana,,,Who sits at Osu Castle ?
+,S08_set2_a5,Ghana,,,"Is all teaching done in English , Ghana 's official language ?"
+,S08_set2_a5,Ghana,,,Are Native Ghanaian languages divided into two linguistic subfamilies of the Niger-Congo language family ?
+,S08_set2_a5,Ghana,,,Are more than 100 languages and dialects spoken in Ghana ?
+,S08_set2_a5,Ghana,,,Had the tax regime which started in 1998 a single rate but since September 2007 entered into a multiple rate regime ?
+,S08_set2_a5,Ghana,,,"Did European and other : 0.2 % Religions : Christian 63 % , African beliefs 21 % , Muslim 16 % , Facts on People of Ghana , not access July 13 , 2006 More than 100 languages and dialects are spoken in Ghana ?"
+,S08_set2_a5,Ghana,,,Does this not allow retailers of taxable goods under Act 546 to charge a marginal 3 % on their sales and account on same to the VAT Service ?
+,S08_set2_a5,Ghana,,,Is the republic of ghana a country in west africa?
+,S08_set2_a5,Ghana,,,What happened with the portuguese in the 15th century?
+,S08_set2_a5,Ghana,,,Is the old ghana 500 miles?
+Yes,S08_set1_a6,Gray_Wolf,too easy,easy,Does the Gray Wolf share an ancestry with the domestic dog?
+Yes.,S08_set1_a6,Gray_Wolf,easy,easy,Does the Gray Wolf share an ancestry with the domestic dog?
+Yes,S08_set1_a6,Gray_Wolf,too easy,easy,Do wolf pups tend to have darker fur than adults?
+"Yes, They do tend to have darker furs",S08_set1_a6,Gray_Wolf,hard,easy,Do wolf pups tend to have darker fur than adults?
+Yes,S08_set1_a6,Gray_Wolf,medium,easy,Do wolves leave their pack?
+They leave their birth pack when they reach sexual maturity,S08_set1_a6,Gray_Wolf,medium,easy,Do wolves leave their pack?
+bulky coats with two layers,S08_set1_a6,Gray_Wolf,medium,medium,What kinds of coats do wolves have?
+"Tough guard hairs that repel water and dirt, and a dense, water-resistant layer",S08_set1_a6,Gray_Wolf,hard,medium,What kinds of coats do wolves have?
+Helping the woldf to effectively navigate over large expanses while concurrently keeping others informed of its whereabouts.,S08_set1_a6,Gray_Wolf,medium,medium,Where do wolves have scent glands?
+between a wolf's toes,S08_set1_a6,Gray_Wolf,medium,medium,Where do wolves have scent glands?
+typically varies between 32 and 62 kilograms,S08_set1_a6,Gray_Wolf,medium,medium,How much do wolves weigh?
+between 32 and 68 kilograms,S08_set1_a6,Gray_Wolf,easy,medium,How much do wolves weigh?
+"Howling helps pack members keep in touch, allowing them to communicate effectively in thickly forested areas or over great distances. Howling also helps to call pack members to a specific location. Howling can also serve as a declaration of territory, as shown in a dominant wolf&apos;s tendency to respond to a human imitation of a ""rival"" wolf in an area the wolf considers its own.",S08_set1_a6,Gray_Wolf,hard,hard,Why do wolves howl?
+"To pack members keep in touch, allowing them to communicate effectively in thickly forested areas or over great distances",S08_set1_a6,Gray_Wolf,too hard,hard,Why do wolves howl?
+Surplus killing is defined as the killing of several prey animals too numerous to eat at one sitting.,S08_set1_a6,Gray_Wolf,medium,hard,What is surplus killing?
+the killing of several prey animals too numerous to eat at one sitting,S08_set1_a6,Gray_Wolf,easy,hard,What is surplus killing?
+Yes,S08_set1_a6,Gray_Wolf,easy,hard,Are Gray Wolves native to North America?
+No. Current theory suggests that it's from Eurasia,S08_set1_a6,Gray_Wolf,hard,hard,Are Gray Wolves native to North America?
+Yes,S08_set1_a6,Gray_Wolf,easy,easy,Is the Gray Wolf a mammal?
+Yes,S08_set1_a6,Gray_Wolf,easy,easy,Is the Gray Wolf a mammal?
+Yes,S08_set1_a6,Gray_Wolf,easy,easy,Are a wolf's teeth its main weapons?
+Yes,S08_set1_a6,Gray_Wolf,easy,easy,Are a wolf's teeth its main weapons?
+Yes,S08_set1_a6,Gray_Wolf,easy,easy,Are wolves built for stamina?
+Yes,S08_set1_a6,Gray_Wolf,easy,easy,Are wolves built for stamina?
+Kazakhstan,S08_set1_a6,Gray_Wolf,hard,medium,Where is the largest gray wolf population thought to be found?
+Kazakhstan,S08_set1_a6,Gray_Wolf,medium,medium,Where is the largest gray wolf population thought to be found?
+Canis,S08_set1_a6,Gray_Wolf,medium,medium,To what genus does the gray wolf belong?
+Canis,S08_set1_a6,Gray_Wolf,medium,medium,To what genus does the gray wolf belong?
+Late Spring or Early Summer,S08_set1_a6,Gray_Wolf,medium,medium,When do wolves molt?
+late spring or early summer,S08_set1_a6,Gray_Wolf,medium,medium,When do wolves molt?
+A pack can only suppport one littler per year,S08_set1_a6,Gray_Wolf,hard,hard,Why is it beneficial for alpha males and females to forcefully prevent other wolves from mating?
+The pack tension rises as each mature wolf feels urged to mate,S08_set1_a6,Gray_Wolf,too hard,hard,Why is it beneficial for alpha males and females to forcefully prevent other wolves from mating?
+Darting and Foot hold traps.,S08_set1_a6,Gray_Wolf,hard,hard,What type of tools do biologists use to capture wolves for tagging?
+Darting and foot hold traps,S08_set1_a6,Gray_Wolf,hard,hard,What type of tools do biologists use to capture wolves for tagging?
+Dominance,S08_set1_a6,Gray_Wolf,hard,hard,"Forward, erect ears and slightly bristle hackles are a sign of what in wolves?"
+Dominance,S08_set1_a6,Gray_Wolf,hard,hard,"Forward, erect ears and slightly bristle hackles are a sign of what in wolves?"
+no,S08_set3_a6,Grover_Cleveland,easy,easy,Was Grover Cleveland born in New York?
+no,S08_set3_a6,Grover_Cleveland,easy,easy,Was Grover Cleveland born in New York?
+yes,S08_set3_a6,Grover_Cleveland,easy,easy,Did Grover Cleveland win the 1884 election?
+yes,S08_set3_a6,Grover_Cleveland,easy,easy,Did Grover Cleveland win the 1884 election?
+No,S08_set3_a6,Grover_Cleveland,medium,easy,Did Grover Cleveland support women's suffrage?
+no,S08_set3_a6,Grover_Cleveland,medium,easy,Did Grover Cleveland support women's suffrage?
+In the White House,S08_set3_a6,Grover_Cleveland,easy,medium,Where was Grover Cleveland married?
+in the Blue Room in the White House,S08_set3_a6,Grover_Cleveland,medium,medium,Where was Grover Cleveland married?
+A heart attack,S08_set3_a6,Grover_Cleveland,easy,medium,What did Cleveland die from?
+a heart attack,S08_set3_a6,Grover_Cleveland,medium,medium,What did Cleveland die from?
+One Year,S08_set3_a6,Grover_Cleveland,medium,medium,How many years after Cleveland left office did the U.S. win the Spanish-American War?
+one,S08_set3_a6,Grover_Cleveland,medium,medium,How many years after Cleveland left office did the U.S. win the Spanish-American War?
+That he had fathered an illegitimate child,S08_set3_a6,Grover_Cleveland,hard,hard,What did Cleveland's opponents say in 1884 to counter his innocent image?
+that he had fathered an illegitimate child while he was a lawyer in Buffalo,S08_set3_a6,Grover_Cleveland,hard,hard,What did Cleveland's opponents say in 1884 to counter his innocent image?
+former Senator James G. Blaine of Maine,S08_set3_a6,Grover_Cleveland,easy,hard,Who did Cleveland run against in 1884?
+James G. Blaine,S08_set3_a6,Grover_Cleveland,hard,hard,Who did Cleveland run against in 1884?
+To avoid further market panic,S08_set3_a6,Grover_Cleveland,medium,hard,Why did Cleveland want to hide his cancer surgery from the public?
+because of the financial depression of the country,S08_set3_a6,Grover_Cleveland,hard,hard,Why did Cleveland want to hide his cancer surgery from the public?
+No.,S08_set3_a6,Grover_Cleveland,easy,easy,Was Grover Cleveland the twenty-seventh president of the United States?
+No.,S08_set3_a6,Grover_Cleveland,easy,easy,Was Grover Cleveland the twenty-seventh president of the United States?
+Yes.,S08_set3_a6,Grover_Cleveland,easy,easy,Is Grover Cleveland honest?
+Yes.,S08_set3_a6,Grover_Cleveland,easy,easy,Is Grover Cleveland honest?
+Yes.,S08_set3_a6,Grover_Cleveland,easy,easy,Was Grover Cleveland married in the whitehouse?
+Yes.,S08_set3_a6,Grover_Cleveland,easy,easy,Was Grover Cleveland married in the whitehouse?
+Yes.,S08_set3_a6,Grover_Cleveland,easy,medium,"When was he elected sheriff of Erire County, New York?"
+1870,S08_set3_a6,Grover_Cleveland,medium,medium,"When was he elected sheriff of Erire County, New York?"
+June 24 1908,S08_set3_a6,Grover_Cleveland,medium,medium,When did he die?
+1908,S08_set3_a6,Grover_Cleveland,medium,medium,When did he die?
+1884 and 1892 presidential elections,S08_set3_a6,Grover_Cleveland,hard,medium,Which election did Grover Cleveland win?
+"Cleveland was born in Caldwell, New Jersey to the Reverend Richard Cleveland and Anne Neal.",S08_set3_a6,Grover_Cleveland,too hard,hard,Who were Grover Cleveland's parents?
+Reverend Richard Cleveland and Anne Neal.,S08_set3_a6,Grover_Cleveland,hard,hard,Who were Grover Cleveland's parents?
+5,S08_set3_a6,Grover_Cleveland,hard,hard,How many children did Grover Cleveland have?
+Six.,S08_set3_a6,Grover_Cleveland,too hard,hard,How many children did Grover Cleveland have?
+Grover Cleveland,S08_set3_a6,Grover_Cleveland,medium,,Who lost control of his party to the agrarians and silverites in 1896?
+yes,S08_set3_a6,Grover_Cleveland,easy,,Is it true that he sent in federal troops to chicago?
+yes,S08_set3_a6,Grover_Cleveland,easy,,"Was Cleveland born in Caldwell, New Jersey to the Reverend Richard Cleveland and Anne Neal?"
+yes,S08_set3_a6,Grover_Cleveland,easy,,"Was Grover Cleveland elected Sheriff of Erie County, New York?"
+yes,S08_set3_a6,Grover_Cleveland,easy,,Was Cleveland 's portrait on the U.S. $ 1000 bill from 1928 to 1946 ?
+yes,S08_set3_a6,Grover_Cleveland,easy,,Is he buried in the Princeton Cemetery of the Nassau Presbyterian Church ?
+yes,S08_set3_a6,Grover_Cleveland,easy,,Did the Department of the Interior not charge that the rights of way for this land must be returned to the public because the railroads failed to extend their lines according to agreements ?
+yes,S08_set3_a6,Grover_Cleveland,easy,,"Did the team , sedating Cleveland with nitrous oxide -LRB- laughing gas -RRB- , not remove his upper left jaw and portions of his hard palate ?"
+in 1894,S08_set4_a9,Henri_Becquerel,medium,,He became chief engineer in the Department of Bridges and Highways in what year?
+phographic plates being fully exposed,S08_set4_a9,Henri_Becquerel,hard,,What led Becquerel to investigate the spontaneous emission of nuclear radiation?
+yes,S08_set4_a9,Henri_Becquerel,easy,,Is it true that he married louise désirée lorieux in 1890?
+yes,S08_set4_a9,Henri_Becquerel,easy,,Is it true that he shared the nobel prize in physics?
+1890,S08_set4_a9,Henri_Becquerel,medium,,When did he marry louise désirée lorieux?
+yes,S08_set4_a9,Henri_Becquerel,easy,,Was Becquerel elected Permanent Secretary of the Académie des Sciences?
+yes,S08_set4_a9,Henri_Becquerel,easy,,"Was Becquerel born in Paris into a family which, including he and his son Jean, produced four generations of scientists?"
+Henri Becquerel,S08_set4_a9,Henri_Becquerel,medium,,Who won the 1903 Nobel Prize in Physics for discovering radioactivity ?
+Yes he died at the age of 55,S08_set4_a9,Henri_Becquerel,easy,,Did he not die at the age of 55 in Le Croisic ?
+yes,S08_set4_a9,Henri_Becquerel,easy,,Did one places between the phosphorescent substance and the paper a piece of money or a metal screen not pierce with a cut-out design ?
+Becquerel accidentally discovered radioactivity.,S08_set4_a9,Henri_Becquerel,hard,,What happened in 1896?
+the plate does not become clouded upon being exposed to the sun for a day,S08_set4_a9,Henri_Becquerel,hard,,What happened with a bromide emulsion in two sheets of very thick black paper?
+yes,S08_set4_a9,Henri_Becquerel,easy,,Is there a becquerel crater on the moon and a becquerel crater on mars?
+yes,S08_set2_a10,Indonesia,easy,easy,Are the Javanese the largest and politically dominant ethnic group in Indonesia?
+Yes,S08_set2_a10,Indonesia,too easy,easy,Are the Javanese the largest and politically dominant ethnic group in Indonesia?
+no,S08_set2_a10,Indonesia,easy,easy,Is Indonesia a monarchy with a presidential system?
+No,S08_set2_a10,Indonesia,easy,easy,Is Indonesia a monarchy with a presidential system?
+yes,S08_set2_a10,Indonesia,easy,easy,Did the Japanese invasion and subsequent occupation during WWII end Dutch rule?
+Yes,S08_set2_a10,Indonesia,easy,easy,Did the Japanese invasion and subsequent occupation during WWII end Dutch rule?
+1999,S08_set2_a10,Indonesia,medium,medium,In what year did East Timor secede from Indonesia?
+1999,S08_set2_a10,Indonesia,medium,medium,In what year did East Timor secede from Indonesia?
+the end of the 16th century,S08_set2_a10,Indonesia,medium,medium,When did Islam become the dominant religion in Java and Sumatra?
+by the end of the 16th century,S08_set2_a10,Indonesia,medium,medium,When did Islam become the dominant religion in Java and Sumatra?
+no,S08_set2_a10,Indonesia,easy,medium,Does Indonesia have the world's hightest level of biodiversity?
+No,S08_set2_a10,Indonesia,medium,medium,Does Indonesia have the world's hightest level of biodiversity?
+no,S08_set2_a10,Indonesia,hard,hard,Was Indonesia named after it became an independent country?
+No,S08_set2_a10,Indonesia,hard,hard,Was Indonesia named after it became an independent country?
+because of anti-communist purges early in the Suharto era,S08_set2_a10,Indonesia,too hard,hard,Why did Indonesia break off relations with the People's Republic of China?
+anti-communist purges early in the Suharto era,S08_set2_a10,Indonesia,hard,hard,Why did Indonesia break off relations with the People's Republic of China?
+"nutmeg, cloves, or cubeb pepper",S08_set2_a10,Indonesia,hard,hard,Which spice originally attracted Europeans to Indonesia?
+"nutmeg, cloves, and cubeb pepper",S08_set2_a10,Indonesia,hard,hard,Which spice originally attracted Europeans to Indonesia?
+Indonesia's special capital region,S08_set2_a10,Indonesia,hard,,What is Jakarta?
+Indonesia,S08_set2_a10,Indonesia,medium,,"What shares land borders with Papua New Guinea, East Timor and Malaysia?"
+the Javanese,S08_set2_a10,Indonesia,easy,,What are the largest and politically dominant ethnic group?
+The indonesian archipelago became an important trade region,S08_set2_a10,Indonesia,medium,,What happens when the srivijaya kingdom formed trade links?
+yes,S08_set2_a10,Indonesia,easy,,Is it true that indonesia has vast areas of wilderness?
+yes,S08_set2_a10,Indonesia,easy,,Is Indonesia a republic?
+yes,S08_set2_a10,Indonesia,easy,,Are Sports in Indonesia generally male-orientated?
+yes,S08_set2_a10,Indonesia,medium,,Is Indonesia the world's largest archipelagic state?
+yes,S08_set2_a10,Indonesia,easy,,Are sports in Indonesia generally male-orientated and spectator sports are often associated with illegal gambling ?
+yes,S08_set2_a10,Indonesia,easy,,Is Pencak Silat an Indonesian martial art ?
+yes,S08_set2_a10,Indonesia,easy,,Has Indonesia the world 's largest Muslim population ?
+each province,S08_set2_a10,Indonesia,easy,,Who has its own political legislature and governor ?
+yes,S08_set2_a10,Indonesia,easy,,Is it the world 's largest archipelagic state?
+yes,S08_set2_a10,Indonesia,easy,,Is it the world 's fourth most populous country and the most populous muslim-majority nation?
+yes,S08_set2_a10,Indonesia,easy,,Is indonesia a republic?
+,S08_set4_a1,Isaac_Newton,,,What Eves?
+,S08_set4_a1,Isaac_Newton,,,What are a rumors that he remained a virgin?
+,S08_set4_a1,Isaac_Newton,,,"Who was, by later reports of his contemporaries, thoroughly unhappy with the work?"
+,S08_set4_a1,Isaac_Newton,,,Is it true that newton saw god as the master creator?
+,S08_set4_a1,Isaac_Newton,,,Is it true that he acquired a circle of admirers?
+,S08_set4_a1,Isaac_Newton,,,Is it true that this contained the beginnings of the laws of motion?
+,S08_set4_a1,Isaac_Newton,,,"What did Isaac Newton place at 3 April, AD 33, which agrees with one traditionally accepted date?"
+,S08_set4_a1,Isaac_Newton,,,Was Newton outraged?
+,S08_set4_a1,Isaac_Newton,,,Was Newton born three months after the death of his father?
+,S08_set4_a1,Isaac_Newton,,,What died in London?
+,S08_set4_a1,Isaac_Newton,,,What was against William?
+,S08_set4_a1,Isaac_Newton,,,What quartered on March?
+,S08_set4_a1,Isaac_Newton,,,NOTTTT  FOUND
+,S08_set4_a1,Isaac_Newton,,,
+,S08_set4_a1,Isaac_Newton,,,
+,S08_set4_a1,Isaac_Newton,,,Were the two in a dispute over optical discoveries at the time ?
+,S08_set4_a1,Isaac_Newton,,,"Are Various trees claimed to be "" the "" apple tree which Newton describes ?"
+,S08_set4_a1,Isaac_Newton,,,"Was Newton outraged , and went about the work to uncover anything about Chaloner ?"
+,S08_set4_a1,Isaac_Newton,,,Was this study cast into doubt when it was later found that Newton himself wrote the study 's concluding remarks on Leibniz ?
+,S08_set4_a1,Isaac_Newton,,,Did Newton not entertain `` a passion '' for Storer while he lodged at the Clarke house ?
+,S08_set4_a1,Isaac_Newton,,,Does # Newton not  Third Law states that for every action there is an equal and opposite reaction ?
+,S08_set4_a1,Isaac_Newton,,,What happened at the time of newton 's birth?
+,S08_set4_a1,Isaac_Newton,,,What happened from school?
+,S08_set4_a1,Isaac_Newton,,,What happened on those of aristotle?
+Yes,S08_set3_a2,James_Monroe,easy,easy,Is James Monrow the fifth president of US?
+Yes.,S08_set3_a2,James_Monroe,easy,easy,Is James Monrow the fifth president of US?
+James,S08_set3_a2,James_Monroe,too easy,easy,What is the first word on the page?
+James_Monroe,S08_set3_a2,James_Monroe,too hard,easy,What is the first word on the page?
+28,S08_set3_a2,James_Monroe,too easy,easy,What is the first number on the page?
+28,S08_set3_a2,James_Monroe,too hard,easy,What is the first number on the page?
+"March 4, 1825",S08_set3_a2,James_Monroe,medium,medium,When did Monroe's presidency expired?
+"March 4, 1825.",S08_set3_a2,James_Monroe,medium,medium,When did Monroe's presidency expired?
+Spence,S08_set3_a2,James_Monroe,medium,medium,What is Monroe's father's name?
+Spence Monroe.,S08_set3_a2,James_Monroe,medium,medium,What is Monroe's father's name?
+Maria Hester Monroe Gouverneur,S08_set3_a2,James_Monroe,medium,medium,What is Monroe's daughter's name?
+Maria Hester Monroe Gouverneur,S08_set3_a2,James_Monroe,medium,medium,What is Monroe's daughter's name?
+Reduced tension,S08_set3_a2,James_Monroe,medium,hard,"What does ""Era of Good Feelings"" refers to?"
+"Monroe allowed his political base to decay, which reduced tensions and led to the naming of his era as the ""Era of Good Feelings"".",S08_set3_a2,James_Monroe,too hard,hard,"What does ""Era of Good Feelings"" refers to?"
+Yes,S08_set3_a2,James_Monroe,easy,hard,Did Monroe' wedding happen at the Trinity Church in New York?
+Yes,S08_set3_a2,James_Monroe,too hard,hard,Did Monroe' wedding happen at the Trinity Church in New York?
+A doctrine declaring U.S. opposition to European interference in the Americas.,S08_set3_a2,James_Monroe,medium,hard,What is Monroe Doctrine?
+"In it, Monroe proclaimed the Americas should be free from future European colonization and free from European interference in sovereign countries' affairs. It further stated the United States' intention to stay neutral in European wars and wars between European powers and their colonies, but to consider any new colonies or interference with independent countries in the Americas as hostile acts toward the United States.",S08_set3_a2,James_Monroe,hard,hard,What is Monroe Doctrine?
+yes,S08_set3_a2,James_Monroe,easy,easy,Was James Monroe President of the United States?
+Yes,S08_set3_a2,James_Monroe,easy,easy,Was James Monroe President of the United States?
+yes,S08_set3_a2,James_Monroe,easy,easy,Did James Monroe attend the College of William and Mary?
+Yes,S08_set3_a2,James_Monroe,easy,easy,Did James Monroe attend the College of William and Mary?
+yes,S08_set3_a2,James_Monroe,easy,easy,Did James Monroe fight in the Continental Army?
+Yes,S08_set3_a2,James_Monroe,easy,easy,Did James Monroe fight in the Continental Army?
+"Westmoreland County, Virginia",S08_set3_a2,James_Monroe,medium,medium,Where was James Monroe born?
+"Westmoreland County, Virginia",S08_set3_a2,James_Monroe,medium,medium,Where was James Monroe born?
+"at the Battle of Trenton, in his left shoulder",S08_set3_a2,James_Monroe,medium,medium,Where was James Monroe shot?
+The Battle of Trenton,S08_set3_a2,James_Monroe,medium,medium,Where was James Monroe shot?
+Elizabeth Kortright,S08_set3_a2,James_Monroe,medium,medium,Who did James Monroe marry?
+Elizabeth Kortright,S08_set3_a2,James_Monroe,medium,medium,Who did James Monroe marry?
+He practiced law in Virginia.,S08_set3_a2,James_Monroe,medium,hard,What did James Monroe do before being elected governor?
+He practiced law,S08_set3_a2,James_Monroe,hard,hard,What did James Monroe do before being elected governor?
+1817-1825,S08_set3_a2,James_Monroe,medium,hard,In which years were John Monroe elected as President?
+1817-1825,S08_set3_a2,James_Monroe,medium,hard,In which years were John Monroe elected as President?
+George Washington,S08_set3_a2,James_Monroe,medium,hard,Who was John Monroe standing behind in the painting of  Washington Crossing the Delaware?
+George Washington,S08_set3_a2,James_Monroe,medium,hard,Who was John Monroe standing behind in the painting of  Washington Crossing the Delaware?
+1814,S08_set3_a2,James_Monroe,medium,easy,When was James Monroe appointed to Secretary of War?
+,S08_set3_a2,James_Monroe,,easy,When was James Monroe appointed to Secretary of War?
+"July 4, 1831",S08_set3_a2,James_Monroe,medium,easy,When did James Monroe die?
+,S08_set3_a2,James_Monroe,,easy,When did James Monroe die?
+1776,S08_set3_a2,James_Monroe,medium,easy,When did James Monroe graduate from William and Mary?
+,S08_set3_a2,James_Monroe,,easy,When did James Monroe graduate from William and Mary?
+"Monroe was elected president in the election of 1816, and re-elected in 1820.",S08_set3_a2,James_Monroe,medium,medium,When was James Monroe elected president?
+,S08_set3_a2,James_Monroe,,medium,When was James Monroe elected president?
+Monroe Hill on the grounds of the University of Virginia.,S08_set3_a2,James_Monroe,hard,medium,Which property did James Monroe sell in 1817?
+,S08_set3_a2,James_Monroe,,medium,Which property did James Monroe sell in 1817?
+"December 2, 1823",S08_set3_a2,James_Monroe,medium,medium,When did James Monroe introduce the Monroe Doctrine?
+,S08_set3_a2,James_Monroe,,medium,When did James Monroe introduce the Monroe Doctrine?
+His daughter Maria Hester Monroe Gouverneur,S08_set3_a2,James_Monroe,medium,hard,Who did James Monroe live with in New York City?
+,S08_set3_a2,James_Monroe,,hard,Who did James Monroe live with in New York City?
+No letters survive in which he might have discussed his religious beliefs.,S08_set3_a2,James_Monroe,hard,hard,What did James Monroe's letters not contain?
+,S08_set3_a2,James_Monroe,,hard,What did James Monroe's letters not contain?
+"As a result, the two nations moved closer toward the War of 1812.",S08_set3_a2,James_Monroe,hard,hard,What was the result of the rejection of the Jay Treaty?
+,S08_set3_a2,James_Monroe,,hard,What was the result of the rejection of the Jay Treaty?
+Monroe,S08_set3_a2,James_Monroe,medium,,Who is depicted holding the flag in the famous painting of Washington Crossing the Delaware?
+The Federalist Party,S08_set3_a2,James_Monroe,easy,,"What dwindled and eventually died out, starting with the Hartford Convention?"
+yes,S08_set3_a2,James_Monroe,easy,,Is it true that he practiced law in fredericksburg?
+two long tours,S08_set3_a2,James_Monroe,hard,,What did James Monroe make in 1817?
+no,S08_set3_a2,James_Monroe,easy,,Was Monroe anticlerical?
+yes,S08_set3_a2,James_Monroe,easy,,Was Monroe appointed Minister to France from 1794 to 1796?
+Monroe's presidency,S08_set3_a2,James_Monroe,medium,,What expired on March?
+yes,S08_set3_a2,James_Monroe,easy,,Had Monroe racked up many debts during his years of public life ?
+many congressmen,S08_set3_a2,James_Monroe,medium,,Who dismantled partisan and sectional coalitions ?
+yes,S08_set3_a2,James_Monroe,easy,,Had Monroe racked up many debts during his years of public life ?
+Monroe returned to the Virginia House of Delegates and was elected to another term as governor of Virginia,S08_set3_a2,James_Monroe,easy,,What happened in 1811?
+Monroe was elected president,S08_set3_a2,James_Monroe,easy,,What happened in the election of 1816?
+Margaret Miller,S08_set4_a2,James_Watt,medium,,Who died in childbirth in 1772?
+Margaret Miller.,S08_set4_a2,James_Watt,medium,,Who died in 1832?
+Yes.,S08_set4_a2,James_Watt,easy,,"Is watt commemorated by statuary in George Square, Glasgow and Princes Street, Edinburgh?"
+Yes.,S08_set4_a2,James_Watt,easy,,"Was watt a gentleman, greatly respected by other prominent men of the Industrial Revolution?"
+Yes.,S08_set4_a2,James_Watt,easy,,Was watt a fellow of the Royal Society of Edinburgh and the Royal Society of London?
+"Watt began to experiment with steam after his friend, Professor John Robison, called his attention to it.",S08_set4_a2,James_Watt,medium,,"Four years after opening his shop , Watt began what?"
+Yes.,S08_set4_a2,James_Watt,easy,,Was Watt ranked 22nd in Michael H. Hart 's list of the most influential figures in history ?
+Yes.,S08_set3_a1,John_Adams,easy,easy,Did John Adams represent the Continental Congress in Europe?
+yes,S08_set3_a1,John_Adams,easy,easy,Did John Adams represent the Continental Congress in Europe?
+Yes.,S08_set3_a1,John_Adams,easy,easy,Was Adams raised Congregationalist?
+yes,S08_set3_a1,John_Adams,easy,easy,Was Adams raised Congregationalist?
+Yes.,S08_set3_a1,John_Adams,easy,easy,Was Adams an opponent of the Stamp Act?
+yes,S08_set3_a1,John_Adams,easy,easy,Was Adams an opponent of the Stamp Act?
+1755.,S08_set3_a1,John_Adams,medium,medium,When did Adams graduate from college?
+1755,S08_set3_a1,John_Adams,medium,medium,When did Adams graduate from college?
+"Thomas Jefferson, Benjamin Franklin, Robert R. Livingston and Roger Sherman.",S08_set3_a1,John_Adams,medium,medium,Who was on the committee with Adams to draft  a Declaration of Independence?
+"Thomas Jefferson, Benjamin Franklin, Robert R. Livingston and Roger Sherman",S08_set3_a1,John_Adams,medium,medium,Who was on the committee with Adams to draft  a Declaration of Independence?
+"The ""Colossus of Independence"".",S08_set3_a1,John_Adams,hard,medium,What did Jefferson call John Adams?
+Colossus of Independence,S08_set3_a1,John_Adams,medium,medium,What did Jefferson call John Adams?
+The Federalist Party.,S08_set3_a1,John_Adams,hard,hard,What was Adams' political party?
+Federalist,S08_set3_a1,John_Adams,hard,hard,What was Adams' political party?
+Yes.,S08_set3_a1,John_Adams,hard,hard,Was Adams the first to introduce a bicameral legislature?
+yes,S08_set3_a1,John_Adams,too hard,hard,Was Adams the first to introduce a bicameral legislature?
+No.,S08_set3_a1,John_Adams,hard,hard,Did John Adams get along with Alexander Hamilton?
+no,S08_set3_a1,John_Adams,too hard,hard,Did John Adams get along with Alexander Hamilton?
+yes,S08_set3_a1,John_Adams,medium,easy,Did John Adams go to Harvard?
+Yes,S08_set3_a1,John_Adams,easy,easy,Did John Adams go to Harvard?
+No,S08_set3_a1,John_Adams,hard,easy,Did John Adams support the Stamp Act of 1765?
+No,S08_set3_a1,John_Adams,easy,easy,Did John Adams support the Stamp Act of 1765?
+yes,S08_set3_a1,John_Adams,easy,easy,Is Adams' birthplace part of a national park?
+Yes,S08_set3_a1,John_Adams,easy,easy,Is Adams' birthplace part of a national park?
+1789-1797,S08_set3_a1,John_Adams,easy,medium,When did John Adams serve as Vice President?
+1789-1797,S08_set3_a1,John_Adams,medium,medium,When did John Adams serve as Vice President?
+The Federalist Party,S08_set3_a1,John_Adams,medium,medium,With what party did Adams run for presidency?
+The Federalist Party,S08_set3_a1,John_Adams,medium,medium,With what party did Adams run for presidency?
+United First Parish Church,S08_set3_a1,John_Adams,medium,medium,Where is Adams buried?
+United First Parish Church,S08_set3_a1,John_Adams,medium,medium,Where is Adams buried?
+"They were a series of judges, so called because most of them were formally appointed days before Adams' presidential term expired",S08_set3_a1,John_Adams,hard,hard,Who were the midnight judges?
+They were judges formally appointed days before Adams term expired,S08_set3_a1,John_Adams,hard,hard,Who were the midnight judges?
+Hamilton wanted to control the army differently than Adams,S08_set3_a1,John_Adams,hard,hard,In what ways was Adams opposed by Anderw Hamilton?
+Descriptions of events and ompressions of men,S08_set3_a1,John_Adams,hard,hard,What information did he record in his diary?
+He wrote descriptions of events and impressions of men,S08_set3_a1,John_Adams,medium,hard,What information did he record in his diary?
+John Adams,S08_set3_a1,John_Adams,medium,,Who was defeated for re-election in the`` Revolution of 1800'' by Thomas Jefferson?
+John Adams,S08_set3_a1,John_Adams,medium,,Who represented the Continental Congress in Europe?
+John Adams' birthplace,S08_set3_a1,John_Adams,medium,,What is now part of Adams National Historical Park?
+yes,S08_set3_a1,John_Adams,easy,,Is it true that adams had spent some time as the ambassador?
+yes,S08_set3_a1,John_Adams,easy,,Is it true that massachuS08_setts sent him in 1774?
+John Adams,S08_set3_a1,John_Adams,hard,,Who did MassachuS08_setts send in 1774?
+yes,S08_set3_a1,John_Adams,easy,,"Are his last words often quoted as "" Thomas Jefferson survives "" . ?"
+"Adams's personal collection of more than 3,500 volumes",S08_set3_a1,John_Adams,medium,,"The John Adams Library , housed at the Boston Public Library , contains what?"
+Democratic Republicans,S08_set3_a1,John_Adams,hard,,Adams ' opponents were what?
+No.,S08_set3_a1,John_Adams,easy,,"Did the election of 1800 not become a bitter and volatile battle , with each side expressing extraordinary fear of the other party and its policies ?"
+Adams married Abigail Smith,S08_set3_a1,John_Adams,medium,,What happened in 1764?
+no,S08_set1_a1,kangaroo,easy,easy,Is a kangaroo a reptile?
+No,S08_set1_a1,kangaroo,easy,easy,Is a kangaroo a reptile?
+yes,S08_set1_a1,kangaroo,easy,easy,Is a kangaroo on the Australian coat of arms?
+Yes,S08_set1_a1,kangaroo,medium,easy,Is a kangaroo on the Australian coat of arms?
+yes,S08_set1_a1,kangaroo,medium,easy,"Was James Cook the first to record the name ""Kangooroo?"""
+Yes,S08_set1_a1,kangaroo,medium,easy,"Was James Cook the first to record the name ""Kangooroo?"""
+"mob, troop, or court",S08_set1_a1,kangaroo,medium,medium,What is a collective noun for kangaroos?
+"Mob, troop, or court",S08_set1_a1,kangaroo,medium,medium,What is a collective noun for kangaroos?
+marsupium,S08_set1_a1,kangaroo,medium,medium,Where do joeys complete postnatal development?
+A pouch called a marsupium,S08_set1_a1,kangaroo,medium,medium,Where do joeys complete postnatal development?
+its hind feet,S08_set1_a1,kangaroo,medium,hard,"What do kangaroos use for ""crawl-walking?"""
+Their hind feet and their tails,S08_set1_a1,kangaroo,hard,hard,"What do kangaroos use for ""crawl-walking?"""
+The two sides of the lower jaw are not joined together and the lower incisors are farther apart.,S08_set1_a1,kangaroo,hard,hard,Why do kangaroos have a wide bite?
+Because of grazing,S08_set1_a1,kangaroo,hard,hard,Why do kangaroos have a wide bite?
+bacteria,S08_set1_a1,kangaroo,hard,hard,What is responsible for converting the hydrogen byproduct of fermentation into acetate?
+The digestive system of a kangaroo,S08_set1_a1,kangaroo,too hard,hard,What is responsible for converting the hydrogen byproduct of fermentation into acetate?
+yes,S08_set1_a1,kangaroo,easy,easy,Are wild kangaroos shot for meat?
+Yes,S08_set1_a1,kangaroo,easy,easy,Are wild kangaroos shot for meat?
+yes,S08_set1_a1,kangaroo,easy,easy,Have kangaroos fared well since European S08_settlement?
+Yes,S08_set1_a1,kangaroo,easy,easy,Have kangaroos fared well since European S08_settlement?
+no,S08_set1_a1,kangaroo,easy,easy,Do kangaroos have many natural predators?
+No,S08_set1_a1,kangaroo,easy,easy,Do kangaroos have many natural predators?
+4.6 years,S08_set1_a1,kangaroo,medium,medium,What is the average life expectancy of a kangaroo?
+about 4.6 years,S08_set1_a1,kangaroo,medium,medium,What is the average life expectancy of a kangaroo?
+1994,S08_set1_a1,kangaroo,medium,medium,When did the first official report of kangaroo blindness take place?
+1994,S08_set1_a1,kangaroo,medium,medium,When did the first official report of kangaroo blindness take place?
+roo bars,S08_set1_a1,kangaroo,medium,medium,What are vehicles that frequent isolated roads often fitted with?
+"""roo bars""",S08_set1_a1,kangaroo,medium,medium,What are vehicles that frequent isolated roads often fitted with?
+yes,S08_set1_a1,kangaroo,hard,hard,Do kangaroos eat plants?
+Yes,S08_set1_a1,kangaroo,too hard,hard,Do kangaroos eat plants?
+"Thylacine, Marsupial Lion, Maagalania, and Wonambi",S08_set1_a1,kangaroo,hard,hard,What are some extinct predators of the kangaroo?
+The Thylacine,S08_set1_a1,kangaroo,hard,hard,What are some extinct predators of the kangaroo?
+,S08_set1_a1,kangaroo,,easy,Is a Kangaroo a Marsupial?
+Yes,S08_set1_a1,kangaroo,easy,easy,Is a Kangaroo a Marsupial?
+,S08_set1_a1,kangaroo,,easy,Is the kangaroo an herbivour?
+Yes,S08_set1_a1,kangaroo,medium,easy,Is the kangaroo an herbivour?
+,S08_set1_a1,kangaroo,,easy,Are Kangaroos Shy?
+Yes,S08_set1_a1,kangaroo,easy,easy,Are Kangaroos Shy?
+,S08_set1_a1,kangaroo,,medium,What method of locomotion do Kangaroos Use?
+hopping,S08_set1_a1,kangaroo,medium,medium,What method of locomotion do Kangaroos Use?
+,S08_set1_a1,kangaroo,,medium,What is the average life expectancy of a kangaroo?
+4 to 6 years,S08_set1_a1,kangaroo,hard,medium,What is the average life expectancy of a kangaroo?
+,S08_set1_a1,kangaroo,,medium,What is a collective noun for a kangaroo?
+"a mob, troop, or court",S08_set1_a1,kangaroo,medium,medium,What is a collective noun for a kangaroo?
+,S08_set1_a1,kangaroo,,hard,What is a roo?
+a kangaroo,S08_set1_a1,kangaroo,medium,hard,What is a roo?
+,S08_set1_a1,kangaroo,,hard,What is used to protect a vehicale from a Kangaroo?
+roo bars,S08_set1_a1,kangaroo,hard,hard,What is used to protect a vehicale from a Kangaroo?
+,S08_set1_a1,kangaroo,,hard,What method is used by Kangaroos to travel?
+hopping,S08_set1_a1,kangaroo,medium,hard,What method is used by Kangaroos to travel?
+Captain James Cook and naturalist Sir Joseph Banks,S08_set1_a1,kangaroo,hard,,Who asked a nearby local what the creatures were called?
+"The Red Kangaroo, The Eastern Grey Kangaroo, The Western Grey Kangaroo, and The Antilopine Kangaroo",S08_set1_a1,kangaroo,too hard,,What are four species that are commonly referred to as kangaroos?
+yes,S08_set1_a1,kangaroo,easy,,Are kangaroos and wallabies adept swimmers?
+No.,S08_set1_a1,kangaroo,easy,,Are kangaroos farmed to any extent?
+Veterinarians,S08_set1_a1,kangaroo,medium,,Who also discovered that less than three percent of kangaroos exposed to the virus developed blindness ?
+different diets,S08_set1_a1,kangaroo,medium,,Different species of kangaroos eat what?
+yes,S08_set1_a1,kangaroo,easy,,Have Kangaroos dazzled by headlights or startled by engine noise been known to leap in front of cars ?
+yes,S08_set1_a1,kangaroo,easy,,Is a collision with a vehicle capable of killing a kangaroo ?
+yes,S08_set1_a1,kangaroo,easy,,Was the game of Marn grook played using a ball made from kangaroo by the Kurnai people ?
+yes,S08_set1_a1,kangaroo,easy,,"Have kangaroos large , powerful hind legs , large feet adapted for leaping , a long muscular tail for balance , and a small head ?"
+yes,S08_set1_a1,kangaroo,easy,,"Is a kangaroo a marsupial from the family macropodidae -LRB- macropods , meaning (`` ` large foot ('' ' -RRB-?"
+Changes wrought to the Australian landscape by humans.,S08_set1_a1,kangaroo,medium,,What kinds of changes have larger kangaroos adapted much better to?
+yes,S08_set1_a1,kangaroo,easy,,Have larger kangaroos adapted much better to changes?
+yes,S08_set1_a2,leopard,easy,easy,Is the leopard smaller than the other members of Panthera?
+Yes,S08_set1_a2,leopard,easy,easy,Is the leopard smaller than the other members of Panthera?
+yes,S08_set1_a2,leopard,easy,easy,Is a leopard larger and less lanky than a cheetah?
+Yes,S08_set1_a2,leopard,easy,easy,Is a leopard larger and less lanky than a cheetah?
+yes,S08_set1_a2,leopard,easy,easy,Are large pythons potential prey for leopards?
+Yes,S08_set1_a2,leopard,easy,easy,Are large pythons potential prey for leopards?
+A cheetah or a jaguar,S08_set1_a2,leopard,medium,medium,What may a leopard be mistaken for?
+A cheetah or a jaguar,S08_set1_a2,leopard,medium,medium,What may a leopard be mistaken for?
+a pumapard,S08_set1_a2,leopard,medium,medium,What is a hybrid animal resulting from a union between a leopard and a puma?
+A pumapard,S08_set1_a2,leopard,medium,medium,What is a hybrid animal resulting from a union between a leopard and a puma?
+in dense vegetation,S08_set1_a2,leopard,medium,medium,Where do leopards often hide their kills?
+in dense vegetation or in trees,S08_set1_a2,leopard,medium,medium,Where do leopards often hide their kills?
+by the length of their tails,S08_set1_a2,leopard,hard,hard,How did early naturalists distinguish between leopards and panthers?
+"By the length of the tail, panthers having longer tails than leopards",S08_set1_a2,leopard,hard,hard,How did early naturalists distinguish between leopards and panthers?
+Black Panthers,S08_set1_a2,leopard,hard,hard,What are dark leopards known as colloquially?
+black panthers,S08_set1_a2,leopard,too hard,hard,What are dark leopards known as colloquially?
+circular,S08_set1_a2,leopard,hard,hard,What shape are a leopard's black roS08_settes in East Africa?
+circular,S08_set1_a2,leopard,hard,hard,What shape are a leopard's black roS08_settes in East Africa?
+yes,S08_set1_a2,leopard,easy,easy,Is the leopard an Old World mammal?
+yes,S08_set1_a2,leopard,easy,easy,Is the leopard an Old World mammal?
+.,S08_set1_a2,leopard,too easy,easy,Is the leopard an Old World mammal?
+yes,S08_set1_a2,leopard,easy,easy,Is the leopard of the Felidae family?
+yes,S08_set1_a2,leopard,easy,easy,Is the leopard of the Felidae family?
+,S08_set1_a2,leopard,,easy,Is the leopard of the Felidae family?
+yes,S08_set1_a2,leopard,easy,easy,Is the leopard one of the four 'big cats'?
+yes,S08_set1_a2,leopard,medium,easy,Is the leopard one of the four 'big cats'?
+,S08_set1_a2,leopard,,easy,Is the leopard one of the four 'big cats'?
+southern Eurasia and Africa,S08_set1_a2,leopard,medium,medium,Where is the leopard distributed?
+"southern Eurasia and Africa, from Korea to South Africa and Spain",S08_set1_a2,leopard,medium,medium,Where is the leopard distributed?
+,S08_set1_a2,leopard,,medium,Where is the leopard distributed?
+60 to 110cm,S08_set1_a2,leopard,medium,medium,How long is a leopard's tail?
+60-110cm,S08_set1_a2,leopard,medium,medium,How long is a leopard's tail?
+,S08_set1_a2,leopard,,medium,How long is a leopard's tail?
+Males are considerably larger than females and weigh 37 to 90 kg compared to 28 to 60 kg for females.,S08_set1_a2,leopard,medium,medium,How much does a leopard weigh?
+(because of ambiguity) - 28-90kg,S08_set1_a2,leopard,too hard,medium,How much does a leopard weigh?
+,S08_set1_a2,leopard,,medium,How much does a leopard weigh?
+yes,S08_set1_a2,leopard,medium,hard,Does a male leopard weigh more than a female leopard?
+yes,S08_set1_a2,leopard,hard,hard,Does a male leopard weigh more than a female leopard?
+,S08_set1_a2,leopard,,hard,Does a male leopard weigh more than a female leopard?
+The leopard has roS08_settes rather than cheetah's simple spots and the leopard is larger and less lanky than the cheetah.,S08_set1_a2,leopard,hard,hard,What is the difference between leopards and cheetahs?
+"The leopard has roS08_settes rather than cheetah's simple spots, but they lack internal spots, unlike the jaguar. The leopard is larger and less lanky than the cheetah but smaller than the jaguar.",S08_set1_a2,leopard,hard,hard,What is the difference between leopards and cheetahs?
+,S08_set1_a2,leopard,,hard,What is the difference between leopards and cheetahs?
+"As of 1996, the leopard had the largest distribution of any wild cat, although populations before and since have shown a declining trend and are fragmented outside of subsaharan Africa.",S08_set1_a2,leopard,hard,hard,How does the distribution size of the leopard compare to the distribution of other wild cats?
+the leopard had the largest distribution of any wild cat.,S08_set1_a2,leopard,hard,hard,How does the distribution size of the leopard compare to the distribution of other wild cats?
+,S08_set1_a2,leopard,,hard,How does the distribution size of the leopard compare to the distribution of other wild cats?
+The leopard's ecological role,S08_set1_a2,leopard,medium,,What resembles that of the similarly-sized cougar in the Americas?
+Felis pardus,S08_set1_a2,leopard,medium,,"What was one of the many species described in Linnaeus's 18th-century work, Systema Naturae?"
+Leopards,S08_set1_a2,leopard,hard,,What sort of cats are solitary?
+No,S08_set1_a2,leopard,easy,,Are leopards circular?
+Yes,S08_set1_a2,leopard,easy,,Is the leopard solitary?
+The leopard men,S08_set1_a2,leopard,medium,,What centred in Sierra?
+"One of the many species described in Linnaeus's 18th-century work, Systema Naturae",S08_set1_a2,leopard,medium,,Felis pardus was what?
+Yes,S08_set1_a2,leopard,easy,,Has the New Zealand Rugby League featured the Otahuhu Leopards and then the Tamaki Leopards ?
+Yes,S08_set1_a2,leopard,easy,,Were the Leopard men a West African secret society who practised cannibalism ?
+Yes,S08_set1_a2,leopard,easy,,Was the leopard tank a German designed tank which entered service in 1965 ?
+Yes,S08_set1_a2,leopard,easy,,Is the black color heritable and caused by only one recessive gene locus ?
+Yes,S08_set1_a2,leopard,easy,,"Is the leopard -LRB- panthera pardus -RRB- an old world mammal of the felidae family and the smallest of the four (`` ` big cats ('' ' of the genus panthera , along with the tiger , lion , and jaguar?"
+Yes,S08_set1_a2,leopard,easy,,Can a panther be any of several species of large felid?
+Yes,S08_set1_a2,leopard,easy,,Is the leopard an agile and graceful predator?
+Yes,S08_set2_a1,Liechtenstein,easy,easy,Is Liechtenstein bordered by Switzerland?
+Yes,S08_set2_a1,Liechtenstein,easy,easy,Is Liechtenstein bordered by Switzerland?
+Yes,S08_set2_a1,Liechtenstein,easy,easy,Is Liechtenstein the smallest German-speaking country in the world?
+Yes,S08_set2_a1,Liechtenstein,easy,easy,Is Liechtenstein the smallest German-speaking country in the world?
+Yes,S08_set2_a1,Liechtenstein,easy,easy,Was Liechtenstein part of the ancient Roman province of Raetia?
+Yes,S08_set2_a1,Liechtenstein,easy,easy,Was Liechtenstein part of the ancient Roman province of Raetia?
+1836,S08_set2_a1,Liechtenstein,medium,medium,When was the first factory opened?
+1836,S08_set2_a1,Liechtenstein,medium,medium,When was the first factory opened?
+11,S08_set2_a1,Liechtenstein,medium,medium,How many municipalities is Liechtenstein divided into?
+11,S08_set2_a1,Liechtenstein,medium,medium,How many municipalities is Liechtenstein divided into?
+Swiss franc,S08_set2_a1,Liechtenstein,medium,medium,What is the national currency of Liechtenstein?
+Swiss franc,S08_set2_a1,Liechtenstein,medium,medium,What is the national currency of Liechtenstein?
+Yes,S08_set2_a1,Liechtenstein,hard,hard,Has Leichtenstein worked to promote the county's image by prosecuting international money-laundering?
+Austrian Federal Railways,S08_set2_a1,Liechtenstein,medium,hard,What company administers Leichtenstein's railways?
+Austrian Federal Railways,S08_set2_a1,Liechtenstein,medium,hard,What company administers Leichtenstein's railways?
+two-thirds,S08_set2_a1,Liechtenstein,hard,hard,What percentage of Liechtenstein's population is foreign-born?
+67%,S08_set2_a1,Liechtenstein,hard,hard,What percentage of Liechtenstein's population is foreign-born?
+No.,S08_set2_a1,Liechtenstein,easy,easy,Is there an airport in Liechtenstein?
+No,S08_set2_a1,Liechtenstein,easy,easy,Is there an airport in Liechtenstein?
+No.,S08_set2_a1,Liechtenstein,medium,easy,Is Liechtenstein heavily urbanized?
+No,S08_set2_a1,Liechtenstein,easy,easy,Is Liechtenstein heavily urbanized?
+Yes.,S08_set2_a1,Liechtenstein,easy,easy,Is Liechtenstein doubly landlocked?
+Yes,S08_set2_a1,Liechtenstein,easy,easy,Is Liechtenstein doubly landlocked?
+No.,S08_set2_a1,Liechtenstein,easy,medium,Does Liechtenstein have an army?
+No,S08_set2_a1,Liechtenstein,easy,medium,Does Liechtenstein have an army?
+October 1921.,S08_set2_a1,Liechtenstein,medium,medium,When was Liechtenstein's current constitution adopted?
+October 1921,S08_set2_a1,Liechtenstein,medium,medium,When was Liechtenstein's current constitution adopted?
+German.,S08_set2_a1,Liechtenstein,medium,medium,What is the official language of Liechtenstein?
+German,S08_set2_a1,Liechtenstein,medium,medium,What is the official language of Liechtenstein?
+Switzerland and Austria.,S08_set2_a1,Liechtenstein,medium,hard,What countries border Liechtenstein?
+Switzerland and Austria,S08_set2_a1,Liechtenstein,hard,hard,What countries border Liechtenstein?
+Raetia.,S08_set2_a1,Liechtenstein,medium,hard,What Roman province was Liechtenstein part of?
+Raetia,S08_set2_a1,Liechtenstein,medium,hard,What Roman province was Liechtenstein part of?
+6.,S08_set2_a1,Liechtenstein,too hard,hard,How many municipalities are within Oberland?
+6,S08_set2_a1,Liechtenstein,too hard,hard,How many municipalities are within Oberland?
+Liechtenstein,S08_set2_a1,Liechtenstein,medium,,What is the smallest German-speaking country in the world?
+1861,S08_set2_a1,Liechtenstein,easy,,"The Savings and Loans Bank was founded, as was the first cotton-weaving mill in what year?"
+Liechtenstein's population,S08_set2_a1,Liechtenstein,medium,,What enjoys one of the world's highest standards of living?
+Yes,S08_set2_a1,Liechtenstein,easy,,Does the state court rule on the conformity of laws?
+They are Hilti.,S08_set2_a1,Liechtenstein,medium,,What do most recognizable international company and largest employer have in common?
+No,S08_set2_a1,Liechtenstein,medium,,Is Liechtenstein heavily urbanized?
+No,S08_set2_a1,Liechtenstein,medium,,Was Liechtenstein completed in November 2000?
+the Kunstmuseum Liechtenstein,S08_set2_a1,Liechtenstein,medium,,What completed in November?
+on the conformity of laws with the constitution,S08_set2_a1,Liechtenstein,easy,,The State Court rules what?
+a role in preserving the culture and history of the country.,S08_set2_a1,Liechtenstein,easy,,The Historical Society of the Principality of Liechtenstein plays what?
+Yes,S08_set2_a1,Liechtenstein,easy,,Is the museum collection also the national art collection of Liechtenstein ?
+Yes,S08_set2_a1,Liechtenstein,easy,,Is there a small heliport at Balzers in Liechtenstein available for charter helicopter flights ?
+Yes,S08_set2_a1,Liechtenstein,easy,,Are nationals referred to by the plural : Liechtensteiners ?
+Yes,S08_set2_a1,Liechtenstein,easy,,"Is it a winter sports resort , although it is perhaps best known as a tax haven ?"
+Yes,S08_set2_a1,Liechtenstein,medium,,Is it a winter sports resort?
+Yes,S08_set2_a1,Liechtenstein,easy,,Is it the smallest german-speaking country in the world?
+The Liechtenstein Dynasty acquired vast swaths of land,S08_set2_a1,Liechtenstein,medium,,"What happened in moravia , lower austria , silesia , and styria , though in all cases , these territories were held in fief under other more senior feudal lords?"
+Yes.,S08_set3_a3,Millard_Fillmore,easy,easy,"Did Webster write, ""I can now sleep of nights""?"
+Yes,S08_set3_a3,Millard_Fillmore,easy,easy,"Did Webster write, ""I can now sleep of nights""?"
+Yes,S08_set3_a3,Millard_Fillmore,easy,easy,Was the arrival of Louis Kossuth (exiled leader of a failed Hungarian revolution) another issue that presented itself during Fillmore's presidency?
+Yes,S08_set3_a3,Millard_Fillmore,easy,easy,Was the arrival of Louis Kossuth (exiled leader of a failed Hungarian revolution) another issue that presented itself during Fillmore's presidency?
+Yes,S08_set3_a3,Millard_Fillmore,easy,easy,"Did he die at 11:10 p.m. on March 8, 1874, of the after-effects of a stroke?"
+yes,S08_set3_a3,Millard_Fillmore,easy,easy,"Did he die at 11:10 p.m. on March 8, 1874, of the after-effects of a stroke?"
+Weed,S08_set3_a3,Millard_Fillmore,medium,medium,Who got Seward elected to the senate?
+Weed ultimately got Seward elected to the senate,S08_set3_a3,Millard_Fillmore,medium,medium,Who got Seward elected to the senate?
+Japan,S08_set3_a3,Millard_Fillmore,medium,medium,Where was Commodore Matthew C. Perry sent to open Japan to Western trade?
+Commodore Matthew C. Perry send to Japan,S08_set3_a3,Millard_Fillmore,hard,medium,Where was Commodore Matthew C. Perry sent to open Japan to Western trade?
+A fake biography based on real events that happened in Fillmore's life.,S08_set3_a3,Millard_Fillmore,medium,medium,What is The Remarkable Millard Fillmore?
+"In 2007, George Pendle wrote The Remarkable Millard Fillmore, a fake biography based on real events that happened in Fillmore's life",S08_set3_a3,Millard_Fillmore,medium,medium,What is The Remarkable Millard Fillmore?
+Before.,S08_set3_a3,Millard_Fillmore,hard,hard,Did Fillmore form a law partnership before or after he founded the private University of Buffalo?
+Law partnership founded before University of Buffalo,S08_set3_a3,Millard_Fillmore,hard,hard,Did Fillmore form a law partnership before or after he founded the private University of Buffalo?
+Yes,S08_set3_a3,Millard_Fillmore,medium,hard,Did Fillmore run for President a second time?
+I don't know (semantic ambiguity),S08_set3_a3,Millard_Fillmore,too hard,hard,Did Fillmore run for President a second time?
+where is the death date of his first wife?,S08_set3_a3,Millard_Fillmore,too hard,hard,How long after the death of his first wife did Fillmore marry Caroline McIntosh?
+yes,S08_set3_a3,Millard_Fillmore,easy,easy,Was Millard Fillmore the thirteenth President of the United States?
+yes,S08_set3_a3,Millard_Fillmore,easy,easy,Was Millard Fillmore the thirteenth President of the United States?
+,S08_set3_a3,Millard_Fillmore,,easy,Was Millard Fillmore the thirteenth President of the United States?
+yes,S08_set3_a3,Millard_Fillmore,medium,easy,"Was Millard Fillmore born on January 7, 1800?"
+yes,S08_set3_a3,Millard_Fillmore,easy,easy,"Was Millard Fillmore born on January 7, 1800?"
+,S08_set3_a3,Millard_Fillmore,,easy,"Was Millard Fillmore born on January 7, 1800?"
+no,S08_set3_a3,Millard_Fillmore,easy,easy,"Did Millard Fillmore die on March 8, 1974?"
+no,S08_set3_a3,Millard_Fillmore,easy,easy,"Did Millard Fillmore die on March 8, 1974?"
+,S08_set3_a3,Millard_Fillmore,,easy,"Did Millard Fillmore die on March 8, 1974?"
+"in a log cabin in Summerhill, New York",S08_set3_a3,Millard_Fillmore,easy,medium,Where was Millard Fillmore born?
+"in a log cabin in Summerhill, New York",S08_set3_a3,Millard_Fillmore,medium,medium,Where was Millard Fillmore born?
+,S08_set3_a3,Millard_Fillmore,,medium,Where was Millard Fillmore born?
+to Nathaniel and Phoebe Millard Fillmore,S08_set3_a3,Millard_Fillmore,easy,medium,To whom was Millard Fillmore born to?
+to Nathaniel and Phoebe Millard Fillmore,S08_set3_a3,Millard_Fillmore,medium,medium,To whom was Millard Fillmore born to?
+,S08_set3_a3,Millard_Fillmore,,medium,To whom was Millard Fillmore born to?
+He fell in love with Abigail Powers,S08_set3_a3,Millard_Fillmore,easy,medium,Who did Millard Fillmore fall in love with?
+Abigail Powers,S08_set3_a3,Millard_Fillmore,medium,medium,Who did Millard Fillmore fall in love with?
+,S08_set3_a3,Millard_Fillmore,,medium,Who did Millard Fillmore fall in love with?
+slavory issues,S08_set3_a3,Millard_Fillmore,easy,hard,What did Taylor and Fillmore disagree upon?
+Taylor and Fillmore disagreed on the slavery issue in the new western territories taken from Mexico in the Mexican-American War,S08_set3_a3,Millard_Fillmore,medium,hard,What did Taylor and Fillmore disagree upon?
+,S08_set3_a3,Millard_Fillmore,,hard,What did Taylor and Fillmore disagree upon?
+"upon the death of the sitting president, Taylor",S08_set3_a3,Millard_Fillmore,medium,hard,How did Fillmore ascend to the presidency?
+Official White House portrait of Millard FillmoreFillmore ascended to the presidency upon the sudden and unexpected death of President Taylor in July 1850.,S08_set3_a3,Millard_Fillmore,hard,hard,How did Fillmore ascend to the presidency?
+,S08_set3_a3,Millard_Fillmore,,hard,How did Fillmore ascend to the presidency?
+they were ok with him,S08_set3_a3,Millard_Fillmore,too hard,hard,How did the supporters of Henry Clay feel about Fillmore in 1848?
+angry,S08_set3_a3,Millard_Fillmore,hard,hard,How did the supporters of Henry Clay feel about Fillmore in 1848?
+,S08_set3_a3,Millard_Fillmore,,hard,How did the supporters of Henry Clay feel about Fillmore in 1848?
+millard fillmore,S08_set3_a3,Millard_Fillmore,easy,,Who was first apprenticed to a fuller to learn the cloth-making trade?
+1846,S08_set3_a3,Millard_Fillmore,easy,,He founded the private university of buffalo on what date?
+millard fillmore,S08_set3_a3,Millard_Fillmore,easy,,Who or what fell in love with abigail powers?
+yes,S08_set3_a3,Millard_Fillmore,easy,,Was Fillmore one of the founders of the University of Buffalo?
+yes,S08_set3_a3,Millard_Fillmore,easy,,Was Another primary objective of Fillmore to preserve the Union from the intensifying slavery debate?
+no,S08_set3_a3,Millard_Fillmore,easy,,"Was Fillmore the second Chancellor, a position he maintained while both Vice President and President?"
+yes,S08_set3_a3,Millard_Fillmore,easy,,Is Fillmore the first of two presidents to have been an indentured servant ?
+yes,S08_set3_a3,Millard_Fillmore,easy,,Is the comic strip Mallard Fillmore named after the president ?
+yes,S08_set3_a3,Millard_Fillmore,easy,,Was Fillmore the first U.S. President born after the death of a former president ?
+no,S08_set3_a3,Millard_Fillmore,easy,,"Did Fillmore not turn down the honor , explaining that he had neither the `` literary nor scientific attainment '' to justify the degree ?"
+Fillmore was born,S08_set3_a3,Millard_Fillmore,easy,,"What happened in a log cabin in summerhill , new york?"
+Nikola Tesla,S08_set4_a3,Nikola_Tesla,easy,,"Who was born precisely at midnight during an electrical storm , to a Serbian family in the village of Smiljan near Gospić , in the Lika region of the Croatian Krajina in Military Frontier ( part of the Austrian Empire ) , in the present-day Croatia . ?"
+Yes.,S08_set4_a3,Nikola_Tesla,easy,,Are there at least two films describing Tesla 's life ?
+yes.,S08_set4_a3,Nikola_Tesla,easy,,Have a number of live theatrical plays based on Tesla 's life been produced and staged worldwide ?
+no,S08_set1_a7,otter,medium,easy,Do sea otters have long muscular tails?
+No,S08_set1_a7,otter,medium,easy,Do sea otters have long muscular tails?
+yes,S08_set1_a7,otter,medium,easy,Can otters survive in cold water?
+Yes,S08_set1_a7,otter,medium,easy,Can otters survive in cold water?
+no,S08_set1_a7,otter,easy,easy,Does the giant otter inhabit South Africa?
+No,S08_set1_a7,otter,easy,easy,Does the giant otter inhabit South Africa?
+13,S08_set1_a7,otter,easy,medium,How many species of otter are there?
+13,S08_set1_a7,otter,medium,medium,How many species of otter are there?
+"a variety of fish and shellfish, as well as small land mammals and birds",S08_set1_a7,otter,easy,medium,What do river otters eat?
+"a variety of fish and shellfish, as well as small land mammals and birds",S08_set1_a7,otter,medium,medium,What do river otters eat?
+30 kg (about 65 pounds),S08_set1_a7,otter,easy,medium,How much do sea otters weigh?
+30 kg (about 65 pounds),S08_set1_a7,otter,medium,medium,How much do sea otters weigh?
+a layer of air trapped in their fur(!),S08_set1_a7,otter,hard,hard,How do sea otters insulate themselves?
+"As with other species of otter, they rely on a layer of air trapped in their fur, which they keep topped up by blowing into the fur from their mouths.",S08_set1_a7,otter,hard,hard,How do sea otters insulate themselves?
+They've been hunted for their fur,S08_set1_a7,otter,hard,hard,Why are sea otters nearly extinct?
+"Sea otters have some 200,000 hairs per square cm of skin, a rich fur for which humans hunted them",S08_set1_a7,otter,hard,hard,Why are sea otters nearly extinct?
+roadkill deaths,S08_set1_a7,otter,hard,hard,What is one of the challenges of re-establishing a population of Eurasian otters in the UK?
+Roadkill deaths have become one of the significant threats to the success of their re-establishment.,S08_set1_a7,otter,hard,hard,What is one of the challenges of re-establishing a population of Eurasian otters in the UK?
+yes,S08_set1_a7,otter,easy,easy,Is otter a kind of mammal?
+Yes.,S08_set1_a7,otter,easy,easy,Is otter a kind of mammal?
+13 species and 7 genera,S08_set1_a7,otter,easy,easy,How many species and genera does otter have?
+13 species in 7 genera.,S08_set1_a7,otter,medium,easy,How many species and genera does otter have?
+yes,S08_set1_a7,otter,hard,easy,Do otters live in water?
+Yes.,S08_set1_a7,otter,easy,easy,Do otters live in water?
+"River otters eat a variety of fish and shellfish, as well as small land mammals and birds.",S08_set1_a7,otter,easy,medium,What do river otters eat?
+"River otters eat a variety of fish and shellfish, as well as small land mammals and birds.",S08_set1_a7,otter,medium,medium,What do river otters eat?
+Sea otters (Enhydra lutris) live along the Pacific coast of North America.,S08_set1_a7,otter,easy,medium,Where do sea otters live?
+The sea otter lives actually in the sea.,S08_set1_a7,otter,medium,medium,Where do sea otters live?
+"The word ""otter"" derives from the Old English word otr, otor or oter.",S08_set1_a7,otter,easy,medium,"Where does the word ""otter"" derive from?"
+"The word ""otter"" derives from the Old English word otr, otor or oter. This and cognate words in other Indo-European languages ultimately stem from a root which also gave rise to the English words ""water"", ""wet"" and ""winter"".",S08_set1_a7,otter,medium,medium,"Where does the word ""otter"" derive from?"
+give birth,S08_set1_a7,otter,too hard,hard,Does otter give birth or lay egg?
+Humans hunted them almost to extinction.,S08_set1_a7,otter,medium,hard,What drives sea otter almost to extinction?
+"Sea otters have some 200,000 hairs per square cm of skin, a rich fur for which humans hunted them almost to extinction.",S08_set1_a7,otter,medium,hard,What drives sea otter almost to extinction?
+"The time of year associated with this is also associated with the Aquarius sign of the Zodiac, through which the sun passes January 20-February 19.",S08_set1_a7,otter,hard,hard,Why otters are considered as totem animals?
+Yes,S08_set1_a7,otter,easy,easy,Do sea otters live along the Pacific coast?
+Yes,S08_set1_a7,otter,easy,easy,Do sea otters live along the Pacific coast?
+Yes,S08_set1_a7,otter,easy,easy,Are otters totem animals?
+No,S08_set1_a7,otter,easy,easy,Are otters herbivores?
+No,S08_set1_a7,otter,hard,easy,Are otters herbivores?
+Fish.,S08_set1_a7,otter,medium,medium,What is the primary item in an otter's diet?
+fish,S08_set1_a7,otter,medium,medium,What is the primary item in an otter's diet?
+Holt,S08_set1_a7,otter,medium,medium,What is an otter's den called?
+holt,S08_set1_a7,otter,medium,medium,What is an otter's den called?
+"Poaching, habitat loss, and toxins in gold mining.",S08_set1_a7,otter,hard,medium,Why is the giant otter becoming increasingly rare?
+"poaching, habitat loss, and the use of mercury in illegal alluvial gold mining",S08_set1_a7,otter,medium,medium,Why is the giant otter becoming increasingly rare?
+A layer of air trapped in their fur.,S08_set1_a7,otter,hard,hard,How do otters keep themselves warm without blubber?
+a layer of air trapped in their fur,S08_set1_a7,otter,hard,hard,How do otters keep themselves warm without blubber?
+"The slide down snowy slopes, apparently for sheer enjoyment.",S08_set1_a7,otter,hard,hard,How are otters playful animals?
+They slide repeatedly down snowy slopes for sheer enjoyment.,S08_set1_a7,otter,hard,hard,How are otters playful animals?
+"weasels, polecats, and badgers",S08_set1_a7,otter,hard,hard,What animals are related to otters?
+Long guard hair,S08_set1_a7,otter,medium,,"What traps a layer of air, and keeps them dry and warm under water?"
+Otters,S08_set1_a7,otter,medium,,The collective noun romp is sometimes used for a group of what?
+yes,S08_set1_a7,otter,medium,,Is it true that otters eat a variety of fish?
+yes,S08_set1_a7,otter,easy,,Are otters playful animals?
+yes,S08_set1_a7,otter,easy,,Are otters very active?
+yes,S08_set1_a7,otter,easy,,Are male otters dog-otters?
+A holt,S08_set1_a7,otter,medium,,An otter 's den is what?
+Shellfish and other invertebrates,S08_set1_a7,otter,medium,,Sea otters eat what?
+yes,S08_set1_a7,otter,easy,,Is the myth of Otter 's Ransom the starting point of the Volsunga saga ?
+yes,S08_set1_a7,otter,easy,,"Are Male otters dog-otters , females are bitches and babies are cubs or pups ?"
+yes,S08_set1_a7,otter,easy,,Is an otter 's den called a holt ?
+yes,S08_set1_a7,otter,easy,,"Have most otters fish as the primary item in their diet , supplemented by frogs , crayfish and crabs ?"
+yes,S08_set1_a3,penguin,easy,easy,Do penguins feed on krill?
+yes,S08_set1_a3,penguin,easy,easy,Do penguins feed on krill?
+Emperor Penguin,S08_set1_a3,penguin,medium,easy,What is the largest living species of penguin?
+the Emperor Penguin (Aptenodytes forsteri),S08_set1_a3,penguin,medium,easy,What is the largest living species of penguin?
+yes,S08_set1_a3,penguin,easy,easy,Do penguins live almost exclusively in the Southern Hemisphere?
+yes,S08_set1_a3,penguin,easy,easy,Do penguins live almost exclusively in the Southern Hemisphere?
+when penguins slide on their bellies across the snow,S08_set1_a3,penguin,hard,medium,"What is ""tobogganing""?"
+Tobogganing is when penguins slide on their bellies across the snow.,S08_set1_a3,penguin,hard,medium,"What is ""tobogganing""?"
+for camouflage,S08_set1_a3,penguin,hard,medium,Why are penguins countershaded?
+for camouflage,S08_set1_a3,penguin,hard,medium,Why are penguins countershaded?
+no,S08_set1_a3,penguin,medium,medium,Are penguins afraid of humans?
+no,S08_set1_a3,penguin,medium,medium,Are penguins afraid of humans?
+half of their life,S08_set1_a3,penguin,hard,hard,How much time to penguins spend on land?
+They spend half of their life on land.,S08_set1_a3,penguin,medium,hard,How much time to penguins spend on land?
+between 17 and 20 living species,S08_set1_a3,penguin,medium,hard,How many species of penguins are there?
+"Penguin biodiversity varies between 17 and 20 living species, all in the subfamily Spheniscinae.",S08_set1_a3,penguin,hard,hard,How many species of penguins are there?
+they have brown rather than black plumage,S08_set1_a3,penguin,hard,hard,How are Isabelline penguins different from most penguins?
+Because they are born with brown rather than black plumage.,S08_set1_a3,penguin,hard,hard,How are Isabelline penguins different from most penguins?
+yes,S08_set1_a3,penguin,easy,easy,Are penguins birds?
+Yes,S08_set1_a3,penguin,easy,easy,Are penguins birds?
+yes,S08_set1_a3,penguin,easy,easy,Do penguins have a better than average sense of hearing for birds?
+No,S08_set1_a3,penguin,easy,easy,Do penguins have a better than average sense of hearing for birds?
+yes,S08_set1_a3,penguin,easy,easy,"Are penguins considered ""higher waterbirds""?"
+Yes,S08_set1_a3,penguin,easy,easy,"Are penguins considered ""higher waterbirds""?"
+Sphenisciformes,S08_set1_a3,penguin,medium,medium,What order do penguins belong to?
+Sphenisciformes,S08_set1_a3,penguin,medium,medium,What order do penguins belong to?
+Emperor Penguin,S08_set1_a3,penguin,medium,medium,What is the largest living species of penguin?
+Emperor,S08_set1_a3,penguin,medium,medium,What is the largest living species of penguin?
+1.80 meters,S08_set1_a3,penguin,medium,medium,How tall were the tallest prehistoric penguins?
+as tall as an adult human,S08_set1_a3,penguin,hard,medium,How tall were the tallest prehistoric penguins?
+Their wings have become flippers,S08_set1_a3,penguin,hard,hard,What makes penguins so agile in the water?
+"Smooth plumage preserves a layer of air, ensuring buoyancy, wings are flippers",S08_set1_a3,penguin,hard,hard,What makes penguins so agile in the water?
+It conserves energy while moving quickly,S08_set1_a3,penguin,hard,hard,"Why do penguins ""tobaggan""?"
+Conserves energy while moving quickly,S08_set1_a3,penguin,hard,hard,"Why do penguins ""tobaggan""?"
+Penguins,S08_set1_a3,penguin,medium,,Who spend half of their life on land and half in the oceans?
+3 meters,S08_set1_a3,penguin,medium,,What is also the distance that Antarctic tourists are told to keep from penguins?
+Penguins' wings,S08_set1_a3,penguin,medium,,"What have become flippers, useless for flight in the air?"
+"They sometimes attempt to ""steal"" another chick.",S08_set1_a3,penguin,medium,,What happens when mothers lose a chick?
+Yes,S08_set1_a3,penguin,easy,,Is it true that each penguin gets a turn in the center?
+Yes,S08_set1_a3,penguin,easy,,Are all penguins countershaded?
+In the water they are.,S08_set1_a3,penguin,easy,,Are penguins astonishingly agile?
+Yes,S08_set1_a3,penguin,easy,,Are penguins at risk?
+Yes,S08_set1_a3,penguin,easy,,"Is it also possible that penguin comes from the Latin pinguis , fat ?"
+Yes,S08_set1_a3,penguin,easy,,Have penguins an average sense of hearing for birds ?
+Yes,S08_set1_a3,penguin,easy,,Can larger penguins dive deep in case of need ?
+Yes,S08_set1_a3,penguin,easy,,"Is the smallest penguin species the Little Blue Penguin -LRB- also known as the Fairy Penguin -RRB- , which stands around 40 cm tall -LRB- 16 in -RRB- and weighs 1 kg -LRB- 2.2 lb -RRB- ?"
+It is not even known.,S08_set1_a3,penguin,medium,,"Is it not even known whether the gigantic palaeeudyptines constitute a monophyletic lineage , or whether gigantism was evolved independently in a much restricted Palaeeudyptinae and the Anthropornithinae ?"
+Yes,S08_set1_a3,penguin,easy,,Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?
+Yes,S08_set1_a3,penguin,easy,,"Is the smallest penguin species the little blue penguin -LRB- also known as the fairy penguin -RRB- , which stands around 40 cm tall -LRB- 16 in -RRB- and weighs 1 kg -LRB- 2?"
+At least one giant penguin.,S08_set1_a3,penguin,medium,,What happened in a region not quite 2000 km south of the equator 35 mya?
+Connecticut,S08_set1_a4,polar_bear,too easy,easy,What is the last word on the page?
+(SSN-22),S08_set1_a4,polar_bear,too hard,easy,What is the last word on the page?
+Yes,S08_set1_a4,polar_bear,easy,easy,Is polar bear a mammal?
+Yes,S08_set1_a4,polar_bear,easy,easy,Is polar bear a mammal?
+Yes,S08_set1_a4,polar_bear,easy,easy,Is polar bear a carnivore?
+Yes,S08_set1_a4,polar_bear,easy,easy,Is polar bear a carnivore?
+2200 lb,S08_set1_a4,polar_bear,medium,medium,What is largest polar bear on record?
+"A huge male, allegedly weighing 1002 kg (2200 lb) shot at Kotzebue Sound in northwestern Alaska in 1960.",S08_set1_a4,polar_bear,medium,medium,What is largest polar bear on record?
+white or cream,S08_set1_a4,polar_bear,easy,medium,What is polar bear's skin color?
+Black,S08_set1_a4,polar_bear,easy,medium,What is polar bear's skin color?
+5-15 cm,S08_set1_a4,polar_bear,medium,medium,How long is polar bear's guard hair?
+5-15 cm,S08_set1_a4,polar_bear,medium,medium,How long is polar bear's guard hair?
+mites or other parasites,S08_set1_a4,polar_bear,medium,hard,What is cause of polar bear's skin diseases?
+Mites or other parasites,S08_set1_a4,polar_bear,medium,hard,What is cause of polar bear's skin diseases?
+"The World Conservation Union listed polar bears as a vulnerable species, one of three sub-categories of threatened status, in May 2006. Their latest estimate is that 7 out of 19 subpopulations are declining or already severely reduced.",S08_set1_a4,polar_bear,too hard,hard,Why polar bear is a special species?
+The polar bear diverged from the brown bear about 200 thousand years ago.,S08_set1_a4,polar_bear,medium,hard,What do fossil and DNA evidence tell us?
+The polar bear diverged from the brown bear roughly 200 thousand years ago.,S08_set1_a4,polar_bear,medium,hard,What do fossil and DNA evidence tell us?
+yes,S08_set1_a4,polar_bear,easy,easy,Does a polar bear live in the Arctic?
+Yes,S08_set1_a4,polar_bear,easy,easy,Does a polar bear live in the Arctic?
+yes,S08_set1_a4,polar_bear,medium,easy,Is a polar bear white in color?
+Yes,S08_set1_a4,polar_bear,easy,easy,Is a polar bear white in color?
+yes,S08_set1_a4,polar_bear,easy,easy,Is a polar bear at high risk of extinction?
+Yes,S08_set1_a4,polar_bear,easy,easy,Is a polar bear at high risk of extinction?
+300-600 kg (660-1320 lb),S08_set1_a4,polar_bear,medium,medium,How heavy is a male polar bear?
+Most adult males weigh 350-650 kg,S08_set1_a4,polar_bear,too hard,medium,How heavy is a male polar bear?
+1002 kg (2200 lb),S08_set1_a4,polar_bear,medium,medium,How heavy was the largest polar bear on record?
+He allegedly weighed 1002 kg,S08_set1_a4,polar_bear,medium,medium,How heavy was the largest polar bear on record?
+It provides the animal with effective camouflage.,S08_set1_a4,polar_bear,medium,medium,What does a polar bear's fur provide?
+A polar bear's fur provides camouflage and insulation,S08_set1_a4,polar_bear,medium,medium,What does a polar bear's fur provide?
+no,S08_set1_a4,polar_bear,medium,hard,Do female polar bears weight more than the male?
+No,S08_set1_a4,polar_bear,easy,hard,Do female polar bears weight more than the male?
+They gain double their weight.,S08_set1_a4,polar_bear,medium,hard,How much weight do female polar bears gain during pregnancy?
+They double their weight during pregnancy,S08_set1_a4,polar_bear,medium,hard,How much weight do female polar bears gain during pregnancy?
+Polar bears are nearly invisible under infrared photography.,S08_set1_a4,polar_bear,easy,hard,Can polar bears be seen under infrared photography?
+Only their breath and muzzles can be easily seen,S08_set1_a4,polar_bear,hard,hard,Can polar bears be seen under infrared photography?
+A polar bear's skin.,S08_set1_a4,polar_bear,medium,,What is actually black in color?
+Its think blubber and fur.,S08_set1_a4,polar_bear,medium,,What insulate it against the cold?
+Database entry.,S08_set1_a4,polar_bear,medium,,What includes a lengthy justification of why this species is listed as vulnerable?
+They filed lawsuits in California.,S08_set1_a4,polar_bear,medium,,What do with greenpeace and the natural resources defense council have in common?
+It is arguable.,S08_set1_a4,polar_bear,medium,,Are studies insufficient evidence for global protection?
+yes,S08_set1_a4,polar_bear,easy,,Are polar bears excellent swimmers?
+"It has adapted for life on a combination of land, sea, and ice.",S08_set1_a4,polar_bear,medium,,"A semi-aquatic marine mammal , the polar bear has what?"
+"Garbage is now recycled or transported to Thompson, Manitoba.",S08_set1_a4,polar_bear,medium,,Garbage is what?
+They sometimes have problems with various skin diseases with dermatitis caused sometimes by mites or other parasites.,S08_set1_a4,polar_bear,medium,,The bears sometimes what?
+yes,S08_set1_a4,polar_bear,easy,,Is the Polar Bear the mascot of Bowdoin college ?
+yes,S08_set1_a4,polar_bear,easy,,Have thumbpolar bears been made both controversial and famous for their distinctive white fur and their habitat ?
+no,S08_set1_a4,polar_bear,easy,,"Did Mitchell Taylor , the Nunavut Government Manager of Wildlife Research , not write a letter to the U.S. Fish and Wildlife Service arguing that local studies are insufficient evidence for global protection at this time ?"
+yes,S08_set1_a4,polar_bear,easy,,Are Cubs born in December without awakening the mother ?
+No.,S08_set2_a3,Qatar,easy,easy,Does Qatar rank as the eighth richest country in the world per capita?
+no,S08_set2_a3,Qatar,easy,easy,Does Qatar rank as the eighth richest country in the world per capita?
+Yes.,S08_set2_a3,Qatar,easy,easy,Do nearly all Qataris profess Islam?
+yes,S08_set2_a3,Qatar,easy,easy,Do nearly all Qataris profess Islam?
+Yes.,S08_set2_a3,Qatar,easy,easy,Can women legally drive in Qatar?
+yes,S08_set2_a3,Qatar,easy,easy,Can women legally drive in Qatar?
+"September 3, 1971.",S08_set2_a3,Qatar,medium,medium,When did Qatar become an independent state?
+"September 3, 1971",S08_set2_a3,Qatar,medium,medium,When did Qatar become an independent state?
+Doha.,S08_set2_a3,Qatar,medium,medium,Where is Qatar's telecommunication system centered?
+Doha,S08_set2_a3,Qatar,medium,medium,Where is Qatar's telecommunication system centered?
+At the Doha Players Theatre.,S08_set2_a3,Qatar,medium,medium,Where did a suicide-bombing kill a teacher in 2005?
+Doha Players Theatre,S08_set2_a3,Qatar,medium,medium,Where did a suicide-bombing kill a teacher in 2005?
+Yes.,S08_set2_a3,Qatar,hard,hard,Does the native pronunciation of Qatar sound like 'cutter'?
+no,S08_set2_a3,Qatar,hard,hard,Does the native pronunciation of Qatar sound like 'cutter'?
+baladiyah.,S08_set2_a3,Qatar,hard,hard,What is the Arabic word for municipalities?
+baladiyah,S08_set2_a3,Qatar,hard,hard,What is the Arabic word for municipalities?
+"Carnegie Mellon University, Georgetown University School of Foreign Service, Texas A&M University, Virginia Commonwealth University, and Cornell University's Weill Medical College.",S08_set2_a3,Qatar,hard,hard,What universities are in Education City?
+"Carnegie Mellon University, Georgetown University School of Foreign Service, Texas A&M University, Virginia Commonwealth University, and Cornell University",S08_set2_a3,Qatar,hard,hard,What universities are in Education City?
+The British Protectorate (per Colonel Lewis Pelly) asking to negotiate with a representative from Qatar after Bahrain's violation of the 1820 Anglo-Bahraini Treaty.,S08_set2_a3,Qatar,hard,,What carried with it a tacit recognition of Qatar's status as distinct from Bahrain?
+"On September 3, 1971.",S08_set2_a3,Qatar,medium,,Qatar became an independent sovereign state in what year?
+Much of the country.,S08_set2_a3,Qatar,medium,,"What consists of a low, barren plain, covered with sand?"
+Qatar is aiming to become a role model for economic and social transformation in the region. Large scale investment in all social and economic sectors will also lead to the development of a strong financial market.,S08_set2_a3,Qatar,too hard,,How do qatar and the wider region relate?
+Yes,S08_set2_a3,Qatar,medium,,Was Qatar University founded in 1973?
+Yes,S08_set2_a3,Qatar,easy,,Is Qatar bordered by Saudi Arabia to the south?
+Qatar,S08_set2_a3,Qatar,medium,,What bordered by Saudi?
+Qatar.,S08_set2_a3,Qatar,medium,,Who served as the headquarters and one of the main launching sites of the US invasion of Iraq in 2003 ?
+Yes,S08_set2_a3,Qatar,easy,,Has Qatar a modern Telecommunication system centered in Doha ?
+Yes,S08_set2_a3,Qatar,easy,,Was Qatar University founded in 1973 ?
+Yes,S08_set2_a3,Qatar,easy,,"Did the Qataris not choose as their negotiator the respected entrepreneur and long-time resident of Doha , Muhammed bin Thani ?"
+Yes,S08_set2_a3,Qatar,easy,,Will oil and gas probably remain the backbone of Qatar 's economy for some time to come ?
+Yes,S08_set2_a3,Qatar,easy,,"Has it been created with a long term perspective to support the development of Qatar and the wider region , develop local and regional markets , and strengthen the links between the energy based economies and global financial markets ?"
+These allophones cannot occur there.,S08_set2_a3,Qatar,medium,,What happened in these positions in english?
+yes,S08_set2_a3,Qatar,easy,,Can these allophones not occur in these positions in english?
+Yes,S08_set2_a3,Qatar,easy,,"Is -RRB- , officially the state of qatar -LRB- arabic (: : transliterated as dawlat qatar -RRB- , an arab emirate in southwest asia?"
+Yes.,S08_set2_a7,Romania,medium,easy,Does Romania border Hungary?
+yes,S08_set2_a7,Romania,easy,easy,Does Romania border Hungary?
+Yes.,S08_set2_a7,Romania,easy,easy,Is Romania a secular state?
+yes,S08_set2_a7,Romania,easy,easy,Is Romania a secular state?
+Yes.,S08_set2_a7,Romania,easy,easy,Is the president elected by popular vote?
+yes,S08_set2_a7,Romania,easy,easy,Is the president elected by popular vote?
+41.,S08_set2_a7,Romania,medium,medium,How many counties is Romania divided into?
+forty-one,S08_set2_a7,Romania,medium,medium,How many counties is Romania divided into?
+Moldoveanu Peak.,S08_set2_a7,Romania,medium,medium,What is the highest mountain in Romania?
+Moldoveanu Peak,S08_set2_a7,Romania,medium,medium,What is the highest mountain in Romania?
+Romanian.,S08_set2_a7,Romania,medium,medium,What is the official language of Romania?
+Romanian,S08_set2_a7,Romania,medium,medium,What is the official language of Romania?
+Yes.,S08_set2_a7,Romania,too hard,hard,Is the Romanian economy doing well?
+No.,S08_set2_a7,Romania,too hard,hard,Are there many Roma in Romania?
+no,S08_set2_a7,Romania,too hard,hard,Are there many Roma in Romania?
+2.,S08_set2_a7,Romania,too hard,hard,How many territories joined to form Romania?
+2,S08_set2_a7,Romania,too hard,hard,How many territories joined to form Romania?
+yes,S08_set2_a7,Romania,easy,easy,Does Romania share a border with Ukraine?
+Yes,S08_set2_a7,Romania,easy,easy,Does Romania share a border with Ukraine?
+yes,S08_set2_a7,Romania,easy,easy,Did Romania declare neutrality during World War I?
+Yes,S08_set2_a7,Romania,easy,easy,Did Romania declare neutrality during World War I?
+yes,S08_set2_a7,Romania,easy,easy,Does Romania share the same language with Moldova?
+Practically,S08_set2_a7,Romania,medium,easy,Does Romania share the same language with Moldova?
+Nadia Comăneci,S08_set2_a7,Romania,medium,medium,"Who was the first gymnast to score a perfect ""ten""?"
+Nadia Comăneci,S08_set2_a7,Romania,medium,medium,"Who was the first gymnast to score a perfect ""ten""?"
+Bucharest,S08_set2_a7,Romania,medium,medium,What is the largest city in Romania?
+Bucharest,S08_set2_a7,Romania,medium,medium,What is the largest city in Romania?
+Hungarians,S08_set2_a7,Romania,medium,medium,What is the largest ethnic minority in Romania?
+Hungarians,S08_set2_a7,Romania,medium,medium,What is the largest ethnic minority in Romania?
+eleven,S08_set2_a7,Romania,hard,hard,How many countries in Europe are bigger than Romania?
+Eleven,S08_set2_a7,Romania,too hard,hard,How many countries in Europe are bigger than Romania?
+Romania is a secular state,S08_set2_a7,Romania,hard,hard,Why doesn't Romania have a state religion?
+it received a Soviet ultimatum,S08_set2_a7,Romania,hard,hard,Why wasn't Romania neutral during World War II?
+The Soviets threatened invasion.,S08_set2_a7,Romania,hard,hard,Why wasn't Romania neutral during World War II?
+2007,S08_set2_a7,Romania,medium,,"Sibiu, a large city in Transylvania, was chosen as European Capital of Culture in what year?"
+the remains (the lower jaw) of the oldest modern human,S08_set2_a7,Romania,hard,,"What are approximately 42,000 years old and have been nicknamed`` John of Anina''?"
+Yes,S08_set2_a7,Romania,easy,,"Is it true that romania has a population of 21,698,181?"
+(not sure how to answer this),S08_set2_a7,Romania,,,What do economy and law have in common?
+investments worth 400 million euros,S08_set2_a7,Romania,medium,,What did Tourism in Romania attract in 2005?
+Yes,S08_set2_a7,Romania,easy,,Is Romania a secular state?
+Yes,S08_set2_a7,Romania,easy,,Is Romania a semi-presidential unitary state?
+,S08_set2_a7,Romania,,,
+,S08_set2_a7,Romania,,,
+Yes,S08_set2_a7,Romania,easy,,Is Romania a semi-presidential democratic republic where executive functions are shared between the president and the prime minister ?
+Yes,S08_set2_a7,Romania,easy,,Was Gellu Naum the leader of the surrealist movement in Romania ?
+Yes,S08_set2_a7,Romania,easy,,Was the Bucharest Metro only opened in 1979 ?
+Yes,S08_set2_a7,Romania,easy,,"Is romania -LRB- , -RRB- a country in southeastern europe?"
+Yes,S08_set2_a7,Romania,easy,,Is romania a semi-presidential unitary state?
+"Yes, they do.",S08_set2_a2,Singapore,easy,easy,Do singaporeans enjoy squid?
+yes,S08_set2_a2,Singapore,easy,easy,Do singaporeans enjoy squid?
+,S08_set2_a2,Singapore,,easy,Do singaporeans enjoy squid?
+"No, the standard living was raised.",S08_set2_a2,Singapore,medium,easy,Did Singapore's standard of living decrease since independence?
+no,S08_set2_a2,Singapore,easy,easy,Did Singapore's standard of living decrease since independence?
+,S08_set2_a2,Singapore,,easy,Did Singapore's standard of living decrease since independence?
+"No, it contributed 1.56% to GDP in 2001.",S08_set2_a2,Singapore,medium,easy,Did the media contribute 15.6% to Singapore's GDP in 2001?
+no,S08_set2_a2,Singapore,easy,easy,Did the media contribute 15.6% to Singapore's GDP in 2001?
+,S08_set2_a2,Singapore,,easy,Did the media contribute 15.6% to Singapore's GDP in 2001?
+More than 2.78 million people.,S08_set2_a2,Singapore,easy,medium,How many people use the bus network daily?
+2.78 million people,S08_set2_a2,Singapore,medium,medium,How many people use the bus network daily?
+,S08_set2_a2,Singapore,,medium,How many people use the bus network daily?
+"Orang Laut people lived around the coast, rivers and smaller islands.",S08_set2_a2,Singapore,easy,medium,Where did Orang Laut people live?
+"Several hundred indigenous Orang Laut people also lived around the coast, rivers and smaller islands.",S08_set2_a2,Singapore,medium,medium,Where did Orang Laut people live?
+,S08_set2_a2,Singapore,,medium,Where did Orang Laut people live?
+One of three heavy rail passenger transport lines in Singapore.,S08_set2_a2,Singapore,medium,medium,What is the MRT?
+Mass Rapid Transit system,S08_set2_a2,Singapore,medium,medium,What is the MRT?
+,S08_set2_a2,Singapore,,medium,What is the MRT?
+Singapore has a tropical rainforest climate with no distinctive seasons.,S08_set2_a2,Singapore,medium,hard,How is Singapore's climate characterized?
+"Its climate is characterized by uniform temperature and pressure, high humidity, and abundant rainfall",S08_set2_a2,Singapore,medium,hard,How is Singapore's climate characterized?
+,S08_set2_a2,Singapore,,hard,How is Singapore's climate characterized?
+The government seeks to increase its GDP contribution to 3% by 2012.,S08_set2_a2,Singapore,medium,hard,How much increase in the media's contribution to GDP is the government seeking?
+the government seeks to increase its GDP contribution to 3% by 2012.,S08_set2_a2,Singapore,medium,hard,How much increase in the media's contribution to GDP is the government seeking?
+,S08_set2_a2,Singapore,,hard,How much increase in the media's contribution to GDP is the government seeking?
+Six days,S08_set2_a2,Singapore,medium,hard,How many days did it take the Imperial Japanese Army to win the Battle of Singapore?
+6 days,S08_set2_a2,Singapore,hard,hard,How many days did it take the Imperial Japanese Army to win the Battle of Singapore?
+,S08_set2_a2,Singapore,,hard,How many days did it take the Imperial Japanese Army to win the Battle of Singapore?
+no,S08_set2_a2,Singapore,easy,easy,Is Singapore located at the southern tip of the Korean Penisula?
+Yes.,S08_set2_a2,Singapore,easy,easy,Is Singapore located at the southern tip of the Korean Penisula?
+yes,S08_set2_a2,Singapore,easy,easy,Is Singapore a city-state?
+Yes.,S08_set2_a2,Singapore,easy,easy,Is Singapore a city-state?
+yes,S08_set2_a2,Singapore,hard,easy,Has Sang Nila Utama visited Singapore?
+Yes.,S08_set2_a2,Singapore,easy,easy,Has Sang Nila Utama visited Singapore?
+lion,S08_set2_a2,Singapore,medium,medium,"What does ""singa"" mean?"
+second century AD,S08_set2_a2,Singapore,easy,medium,When is the first record of S08_settlement in Singapore?
+The first records of S08_settlement in Singapore are from the second century AD.,S08_set2_a2,Singapore,medium,medium,When is the first record of S08_settlement in Singapore?
+Japan,S08_set2_a2,Singapore,hard,medium,Which nation invaded Singapore during World War II?
+"During World War II, the Imperial Japanese Army invaded Malaya, culminating in the Battle of Singapore.",S08_set2_a2,Singapore,medium,medium,Which nation invaded Singapore during World War II?
+The British were defeated in six days,S08_set2_a2,Singapore,hard,hard,"Why Churchill called the occupation of Singapor by Janpan during WWII ""Britain's greatest defeat""?"
+yes,S08_set2_a2,Singapore,too hard,hard,Was Lee Kuan Yew a successful leader of Singapore?
+Yes.,S08_set2_a2,Singapore,too hard,hard,Was Lee Kuan Yew a successful leader of Singapore?
+"In 1990, Goh Chok Tong succeeded Lee as Prime Minister.",S08_set2_a2,Singapore,medium,easy,When did Goh Chok Tong succeed Lee as Prime Minister?
+,S08_set2_a2,Singapore,,easy,When did Goh Chok Tong succeed Lee as Prime Minister?
+The primary domestic source of water supply in Singapore is rainfall.,S08_set2_a2,Singapore,medium,easy,What is the primary domestic source of water supply?
+,S08_set2_a2,Singapore,,easy,What is the primary domestic source of water supply?
+The national language of Singapore is Malay.,S08_set2_a2,Singapore,medium,easy,What is the national language of Singapore?
+,S08_set2_a2,Singapore,,easy,What is the national language of Singapore?
+Singapore Botanic Gardens.,S08_set2_a2,Singapore,medium,medium,Where is the National Orchid Garden?
+,S08_set2_a2,Singapore,,medium,Where is the National Orchid Garden?
+"Due to obvious geographical reasons, relations with Malaysia and Indonesia are most important.",S08_set2_a2,Singapore,medium,medium,Why are relations with Malaysia and Indonesia important?
+,S08_set2_a2,Singapore,,medium,Why are relations with Malaysia and Indonesia important?
+Monaco,S08_set2_a2,Singapore,hard,medium,What is the most densely populated independent country in the world?
+,S08_set2_a2,Singapore,,medium,What is the most densely populated independent country in the world?
+British East India Company,S08_set2_a2,Singapore,hard,hard,Who did Sir Thomas Stamford Raffles work for?
+,S08_set2_a2,Singapore,,hard,Who did Sir Thomas Stamford Raffles work for?
+1959,S08_set2_a2,Singapore,medium,hard,When was Lee Kuan Yew prime minister of Singapore?
+,S08_set2_a2,Singapore,,hard,When was Lee Kuan Yew prime minister of Singapore?
+There are laws which allow capital punishment in Singapore for first-degree murder and drug trafficking.,S08_set2_a2,Singapore,hard,hard,What is the punishment for first-degree murder?
+,S08_set2_a2,Singapore,,hard,What is the punishment for first-degree murder?
+British East India Company,S08_set2_a2,Singapore,easy,,What established a trading post on the island in 1819?
+British,S08_set2_a2,Singapore,easy,,What used Singapore as a strategic trading post along the spice route?
+Singapore,S08_set2_a2,Singapore,medium,,What became one of the most important commercial and military centres of the British Empire?
+British India office,S08_set2_a2,Singapore,hard,,"Who boasted a sizeable community of 100,000 by 1869?"
+"By 2001, there were 19 raw water reservoirs, 9 treatment works and 14 storage or service reservoirs locally to serve domestic needs.",S08_set2_a2,Singapore,hard,,How do reservoirs and water relate?
+Yes,S08_set2_a2,Singapore,easy,,Is it true that singapore has several long - standing disputes with malaysia?
+Yes,S08_set2_a2,Singapore,easy,,Has Singapore Changi Airport a network of 81 airlines connecting Singapore to 185 cities in 58 countries ?
+Yes,S08_set2_a2,Singapore,easy,,Has Singapore a network of reservoirs and water catchment areas ?
+Yes,S08_set2_a2,Singapore,easy,,"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?"
+No,S08_set2_a2,Singapore,medium,,"Does the economy not depend heavily on exports refining imported goods , especially in manufacturing ?"
+Yes,S08_set2_a2,Singapore,easy,,"Is singapore -LRB- ; (: ; , -RRB- , officially the republic of singapore -LRB- ; (: ; , -RRB- , an island nation located at the southern tip of the malay peninsula?"
+No,S08_set2_a2,Singapore,easy,,Is singapore the 17th wealthiest country in the world in terms of gdp per capita?
+Yes,S08_set3_a7,Theodore_Roosevelt,easy,easy,Was Thedore Roosevelt  a member of the Republican Party?
+Yes,S08_set3_a7,Theodore_Roosevelt,easy,easy,Was Thedore Roosevelt  a member of the Republican Party?
+Yes,S08_set3_a7,Theodore_Roosevelt,easy,easy,Does Theodore Roosevelt have a brother?
+Yes,S08_set3_a7,Theodore_Roosevelt,medium,easy,Does Theodore Roosevelt have a brother?
+Yes,S08_set3_a7,Theodore_Roosevelt,easy,easy,Did Theodore Roosevelt go to Harvard?
+Yes,S08_set3_a7,Theodore_Roosevelt,medium,easy,Did Theodore Roosevelt go to Harvard?
+28 East 20th Street in the modern-day Gramercy section of New York City,S08_set3_a7,Theodore_Roosevelt,medium,medium,Where was Theodore Roosevelt born?
+"a four-story brownstone at 28 East 20th Street, in the modern-day Gramercy section of New York City",S08_set3_a7,Theodore_Roosevelt,easy,medium,Where was Theodore Roosevelt born?
+Roosevelt took up exercise,S08_set3_a7,Theodore_Roosevelt,hard,medium,What did Roosevelt do to improve his physical condition?
+He started boxing,S08_set3_a7,Theodore_Roosevelt,hard,medium,What did Roosevelt do to improve his physical condition?
+To deal with bullies,S08_set3_a7,Theodore_Roosevelt,medium,medium,Why did Roosevelt start Boxing lessons?
+To deal with bullies,S08_set3_a7,Theodore_Roosevelt,medium,medium,Why did Roosevelt start Boxing lessons?
+Bamie as a child and Bye as an adult,S08_set3_a7,Theodore_Roosevelt,medium,hard,What was the nickname of Theodore Roosevelt's sister Anna?
+Bamie,S08_set3_a7,Theodore_Roosevelt,medium,hard,What was the nickname of Theodore Roosevelt's sister Anna?
+Noting that his children had been educated with other races and there was nothing wrong with it,S08_set3_a7,Theodore_Roosevelt,too hard,hard,What was Roosevelt's justification for supporting desegregation of schools in New York?
+that his children had been educated with other races and there was nothing wrong with it,S08_set3_a7,Theodore_Roosevelt,hard,hard,What was Roosevelt's justification for supporting desegregation of schools in New York?
+"""mixing of the races on social occassions""",S08_set3_a7,Theodore_Roosevelt,hard,hard,How did newspapers respond to Roosevelt inviting Brooker T. Washington to dinner at the White House?
+They outraged.,S08_set3_a7,Theodore_Roosevelt,hard,hard,How did newspapers respond to Roosevelt inviting Brooker T. Washington to dinner at the White House?
+No,S08_set3_a7,Theodore_Roosevelt,easy,easy,Did Theodore Roosevelt study Judo?
+No clue,S08_set3_a7,Theodore_Roosevelt,easy,easy,Did Theodore Roosevelt study Judo?
+yes,S08_set3_a7,Theodore_Roosevelt,hard,easy,Did Roosevelt receive a Medal of Honor?
+nein,S08_set3_a7,Theodore_Roosevelt,hard,easy,Did Roosevelt receive a Medal of Honor?
+yes,S08_set3_a7,Theodore_Roosevelt,easy,easy,Did Roosevelt study biology?
+He was strong in biology.,S08_set3_a7,Theodore_Roosevelt,medium,easy,Did Roosevelt study biology?
+Gramercy section of New York City,S08_set3_a7,Theodore_Roosevelt,hard,medium,Where was Theodore Roosevelt from?
+New York City,S08_set3_a7,Theodore_Roosevelt,medium,medium,Where was Theodore Roosevelt from?
+Lincoln was Roosevelt's presidential hero.,S08_set3_a7,Theodore_Roosevelt,medium,medium,Who was Roosevelt's presidential hero?
+Lincoln was Roosevelt's presidential hero,S08_set3_a7,Theodore_Roosevelt,easy,medium,Who was Roosevelt's presidential hero?
+"On January 6, 1919, Roosevelt died in his sleep.",S08_set3_a7,Theodore_Roosevelt,medium,medium,When did Roosevelt die?
+"On January 6, 1919, Roosevelt died in his sleep.",S08_set3_a7,Theodore_Roosevelt,medium,medium,When did Roosevelt die?
+Financed by Andrew Carnegie and his own proposed writings,S08_set3_a7,Theodore_Roosevelt,hard,hard,Who helped to fund Roosevelt's African safari?
+Andrew Carnegie,S08_set3_a7,Theodore_Roosevelt,medium,hard,Who helped to fund Roosevelt's African safari?
+yes,S08_set3_a7,Theodore_Roosevelt,too hard,hard,Did Roosevelt support racial integration in schools?
+He supported a bill allowing school desegregation in New York State.,S08_set3_a7,Theodore_Roosevelt,hard,hard,Did Roosevelt support racial integration in schools?
+yes,S08_set3_a7,Theodore_Roosevelt,hard,hard,Was Roosevelt's family rich?
+,S08_set3_a7,Theodore_Roosevelt,,hard,Was Roosevelt's family rich?
+Yes,S08_set1_a9,turtle,easy,easy,Are turtles ectothermic?
+yes,S08_set1_a9,turtle,easy,easy,Are turtles ectothermic?
+No,S08_set1_a9,turtle,medium,easy,Does the mother care for the young?
+no,S08_set1_a9,turtle,medium,easy,Does the mother care for the young?
+Yes,S08_set1_a9,turtle,medium,easy,Are turtles pets?
+yes,S08_set1_a9,turtle,easy,easy,Are turtles pets?
+Spherical,S08_set1_a9,turtle,medium,medium,What shape are the eggs of the larest species of turtle?
+spherical,S08_set1_a9,turtle,medium,medium,What shape are the eggs of the larest species of turtle?
+Every few years or more,S08_set1_a9,turtle,medium,medium,How often do turtles breed?
+air,S08_set1_a9,turtle,easy,medium,What do all turtles and tortoises breathe?
+air,S08_set1_a9,turtle,medium,medium,What do all turtles and tortoises breathe?
+They lay eggs,S08_set1_a9,turtle,too hard,hard,How do turtles reproduce?
+they lay eggs,S08_set1_a9,turtle,hard,hard,How do turtles reproduce?
+They do not gradually break down or become less efficient over time,S08_set1_a9,turtle,hard,hard,What has been discovered about turtles organs?
+they do not break down,S08_set1_a9,turtle,hard,hard,What has been discovered about turtles organs?
+Pleurodira,S08_set1_a9,turtle,hard,hard,What suborder of turtle draws its head into its shell?
+Pleurodira,S08_set1_a9,turtle,hard,hard,What suborder of turtle draws its head into its shell?
+Yes,S08_set1_a9,turtle,easy,easy,Do sea turtles lay eggs on dry sandy beaches?
+yes,S08_set1_a9,turtle,easy,easy,Do sea turtles lay eggs on dry sandy beaches?
+Yes,S08_set1_a9,turtle,easy,easy,Are Pleurodira known as side-necked turtles?
+yes,S08_set1_a9,turtle,easy,easy,Are Pleurodira known as side-necked turtles?
+*shrug*,S08_set1_a9,turtle,easy,easy,Are turtles a part of the Flying Spaghetti Monster?
+Three.,S08_set1_a9,turtle,medium,medium,How many suborders are turtles divided into?
+three,S08_set1_a9,turtle,medium,medium,How many suborders are turtles divided into?
+Russian Tortoises,S08_set1_a9,turtle,hard,medium,Name a turtle popularly kept as a pet.
+Russian Tortoises,S08_set1_a9,turtle,hard,medium,Name a turtle popularly kept as a pet.
+"Triassic, Ernst Haeckel, Kunstformen der Natur, Animal",S08_set1_a9,turtle,medium,medium,Name four related articles for the article on turtles.
+"Triassic, Ernst Haeckel, Kunstformen der Natur, Animal",S08_set1_a9,turtle,hard,medium,Name four related articles for the article on turtles.
+A female turtle.,S08_set1_a9,turtle,hard,hard,"If a turtle egg was kept warm, what would likely hatch?"
+A female turtle,S08_set1_a9,turtle,too hard,hard,"If a turtle egg was kept warm, what would likely hatch?"
+Papillae,S08_set1_a9,turtle,hard,hard,What do turles use to breathe in the water?
+Because of the way they withdraw their heads into their shells.,S08_set1_a9,turtle,medium,hard,Why are side-necked turtles called side-necked turtles?
+The way they withdraw their heads into their shells.,S08_set1_a9,turtle,hard,hard,Why are side-necked turtles called side-necked turtles?
+No,S08_set1_a9,turtle,easy,easy,Do turtles lay eggs underwater?
+no,S08_set1_a9,turtle,easy,easy,Do turtles lay eggs underwater?
+Yes,S08_set1_a9,turtle,easy,easy,Are turtle eggs leathery and soft?
+yes,S08_set1_a9,turtle,easy,easy,Are turtle eggs leathery and soft?
+Yes,S08_set1_a9,turtle,easy,easy,Are turtles being examined for longevity genes?
+yes,S08_set1_a9,turtle,easy,easy,Are turtles being examined for longevity genes?
+Paracryptodira,S08_set1_a9,turtle,medium,medium,What suborder of turtles is extinct?
+Paracryptodira,S08_set1_a9,turtle,medium,medium,What suborder of turtles is extinct?
+Yolk,S08_set1_a9,turtle,medium,medium,What do turtle eggs preared to eat consist mainly of?
+Holes Dug into the Mud or Sand,S08_set1_a9,turtle,medium,medium,Where do sea turtles lay their eggs?
+holes dug into mud or sand,S08_set1_a9,turtle,hard,medium,Where do sea turtles lay their eggs?
+Pleurodira,S08_set1_a9,turtle,medium,hard,What is the smallest suborder of turtles?
+Pleurodira,S08_set1_a9,turtle,hard,hard,What is the smallest suborder of turtles?
+Mud or Sand,S08_set1_a9,turtle,hard,hard,What are turtle eggs covered in when they incubate?
+mud or sand,S08_set1_a9,turtle,hard,hard,What are turtle eggs covered in when they incubate?
+Amniotes,S08_set1_a9,turtle,hard,hard,What type of creatures breathe air and don't lay eggs underwater?
+amnoites,S08_set1_a9,turtle,medium,hard,What type of creatures breathe air and don't lay eggs underwater?
+eggs,S08_set1_a9,turtle,easy,,What are deposited in holes dug into mud or sand?
+all of them,S08_set1_a9,turtle,medium,,What sort of turtles are ectothermic?
+yes,S08_set1_a9,turtle,easy,,Are turtles ectothermic?
+yes,S08_set1_a9,turtle,easy,,Are the largest turtles aquatic?
+yes,S08_set1_a9,turtle,easy,,Is aquatic respiration in Australian freshwater turtles being studied?
+a rich blood supply,S08_set1_a9,turtle,medium,,"These projections , called papillae , have what?"
+spherical,S08_set1_a9,turtle,medium,,The eggs of the largest species are what?
+yes,S08_set1_a9,turtle,easy,,Has this inspired genetic researchers to begin examining the turtle genome for longevity genes ?
+yes,S08_set1_a9,turtle,easy,,Can turtles take many years to reach breeding age ?
+yes,S08_set1_a9,turtle,medium,,Are Immature sea turtles not cared for by the adults ?
+yes,S08_set1_a9,turtle,easy,,"Are the Pleurodira sometimes known as the side-necked turtles , a reference to the way they withdraw their heads into their shells ?"
+yes,S08_set1_a9,turtle,easy,,"Does the Order Testudines not include both extant -LRB- living -RRB- and extinct species , the earliest known turtles being from around 215 million years ago ?"
+Yes,S08_set3_a5,Ulysses_S._Grant,easy,easy,Was Ulysses Grant a general in the American Civil War?
+yes,S08_set3_a5,Ulysses_S._Grant,easy,easy,Was Ulysses Grant a general in the American Civil War?
+Yes,S08_set3_a5,Ulysses_S._Grant,easy,easy,Was Grant's father-in-law a Democrat?
+yup,S08_set3_a5,Ulysses_S._Grant,easy,easy,Was Grant's father-in-law a Democrat?
+Yes,S08_set3_a5,Ulysses_S._Grant,easy,easy,Did Ulysses win the Battle of Champion Hill?
+you betcha,S08_set3_a5,Ulysses_S._Grant,hard,easy,Did Ulysses win the Battle of Champion Hill?
+Fred Dent,S08_set3_a5,Ulysses_S._Grant,medium,medium,Who was Grant's brother in law?
+Fred Dent,S08_set3_a5,Ulysses_S._Grant,medium,medium,Who was Grant's brother in law?
+"Point Pleasant, Ohio",S08_set3_a5,Ulysses_S._Grant,medium,medium,Where was Grant born?
+"A log cabin in Point Pleasant, Clermont County, Ohio",S08_set3_a5,Ulysses_S._Grant,easy,medium,Where was Grant born?
+Republican,S08_set3_a5,Ulysses_S._Grant,hard,medium,What was Grant's political affiliation?
+Republican,S08_set3_a5,Ulysses_S._Grant,hard,medium,What was Grant's political affiliation?
+It went well.,S08_set3_a5,Ulysses_S._Grant,hard,hard,"Why did Grant say ""Damn, I had nothing to do with this batte.""?"
+Because the generals under him acted on their own.,S08_set3_a5,Ulysses_S._Grant,too hard,hard,"Why did Grant say ""Damn, I had nothing to do with this batte.""?"
+Yes,S08_set3_a5,Ulysses_S._Grant,hard,hard,Did Horace Greenley lose in the presidential elections of 1872?
+si,S08_set3_a5,Ulysses_S._Grant,medium,hard,Did Horace Greenley lose in the presidential elections of 1872?
+He thought it was designed to gain land open to slavery.,S08_set3_a5,Ulysses_S._Grant,medium,hard,Why did Grant think that war was unjust?
+He accepted the theory that it was designed to gain land open to slavery.,S08_set3_a5,Ulysses_S._Grant,medium,hard,Why did Grant think that war was unjust?
+Grant,S08_set3_a5,Ulysses_S._Grant,too easy,,Who achieved international fame as the leading Union general in the American Civil War?
+1868,S08_set3_a5,Ulysses_S._Grant,medium,,Grant was elected president as a Republican in what year?
+Grant,S08_set3_a5,Ulysses_S._Grant,too easy,,Who took a hard line that reduced violence by groups like the Ku Klux Klan?
+1856,S08_set3_a5,Ulysses_S._Grant,easy,,When did he vote for democrat james buchanan?
+Grant,S08_set3_a5,Ulysses_S._Grant,too easy,,"Who did President Lincoln promote of major general in the regular army, effective July 4?"
+yes,S08_set3_a5,Ulysses_S._Grant,easy,,Was Grant elected president as a Republican?
+His father,S08_set3_a5,Ulysses_S._Grant,medium,,What was from Pennsylvania?
+yes,S08_set3_a5,Ulysses_S._Grant,easy,,Was it a two-sentence description that completely caught the essence of Ulysses S. Grant ?
+yes,S08_set3_a5,Ulysses_S._Grant,easy,,Was Grant 's favorite brand of bourbon whiskey Old Crow ?
+yes,S08_set3_a5,Ulysses_S._Grant,easy,,Had he smoked only sporadically ?
+they did,S08_set3_a5,Ulysses_S._Grant,easy,,"Did Grant & Perkins not sell harnesses , saddles , and other leather goods and purchase hides from farmers in the prosperous Galena area ?"
+yes,S08_set3_a5,Ulysses_S._Grant,easy,,Is the famous dragon gate at the entrance to the district at the corner of Grant and Bush Street ?
+he accepted the surrender of Robert E. Lee,S08_set3_a5,Ulysses_S._Grant,medium,,What happened in 1865?
+his reputation as president has improved,S08_set3_a5,Ulysses_S._Grant,medium,,What happened in recent years?
+No.,S08_set2_a9,Uruguay,easy,easy,Is Uruguay located in the northwesten part of Africa?
+no,S08_set2_a9,Uruguay,medium,easy,Is Uruguay located in the northwesten part of Africa?
+Yes.,S08_set2_a9,Uruguay,easy,easy,Is Uruguay's capital Montevideo?
+yes,S08_set2_a9,Uruguay,easy,easy,Is Uruguay's capital Montevideo?
+No.,S08_set2_a9,Uruguay,easy,easy,Does Uruguay have cold summers?
+no,S08_set2_a9,Uruguay,medium,easy,Does Uruguay have cold summers?
+The Spanish.,S08_set2_a9,Uruguay,medium,medium,Who founded Montevideo?
+the Spanish,S08_set2_a9,Uruguay,hard,medium,Who founded Montevideo?
+"San Carlos, Maldonado.",S08_set2_a9,Uruguay,medium,medium,Where is Uruguay's oldest church?
+"San Carlos, Maldonado",S08_set2_a9,Uruguay,medium,medium,Where is Uruguay's oldest church?
+European immigrants.,S08_set2_a9,Uruguay,medium,medium,Who heavily influenced the architecture and culture of Montevideo?
+European immigrants,S08_set2_a9,Uruguay,hard,medium,Who heavily influenced the architecture and culture of Montevideo?
+Cantegriles.,S08_set2_a9,Uruguay,hard,hard,What are poor neighborhoods called informally?
+Cantegriles,S08_set2_a9,Uruguay,hard,hard,What are poor neighborhoods called informally?
+No.,S08_set2_a9,Uruguay,easy,hard,Is uruguay's landscape mountainous?
+not really?,S08_set2_a9,Uruguay,too hard,hard,Is uruguay's landscape mountainous?
+None.,S08_set2_a9,Uruguay,hard,hard,What religion do most Uruguayans profess?
+Roman Catholic,S08_set2_a9,Uruguay,hard,hard,What religion do most Uruguayans profess?
+Yes. It's located in the southeastern part,S08_set2_a9,Uruguay,easy,easy,Is Uruguay located in South America?
+Yes,S08_set2_a9,Uruguay,easy,easy,Is Uruguay located in South America?
+Yes. People are allowed to challenge laws.,S08_set2_a9,Uruguay,medium,easy,Can citizens propose changes to the Constitution?
+Yes,S08_set2_a9,Uruguay,medium,easy,Can citizens propose changes to the Constitution?
+"Yes, in 1930.",S08_set2_a9,Uruguay,easy,easy,Did Uruguay host the first ever World Cup?
+Yes,S08_set2_a9,Uruguay,easy,easy,Did Uruguay host the first ever World Cup?
+"By the Spanish, in the early 18th century",S08_set2_a9,Uruguay,medium,medium,Who founded Montevideo?
+Montevideo was founded by the Spanish in the early 18th century as a military stronghold.,S08_set2_a9,Uruguay,medium,medium,Who founded Montevideo?
+176.215 km��,S08_set2_a9,Uruguay,medium,medium,How many square kilometres of continental land is Uruguay?
+"176,214 square kilometres",S08_set2_a9,Uruguay,medium,medium,How many square kilometres of continental land is Uruguay?
+88%,S08_set2_a9,Uruguay,easy,medium,How much of the population is of white European descent?
+Approximately 88% of its population are of prevalently white European descent.,S08_set2_a9,Uruguay,medium,medium,How much of the population is of white European descent?
+For a military stronghold.,S08_set2_a9,Uruguay,medium,hard,Why was the capital of Uruguay founded?
+"Uruguay's capital, Montevideo, was founded by the Spanish in the early 18th century as a military stronghold.",S08_set2_a9,Uruguay,medium,hard,Why was the capital of Uruguay founded?
+Twice.,S08_set2_a9,Uruguay,hard,hard,How many times has Uruguay won the World Cup?
+On two or more occasions.,S08_set2_a9,Uruguay,hard,hard,How many times has Uruguay won the World Cup?
+African women earns 0.65 * 0.718  = 46.67% of a European man earns in average,S08_set2_a9,Uruguay,hard,hard,How much is the average income of an African woman compared to a European man?
+Yes,S08_set2_a9,Uruguay,easy,easy,Does Uruguay recognize same-sex civil unions?
+Yes,S08_set2_a9,Uruguay,easy,easy,Does Uruguay recognize same-sex civil unions?
+No,S08_set2_a9,Uruguay,easy,easy,Does Uruguay border French Guiana?
+No,S08_set2_a9,Uruguay,easy,easy,Does Uruguay border French Guiana?
+No,S08_set2_a9,Uruguay,easy,easy,Is Uruguay's warmest month June?
+No,S08_set2_a9,Uruguay,easy,easy,Is Uruguay's warmest month June?
+Referendum,S08_set2_a9,Uruguay,medium,medium,What does a citizen use to propose changes to the Constitution?
+Plebiscite,S08_set2_a9,Uruguay,medium,medium,What does a citizen use to propose changes to the Constitution?
+"San Carlos, Maldonado",S08_set2_a9,Uruguay,medium,medium,Where is Uruguay's oldest church?
+"San Carlos, Maldonado",S08_set2_a9,Uruguay,medium,medium,Where is Uruguay's oldest church?
+"Roman Catholic, Protestant, Jewish, and nonprofessing.",S08_set2_a9,Uruguay,hard,medium,What religions are found in Uruguay?
+"Roman Catholic, Protestant, Jewish",S08_set2_a9,Uruguay,medium,medium,What religions are found in Uruguay?
+"Labeling as ""Natural"" or ""Ecological""",S08_set2_a9,Uruguay,too hard,hard,What has Uruguay done to be competitive in agriculture?
+"Use low inputs of labour, technology, and capital, which results in lower yields but also opens the door for Uruguay to market its products as ""natural"" or ""ecological""",S08_set2_a9,Uruguay,too hard,hard,What has Uruguay done to be competitive in agriculture?
+Partido Colorado and Partido Blanco,S08_set2_a9,Uruguay,too hard,hard,What are the names of Uruguay's political parties?
+Partido Blanco and Partido Colorado,S08_set2_a9,Uruguay,hard,hard,What are the names of Uruguay's political parties?
+No,S08_set2_a9,Uruguay,hard,hard,Is Uruguay the smallest soverign nation in South America?
+No,S08_set2_a9,Uruguay,hard,hard,Is Uruguay the smallest soverign nation in South America?
+Montevideo,S08_set2_a9,Uruguay,medium,,What was founded by the Spanish in the early 18th century as a military stronghold?
+(What?),S08_set2_a9,Uruguay,too hard,,What has many possible meanings?
+Uruguay exports architectural services to India and Latin America,S08_set2_a9,Uruguay,hard,,How do india and latin america relate?
+Its independence,S08_set2_a9,Uruguay,medium,,What did Uruguay win in 1828?
+No?,S08_set2_a9,Uruguay,easy,,Is Uruguay very common?
+Yes,S08_set2_a9,Uruguay,easy,,Is The climate in Uruguay temperate?
+Yes,S08_set2_a9,Uruguay,easy,,Is the main sport in Uruguay football ?
+Yes,S08_set2_a9,Uruguay,easy,,"Is Uruguay 's oldest church in San Carlos , Maldonado ?"
+Yes,S08_set2_a9,Uruguay,easy,,Is Uruguay a member of the Cairns Group of exporters of agricultural products ?
+Yes,S08_set2_a9,Uruguay,easy,,Is it widely considered the most secular nation in Latin America ?
+Yes,S08_set2_a9,Uruguay,easy,,"Is it the second smallest independent country in south america , larger only than suriname and the french overseas department of french guiana?"
+Yes,S08_set2_a9,Uruguay,easy,,"Is it a constitutional democracy , where the president fulfills the roles of both head of state and head of government?"
+no,S08_set3_a8,Woodrow_Wilson,easy,easy,Was Woodrow Wilson the thirtieth President of the United States?
+No,S08_set3_a8,Woodrow_Wilson,easy,easy,Was Woodrow Wilson the thirtieth President of the United States?
+yes,S08_set3_a8,Woodrow_Wilson,easy,easy,Did Woodrow Wilson create the League of Nations?
+Yes,S08_set3_a8,Woodrow_Wilson,easy,easy,Did Woodrow Wilson create the League of Nations?
+no,S08_set3_a8,Woodrow_Wilson,easy,easy,Did the U.S. join the League of Nations?
+No,S08_set3_a8,Woodrow_Wilson,medium,easy,Did the U.S. join the League of Nations?
+Paris,S08_set3_a8,Woodrow_Wilson,medium,medium,Where was the League of Nations created?
+Paris,S08_set3_a8,Woodrow_Wilson,medium,medium,Where was the League of Nations created?
+"December 28, 1856",S08_set3_a8,Woodrow_Wilson,medium,medium,When was Woodrow Wilson born?
+"December 28, 1856",S08_set3_a8,Woodrow_Wilson,medium,medium,When was Woodrow Wilson born?
+Grover Cleveland,S08_set3_a8,Woodrow_Wilson,medium,medium,Who was President when Wilson finished Congressional Government?
+Grover Cleveland,S08_set3_a8,Woodrow_Wilson,hard,medium,Who was President when Wilson finished Congressional Government?
+history and political science,S08_set3_a8,Woodrow_Wilson,hard,hard,What field did Woodrow Wilson leave law practice to study?
+Government,S08_set3_a8,Woodrow_Wilson,hard,hard,What field did Woodrow Wilson leave law practice to study?
+German began unrestricted submarine warfare,S08_set3_a8,Woodrow_Wilson,hard,hard,What caused Wilson to ask Congress to declare war on the Central Powers?
+World War I,S08_set3_a8,Woodrow_Wilson,too hard,hard,What caused Wilson to ask Congress to declare war on the Central Powers?
+His confrontation with Andrew Fleming West,S08_set3_a8,Woodrow_Wilson,too hard,hard,What was more damaging than moving students into colleges?
+yes,S08_set3_a8,Woodrow_Wilson,easy,easy,Was Wilson a member of the Phi Kappa Psi fraternity?
+Totally.\t,S08_set3_a8,Woodrow_Wilson,easy,easy,Was Wilson a member of the Phi Kappa Psi fraternity?
+yes,S08_set3_a8,Woodrow_Wilson,easy,easy,Was Wilson an automobile enthusiast?
+ouai,S08_set3_a8,Woodrow_Wilson,easy,easy,Was Wilson an automobile enthusiast?
+yes,S08_set3_a8,Woodrow_Wilson,easy,easy,Did Wilson's father own slaves?
+Yeah,S08_set3_a8,Woodrow_Wilson,easy,easy,Did Wilson's father own slaves?
+He was buried in Washington National Cathedral,S08_set3_a8,Woodrow_Wilson,medium,medium,Where is Wilson buried?
+Washington National Cathedral,S08_set3_a8,Woodrow_Wilson,medium,medium,Where is Wilson buried?
+Wilson attended law school at University of Virginia,S08_set3_a8,Woodrow_Wilson,medium,medium,Where did Wilson attend law school?
+University of Virginia,S08_set3_a8,Woodrow_Wilson,medium,medium,Where did Wilson attend law school?
+"Woodrow Wilson was born in Staunton, Virginia",S08_set3_a8,Woodrow_Wilson,medium,medium,Where was Woodrow Wilson born?
+"Staunton, Virginia",S08_set3_a8,Woodrow_Wilson,medium,medium,Where was Woodrow Wilson born?
+no,S08_set3_a8,Woodrow_Wilson,hard,hard,Did Wilson support desegregation?
+Not in the slightest.,S08_set3_a8,Woodrow_Wilson,hard,hard,Did Wilson support desegregation?
+no,S08_set3_a8,Woodrow_Wilson,hard,hard,Did Wilson support the committee system?
+No.,S08_set3_a8,Woodrow_Wilson,hard,hard,Did Wilson support the committee system?
+yes,S08_set3_a8,Woodrow_Wilson,hard,hard,Did Wilson have any siblings?
+,S08_set3_a8,Woodrow_Wilson,,hard,Did Wilson have any siblings?
+His ancestry,S08_set3_a8,Woodrow_Wilson,medium,,What was Scots-Irish and Scottish?
+His father,S08_set3_a8,Woodrow_Wilson,medium,,"What defended slavery, owned slaves and S08_set up a Sunday school for them?"
+Irish Americans,S08_set3_a8,Woodrow_Wilson,hard,,Who did Wilson win in 1917?
+Yes,S08_set3_a8,Woodrow_Wilson,easy,,Was Wilson awarded the 1919 Nobel Peace Prize?
+Yes,S08_set3_a8,Woodrow_Wilson,easy,,Was Wilson a remarkably effective writer and thinker?
+Wilson,S08_set3_a8,Woodrow_Wilson,too hard,,What lived in Columbia?
+Yes,S08_set3_a8,Woodrow_Wilson,easy,,Was Wilson president of the American Political Science Association in 1910 ?
+Yes,S08_set3_a8,Woodrow_Wilson,easy,,"Did he not cast his ballot for John M. Palmer , the presidential candidate of the National Democratic Party , or Gold Democrats , a short-lived party that supported a gold standard , low tariffs , and limited government ?"
+Yes,S08_set3_a8,Woodrow_Wilson,easy,,Did Wilson not spend 1914 through the beginning of 1917 trying to keep America out of the war in Europe ?
+Yes,S08_set3_a8,Woodrow_Wilson,easy,,"Was Wilson , a staunch opponent of antisemitism , sympathetic to the plight of Jews , especially in Poland and in France ?"
+"raised billions through Liberty loans, imposed an income tax, S08_set up the War Industries Board, promoted labor union growth, supervised agriculture and food production through the Lever Act, took over control of the railroads, and suppressed anti-war movements",S08_set3_a8,Woodrow_Wilson,medium,,What happened in 1917?
