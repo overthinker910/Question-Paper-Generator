@@ -1,12 +1,9 @@
 body{
-    background-image:url('algorithm.png'); 
+  
+background-image:url('algorithm.png') !important; 
 background-repeat: no-repeat;
   background-size: 1540px 754px; 
 }
-
-
-
-
 
 
 
