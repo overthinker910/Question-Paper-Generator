@@ -5,8 +5,18 @@ background-repeat: no-repeat;
   background-size: 1540px 754px; 
 }
 
+<<<<<<< HEAD
+.diff
+{
+  text-align:center;
+  color:white;
+  font-size:25px;
+  padding-top:350px;
+}
+=======
 
 
+>>>>>>> 1c17186063b1c7cd4cb28f13b964301561064004
 
 @import url(https://fonts.googleapis.com/css?family=Roboto:300);
 
@@ -194,7 +204,12 @@ section {
 	width: 35%;
 }
 
+<<<<<<< HEAD
+.footer-distributed .footer-center i
+{
+=======
 .footer-distributed .footer-center i{
+>>>>>>> 1c17186063b1c7cd4cb28f13b964301561064004
 	background-color:  #33383b;
 	color: #ffffff;
 	font-size: 25px;
@@ -207,12 +222,22 @@ section {
 	vertical-align: middle;
 }
 
+<<<<<<< HEAD
+.footer-distributed .footer-center i.fa-envelope
+{
+=======
 .footer-distributed .footer-center i.fa-envelope{
+>>>>>>> 1c17186063b1c7cd4cb28f13b964301561064004
 	font-size: 17px;
 	line-height: 38px;
 }
 
+<<<<<<< HEAD
+.footer-distributed .footer-center p
+{
+=======
 .footer-distributed .footer-center p{
+>>>>>>> 1c17186063b1c7cd4cb28f13b964301561064004
 	display: inline-block;
 	color: #ffffff;
   font-weight:400;
@@ -220,19 +245,34 @@ section {
 	margin:0;
 }
 
+<<<<<<< HEAD
+.footer-distributed .footer-center p span
+{
+=======
 .footer-distributed .footer-center p span{
+>>>>>>> 1c17186063b1c7cd4cb28f13b964301561064004
 	display:block;
 	font-weight: normal;
 	font-size:14px;
 	line-height:2;
 }
 
+<<<<<<< HEAD
+.footer-distributed .footer-center p a
+{
+=======
 .footer-distributed .footer-center p a{
+>>>>>>> 1c17186063b1c7cd4cb28f13b964301561064004
 	color:  lightseagreen;
 	text-decoration: none;;
 }
 
+<<<<<<< HEAD
+.footer-distributed .footer-links a:before 
+{
+=======
 .footer-distributed .footer-links a:before {
+>>>>>>> 1c17186063b1c7cd4cb28f13b964301561064004
   content: "|";
   font-weight:300;
   font-size: 20px;
@@ -242,17 +282,32 @@ section {
   padding-right: 5px;
 }
 
+<<<<<<< HEAD
+.footer-distributed .footer-links .link-1:before
+{
+=======
 .footer-distributed .footer-links .link-1:before {
+>>>>>>> 1c17186063b1c7cd4cb28f13b964301561064004
   content: none;
 }
 
 /* Footer Right */
 
+<<<<<<< HEAD
+.footer-distributed .footer-right
+{
+	width: 20%;
+}
+
+.footer-distributed .footer-company-about
+{
+=======
 .footer-distributed .footer-right{
 	width: 20%;
 }
 
 .footer-distributed .footer-company-about{
+>>>>>>> 1c17186063b1c7cd4cb28f13b964301561064004
 	line-height: 20px;
 	color:  #92999f;
 	font-size: 13px;
