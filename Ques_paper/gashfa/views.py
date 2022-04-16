@@ -7,18 +7,19 @@ def home(request):
     #return HttpResponse('Its working')
 
 def whereToGo(request):
+    #return HttpResponse('Its working')
     return render(request, 'where.html')
 
 def aoa(request):
     return render(request, 'aoa.html')
 
-def cPlusPlus(request):
+def cpp(request):
     return render(request, 'c++.html')
 
 def dataStruc(request):
     return render(request, 'data_str.html')
 
-def dsm(request):
+def math(request):
     return render(request, 'dsm.html')
 
 def oop(request):
