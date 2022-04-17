@@ -1,5 +1,7 @@
 from django.shortcuts import render
 from django.http import HttpResponse
+from ques_code import questions
+
 # Create your views here.
 
 def home(request):
@@ -26,4 +28,6 @@ def oop(request):
     return render(request, 'oop.html')
 
 def pyth(request):
+    if request.method=="POST":
+        questions.generate_ques()
     return render(request, 'python.html')

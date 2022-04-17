@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head > 
-    <link rel="stylesheet" href="python.css">
-    <link rel="stylesheet" type="text/css" href="python.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href='https://fonts.googleapis.com/css?family=Bonheur Royale' rel='stylesheet'>
     <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
@@ -28,8 +26,8 @@
 </head>
 <body>
 
-    <style>body{
-  
+    <style>
+        body{
         background-image:url('static/python.png') !important; 
         background-repeat: no-repeat;
           background-size: 1540px 754px; 
@@ -402,12 +400,18 @@
     </style>
 
 <div class="diff">
-<label for="difficulty">Enter difficulty</label>
-<select name="difficulty" id="difficulty">
-  <option value="easy">Easy</option>
-  <option value="medium">Medium</option>
-  <option value="hard">Hard</option>
-</select></div>
+    <form class="form-signin" method="POST" action ="/python">
+        {% csrf_token %}
+    <label for="difficulty">Enter difficulty</label>
+    <select name="difficulty" id="difficulty">
+        <option value="easy">Easy</option>
+        <option value="medium">Medium</option>
+        <option value="hard">Hard</option>
+    </select>
+    <button class="btn btn-primary btn-block" type="submit">Submit</button>
+</form>
+</div>
+
     <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     <footer class="footer-distributed">
 
