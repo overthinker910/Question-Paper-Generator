@@ -13,21 +13,31 @@ def whereToGo(request):
     return render(request, 'where.html')
 
 def aoa(request):
+    if request.method=="POST":
+        questions.generate_ques('aoa_excel')
     return render(request, 'aoa.html')
 
 def cpp(request):
+    if request.method=="POST":
+        questions.generate_ques('cpp_excel')
     return render(request, 'c++.html')
 
 def dataStruc(request):
+    if request.method=="POST":
+        questions.generate_ques('data_struct_excel')
     return render(request, 'data_str.html')
 
 def math(request):
+    if request.method=="POST":
+        questions.generate_ques('dsm_excel')
     return render(request, 'dsm.html')
 
 def oop(request):
+    if request.method=="POST":
+        questions.generate_ques('oop_excel')
     return render(request, 'oop.html')
 
 def pyth(request):
     if request.method=="POST":
-        questions.generate_ques()
+        questions.generate_ques('python_excel')
     return render(request, 'python.html')
