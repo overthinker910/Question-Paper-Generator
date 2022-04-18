@@ -13,12 +13,22 @@ Including another URLconf
     1. Import the include() function: from django.urls import include, path
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
+from gashfa import views
 from django.contrib import admin
 from django.urls import path, include
+from gashfa.views import *
 
 #we need to specify paths here when we want to link urls 
 urlpatterns = [
+    path('main.html',views.home ,name="home"),
+    path('where.html',views.whereToGo ,name="whereToGo"),
+    path('c++.html',views.cpp ,name="cpp"),
+    path('oop.html',views.oop ,name="oop"),
+    path('python.html',views.pyth ,name="pyth"),
+    path('aoa.html',views.aoa ,name="aoa"),
+    path('data_str.html',views.dataStruc ,name="datastr"),
+    path('dsm.html',views.math ,name="dsm"),
+    path('contact_us.html',views.contact ,name="contact_us"),
     path('', include('gashfa.urls')),
     path('admin/', admin.site.urls),
-
 ]

@@ -8,6 +8,10 @@ def home(request):
     return render(request, 'main.html')
     #return HttpResponse('Its working')
 
+def contact(request):
+    return render(request, 'contact_us.html')
+    #return HttpResponse('Its working')
+
 def whereToGo(request):
     #return HttpResponse('Its working')
     return render(request, 'where.html')
