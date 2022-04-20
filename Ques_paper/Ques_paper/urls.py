@@ -29,6 +29,7 @@ urlpatterns = [
     path('data_str.html',views.dataStruc ,name="datastr"),
     path('dsm.html',views.math ,name="dsm"),
     path('contact_us.html',views.contact ,name="contact_us"),
+    path('advantages.html', views.advantages, name="advantages"),
     path('', include('gashfa.urls')),
     path('admin/', admin.site.urls),
 ]

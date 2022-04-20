@@ -12,6 +12,9 @@ def contact(request):
     return render(request, 'contact_us.html')
     #return HttpResponse('Its working')
 
+def advantages(request):
+    return render(request, 'advantages.html')
+
 def whereToGo(request):
     #return HttpResponse('Its working')
     return render(request, 'where.html')
