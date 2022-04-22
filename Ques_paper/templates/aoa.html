@@ -153,11 +153,17 @@
           font-family: Open Sans;
         }
         
+        @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,500,300,700);
+        
+        * {
+          font-family: Open Sans;
+        }
+        
         section {
           width: 100%;
           display: inline-block;
           background: #333;
-          height: 50vh;
+          height: 70vh;
           text-align: center;
           font-size: 22px;
           font-weight: 700;
@@ -228,12 +234,8 @@
             width: 35%;
         }
         
-        <<<<<<< HEAD
         .footer-distributed .footer-center i
         {
-        =======
-        .footer-distributed .footer-center i{
-        >>>>>>> 1c17186063b1c7cd4cb28f13b964301561064004
             background-color:  #33383b;
             color: #ffffff;
             font-size: 25px;
@@ -246,22 +248,14 @@
             vertical-align: middle;
         }
         
-        <<<<<<< HEAD
         .footer-distributed .footer-center i.fa-envelope
         {
-        =======
-        .footer-distributed .footer-center i.fa-envelope{
-        >>>>>>> 1c17186063b1c7cd4cb28f13b964301561064004
             font-size: 17px;
             line-height: 38px;
         }
         
-        <<<<<<< HEAD
         .footer-distributed .footer-center p
         {
-        =======
-        .footer-distributed .footer-center p{
-        >>>>>>> 1c17186063b1c7cd4cb28f13b964301561064004
             display: inline-block;
             color: #ffffff;
           font-weight:400;
@@ -269,34 +263,22 @@
             margin:0;
         }
         
-        <<<<<<< HEAD
         .footer-distributed .footer-center p span
         {
-        =======
-        .footer-distributed .footer-center p span{
-        >>>>>>> 1c17186063b1c7cd4cb28f13b964301561064004
             display:block;
             font-weight: normal;
             font-size:14px;
             line-height:2;
         }
         
-        <<<<<<< HEAD
         .footer-distributed .footer-center p a
         {
-        =======
-        .footer-distributed .footer-center p a{
-        >>>>>>> 1c17186063b1c7cd4cb28f13b964301561064004
             color:  lightseagreen;
             text-decoration: none;;
         }
         
-        <<<<<<< HEAD
         .footer-distributed .footer-links a:before 
         {
-        =======
-        .footer-distributed .footer-links a:before {
-        >>>>>>> 1c17186063b1c7cd4cb28f13b964301561064004
           content: "|";
           font-weight:300;
           font-size: 20px;
@@ -306,18 +288,13 @@
           padding-right: 5px;
         }
         
-        <<<<<<< HEAD
         .footer-distributed .footer-links .link-1:before
         {
-        =======
-        .footer-distributed .footer-links .link-1:before {
-        >>>>>>> 1c17186063b1c7cd4cb28f13b964301561064004
           content: none;
         }
         
         /* Footer Right */
         
-        <<<<<<< HEAD
         .footer-distributed .footer-right
         {
             width: 20%;
@@ -325,13 +302,6 @@
         
         .footer-distributed .footer-company-about
         {
-        =======
-        .footer-distributed .footer-right{
-            width: 20%;
-        }
-        
-        .footer-distributed .footer-company-about{
-        >>>>>>> 1c17186063b1c7cd4cb28f13b964301561064004
             line-height: 20px;
             color:  #92999f;
             font-size: 13px;
@@ -390,6 +360,7 @@
             }
         
         }
+        
         body, html {
             
           height: 100%;
@@ -434,6 +405,22 @@
             font-family:Arial, Helvetica, sans-serif;
             font-size: 55px;
         }
+        .btn-secondary{
+            display: block;
+            background-color: #ffb2a7;
+            color: #fff;
+            font-size: medium;
+            line-height: 50px;
+            padding: 0 20px;
+            cursor: pointer;
+            top:70%;
+            left:45.5%;
+            width:100px;
+            height:40px;
+            position: absolute;
+            z-index: 2;
+            
+        }
 </style>
 
 {% block content %}
@@ -444,7 +431,7 @@
     <option value="medium">Medium</option>
     <option value="hard">Hard</option>
     </select>
-    <button class="btn btn-primary btn-block" type="submit">Submit</button>
+    <button class="btn-secondary" type="submit">Submit</button>
     </form>
     </div>
         <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
