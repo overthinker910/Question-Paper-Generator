@@ -1,13 +1,19 @@
 from operator import index
 import string, xlrd
 import pandas, random
-
+from fpdf import FPDF
 import openpyxl
+<<<<<<< HEAD
 
+pdf = FDF('P', 'mm', 'Letter')
+
+=======
+>>>>>>> c2364ddf49fb709863bb42a3295c926fc2682efc
 def generate_ques(pathToQues):
     #loading the workbook in wb
     #!!!!add your path for the excel sheet here!!!!
-    wb = openpyxl.load_workbook(r'C:\\Users\\farde\\OneDrive\\Desktop\\QPG\\Question-Paper-Generator\\questions\\'+f'{pathToQues}.xlsx')
+    #SHREYA'S PATH: C:\Users\shrey\question paper\Question-Paper-Generator\questions
+    wb = openpyxl.load_workbook(r'C:\\Users\\shrey\\question paper\\Question-Paper-Generator\\questions\\'+f'{pathToQues}.xlsx')
     #"questions/aoa_excel.xlsx"
     #cheching the sheets present in that workbook
     sheets = wb.sheetnames
@@ -19,7 +25,7 @@ def generate_ques(pathToQues):
     #a simple way to print any value inside the cell
     #without any problem
     data = sh1['A2'].value
-    #print(type(data))
+    print(type(data))
 
     #looping it
     questions_index = []
@@ -39,3 +45,14 @@ def generate_ques(pathToQues):
         print(str(i) + '. '+data)
         i=i+1
         no_of_questions=no_of_questions+1
+
+        #generating the pdf
+        #adding a page
+        pdf.add_page()
+
+        #specifying fonts
+        pdf.set_fonts('helvetica', '', 16)
+
+        #adding text
+        #create cell
+        pdf.cell(40, 10, 'hello')
