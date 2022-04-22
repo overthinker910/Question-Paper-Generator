@@ -3,17 +3,14 @@ import string, xlrd
 import pandas, random
 from fpdf import FPDF
 import openpyxl
-<<<<<<< HEAD
 
-pdf = FDF('P', 'mm', 'Letter')
+pdf = FPDF('P', 'mm', 'Letter')
 
-=======
->>>>>>> c2364ddf49fb709863bb42a3295c926fc2682efc
 def generate_ques(pathToQues):
     #loading the workbook in wb
     #!!!!add your path for the excel sheet here!!!!
     #SHREYA'S PATH: C:\Users\shrey\question paper\Question-Paper-Generator\questions
-    wb = openpyxl.load_workbook(r'C:\\Users\\shrey\\question paper\\Question-Paper-Generator\\questions\\'+f'{pathToQues}.xlsx')
+    wb = openpyxl.load_workbook(r'C:\\Users\\farde\\OneDrive\\Desktop\\QPG\\Question-Paper-Generator\\questions\\'+f'{pathToQues}.xlsx')
     #"questions/aoa_excel.xlsx"
     #cheching the sheets present in that workbook
     sheets = wb.sheetnames
@@ -51,8 +48,11 @@ def generate_ques(pathToQues):
         pdf.add_page()
 
         #specifying fonts
-        pdf.set_fonts('helvetica', '', 16)
+        pdf.set_font('helvetica', '', 16)
 
         #adding text
         #create cell
-        pdf.cell(40, 10, 'hello')
+        for i in range(0,7):
+            pdf.cell(40, 10, f'{i}'+'. '+data)
+
+        pdf.output('pdf_1.pdf')
