@@ -1,8 +1,10 @@
 from operator import index
 import string, xlrd
 import pandas, random
-
+from fpdf import FPDF
 import openpyxl
+
+pdf = FDF('P', 'mm', 'Letter')
 
 def generate_ques(pathToQues):
     #loading the workbook in wb
@@ -19,7 +21,7 @@ def generate_ques(pathToQues):
     #a simple way to print any value inside the cell
     #without any problem
     data = sh1['A2'].value
-    #print(type(data))
+    print(type(data))
 
     #looping it
     questions_index = []
@@ -39,3 +41,14 @@ def generate_ques(pathToQues):
         print(str(i) + '. '+data)
         i=i+1
         no_of_questions=no_of_questions+1
+
+        #generating the pdf
+        #adding a page
+        pdf.add_page()
+
+        #specifying fonts
+        pdf.set_fonts('helvetica', '', 16)
+
+        #adding text
+        #create cell
+        pdf.cell(40, 10, 'hello')
