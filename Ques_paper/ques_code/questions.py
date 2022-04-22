@@ -3,12 +3,9 @@ import string, xlrd
 import pandas, random
 from fpdf import FPDF
 import openpyxl
-<<<<<<< HEAD
 
 pdf = FDF('P', 'mm', 'Letter')
 
-=======
->>>>>>> c2364ddf49fb709863bb42a3295c926fc2682efc
 def generate_ques(pathToQues):
     #loading the workbook in wb
     #!!!!add your path for the excel sheet here!!!!
