@@ -19,7 +19,7 @@ def generate_ques(pathToQues):
     #a simple way to print any value inside the cell
     #without any problem
     data = sh1['A2'].value
-    print(type(data))
+    #print(type(data))
 
     #looping it
     questions_index = []
