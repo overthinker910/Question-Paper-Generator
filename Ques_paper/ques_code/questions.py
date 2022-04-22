@@ -3,11 +3,11 @@ import string, xlrd
 import pandas, random
 
 import openpyxl
-
 def generate_ques(pathToQues):
     #loading the workbook in wb
     #!!!!add your path for the excel sheet here!!!!
-    wb = openpyxl.load_workbook(r'C:\\Users\\farde\\OneDrive\\Desktop\\QPG\\Question-Paper-Generator\\questions\\'+f'{pathToQues}.xlsx')
+    #SHREYA'S PATH: C:\Users\shrey\question paper\Question-Paper-Generator\questions
+    wb = openpyxl.load_workbook(r'C:\\Users\\shrey\\question paper\\Question-Paper-Generator\\questions\\'+f'{pathToQues}.xlsx')
     #"questions/aoa_excel.xlsx"
     #cheching the sheets present in that workbook
     sheets = wb.sheetnames
