@@ -53,6 +53,6 @@ def generate_ques(pathToQues):
         #adding text
         #create cell
         for i in range(0,7):
-            pdf.cell(40, 10, f'{i}'+'. '+data)
+            pdf.cell(40, 10, f'{i}'+'. '+data, ln=True)
 
         pdf.output('pdf_1.pdf')
