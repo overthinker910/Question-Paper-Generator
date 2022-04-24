@@ -1,0 +1,110 @@
+body{ display: flex; flex-wrap: wrap; justify-content: center; background: grey; padding-top: 20px;
+    background-image: url("map111.jpg");
+      
+    }
+    
+    .card
+    {margin-top: 35px;
+    background: #17141d;
+    background: white;
+    display: grid;
+    grid-template-columns:380px;
+    grid-template-rows: 250px 250px 150px;
+    grid-template-areas: "image" "text" "bottom";
+    font-family: roboto;
+    border-radius: 18px;
+    box-shadow: -1rem 0 3rem #000;
+    text-align: center;
+    overflow: hidden;
+    transition: all 0.6s ease;
+      //color: white;
+    }
+    
+    .card-img{
+      grid-area: image;
+      background: linear-gradient(#fff0 0%, #fff0, 70%, #1d1d1d 100%), url("https://livingcities.org/wp-content/uploads/2021/04/AustinTX.jpg");
+      background-size: cover;
+    }
+    
+    .card-discription{
+      grid-area: text;
+      font-family: roboto;
+      margin-top: -10px;
+    }
+    
+    .card-discription > p{
+    margin: 15px; margin-top: -10px;
+    }
+    
+    #visit-header, #visit-state{
+      font-family: arial;
+      text-transform: uppercase;
+    }
+    
+    #visit-state{font-size: 18px;
+    margin-top: -18px; margin-bottom: 20px;
+     color: #aaa;
+    }
+    
+    #booknowbtn{
+     background: #e9443c;
+     grid-area: bottom;
+     border: none;
+     font-size: 20px;
+     color: white;
+     margin-top: 30px;
+    }
+    
+    #booknowbtn:hover{cursor: pointer; background: red;}
+    
+    .card:hover{
+      transform: translateY(-1rem);
+    }
+    
+    .card:hover~.card{
+      transform: translateX(130px);
+    }
+    
+    .card:not(:first-child){
+      margin-left: -130px;
+    }
+    
+
+    
+    a{text-decoration: none;
+    color: white;}
+    
+    /* RGB */
+    
+    .rgb::after {
+      content:"";
+      background: linear-gradient(45deg,
+      #ff0000 0%, 
+      #ff9a00 10%,
+      #d0de21 20%,
+      #4fdc4a 30%, 
+      #3fdad8 40%,
+      #2fc9e2 50%, 
+      #1c7fee 60%, 
+      #5f15f2 70%, 
+      #ba0cf8 80%, 
+      #fb07d9 90%, 
+      #ff0000 100%  )
+      repeat 0% 0% / 300% 100%;
+      position: absolute;
+      inset: -3px;
+    } 
+    
+    @keyframes rgb {
+      0% {background-position: 0% 50%;}
+      50% {background-position: 100% 50%;}
+      100% {background-position: 0% 50%;}
+    }
+    
+    .rgb::after {
+    ...
+      border-radius: 16px;
+      filter: blur(8px);
+      transform: translateZ(-1px); /*or z-index */
+      animation: rgb 6s linear infinite;
+    }
