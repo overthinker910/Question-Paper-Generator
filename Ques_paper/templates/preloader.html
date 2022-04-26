@@ -2,6 +2,7 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 
 body {
@@ -28,6 +29,20 @@ p{
   font-size: 25px;
 }
 
+.btn {
+  align: center;
+  border: 5px solid;
+  border-image-slice: 1;
+  background: var(--gradient) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  border-image-source:  var(--gradient) !important; 
+  text-decoration: none;
+  transition: all .4s ease;
+  margin-left:auto;
+  margin-right:auto;
+}
+
 </style>
 </head>
 <body onload="myFunction()" style="margin:0;">
@@ -43,13 +58,16 @@ p{
   
   <h2>Voila!</h2>
   <p>The paper has been generated successfully</p>
+  <a href="../" class="btn mr-2"><i class="fa fa-link"></i> Visit Site</a>
 </div>
+
+
 
 <script>
 var myVar;
 
 function myFunction() {
-  myVar = setTimeout(showPage, 5000);
+  myVar = setTimeout(showPage, 1000);
 }
 
 function showPage() {
