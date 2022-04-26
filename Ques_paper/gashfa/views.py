@@ -48,3 +48,6 @@ def pyth(request):
     if request.method=="POST":
         questions.generate_ques('python_excel')
     return render(request, 'python.html')
+
+def preloader(request):
+    return render(request, 'preloader.html')
