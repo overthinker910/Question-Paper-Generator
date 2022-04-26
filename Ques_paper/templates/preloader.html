@@ -3,8 +3,48 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+ 
 <style>
-
+:root {
+        --gradient: linear-gradient(to left top, #DD2476 10%, #FF512F 90%) !important;
+      }
+      
+      .card {
+        
+        background: rgb(222, 221, 217);
+        border: 3.69px solid #dd2476;
+        color: rgba(50, 45, 45, 0.8);
+        margin-bottom: 2rem;
+      }
+    
+      .card:card-img-top{
+        height: 70%;
+        width: 70%;}
+      
+      .btn {
+        align-items: center;
+        border: 5px solid;
+        border-image-slice: 1;
+        background: var(--gradient) !important;
+        -webkit-background-clip: text !important;
+        -webkit-text-fill-color: transparent !important;
+        border-image-source:  var(--gradient) !important; 
+        text-decoration: none;
+        transition: all .4s ease;
+        margin-left:auto;
+        margin-right:auto;
+      }
+      
+      .btn:hover, .btn:focus {
+        background: var(--gradient) !important;
+        -webkit-background-clip: none !important;
+        -webkit-text-fill-color: #fff !important;
+        border: 5px solid #fff !important; 
+        box-shadow: #222 1px 0 10px;
+        text-decoration: underline;
+    
+      }
 body {
     background-color: lightslategray;
 }
@@ -29,19 +69,6 @@ p{
   font-size: 25px;
 }
 
-.btn {
-  align: center;
-  border: 5px solid;
-  border-image-slice: 1;
-  background: var(--gradient) !important;
-  -webkit-background-clip: text !important;
-  -webkit-text-fill-color: transparent !important;
-  border-image-source:  var(--gradient) !important; 
-  text-decoration: none;
-  transition: all .4s ease;
-  margin-left:auto;
-  margin-right:auto;
-}
 
 </style>
 </head>
@@ -59,9 +86,6 @@ p{
   <h2>Voila!</h2>
   <p>The paper has been generated successfully</p>
   <a href="../" class="btn mr-2"><i class="fa fa-link"></i> Visit Site</a>
-</div>
-
-
 
 <script>
 var myVar;
