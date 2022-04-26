@@ -11,9 +11,7 @@ urlpatterns = [
     path("data_str", views.dataStruc, name='data_str'),
     path("math", views.math, name='math'),
     path("cpp", views.cpp, name='cpp'),
-<<<<<<< HEAD
     path("locations_qp", views.locations_qp, name='locations_qp'),
-=======
     path("preloader", views.preloader, name='preloader'),
->>>>>>> 2c3baad50859b790d611a93fb3680d439a9bf6a2
+    
 ]
