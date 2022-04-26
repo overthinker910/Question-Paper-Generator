@@ -51,3 +51,7 @@ def pyth(request):
 
 def preloader(request):
     return render(request, 'preloader.html')
+
+def locations_qp(request):
+    #return HttpResponse('Its working')
+    return render(request, 'location.html')
