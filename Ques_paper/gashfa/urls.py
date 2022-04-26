@@ -12,6 +12,7 @@ urlpatterns = [
     path("math", views.math, name='math'),
     path("cpp", views.cpp, name='cpp'),
     path("locations_qp", views.locations_qp, name='locations_qp'),
+    path("privacy_policy", views.priv_pol, name='priv_pol'),
     path("preloader", views.preloader, name='preloader'),
     
 ]

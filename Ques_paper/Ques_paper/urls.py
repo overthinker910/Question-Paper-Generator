@@ -32,6 +32,7 @@ urlpatterns = [
     path('advantages.html', views.advantages, name="advantages"), 
     path('location.html', views.locations_qp, name="location"), 
     path('preloader.html', views.preloader, name="preloader"),
+    path('priv.html', views.priv_pol, name="privacy_policy"),
     path('', include('gashfa.urls')),
     path('admin/', admin.site.urls),
 ]
