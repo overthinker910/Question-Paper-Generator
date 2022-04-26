@@ -7,7 +7,7 @@ import openpyxl
 class PDF(FPDF):
     def header(self):
         #logo
-        self.image('static/ques_logo1.png', 10, 8, 25)
+        self.image('static/lion.jpg', 10, 8, 25)
         #font
         self.set_font('helvetica', 'B', 20)
         #title

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+#myDiv {
+  display: none;
+  text-align: center;
+}
+
+.img_positioning{
+  allign-items: center;
+  margin-left:50em;
+  margin-top: 17em;
+  padding-bottom: 0;
+
+}
+.h2{
+  margin: 0;
+
+}
+
+</style>
+</head>
+<body onload="myFunction()" style="margin:0;">
+
+<div id="loader"></div>
+<div class='img_positioning'>
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets9.lottiefiles.com/private_files/lf30_x8aowqs9.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop  autoplay></lottie-player>
+</div>
+
+<div style="display:none;" id="myDiv" class="animate-bottom">
+  
+  <h2>Tada!</h2>
+  <p>Some text in my newly loaded page..</p>
+</div>
+
+<script>
+var myVar;
+
+function myFunction() {
+  myVar = setTimeout(showPage, 3000);
+}
+
+function showPage() {
+  document.getElementById("loader").style.display = "none";
+  document.getElementById("myDiv").style.display = "block";
+}
+</script>
+
+</body>
+</html>
