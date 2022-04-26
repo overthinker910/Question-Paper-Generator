@@ -12,4 +12,10 @@ urlpatterns = [
     path("math", views.math, name='math'),
     path("cpp", views.cpp, name='cpp'),
     path("locations_qp", views.locations_qp, name='locations_qp'),
+<<<<<<< HEAD
+=======
+    path("privacy_policy", views.priv_pol, name='priv_pol'),
+    path("preloader", views.preloader, name='preloader'),
+    
+>>>>>>> 085f0c2270d2f151a8f900e8f8bcf5ea4a7b464e
 ]
