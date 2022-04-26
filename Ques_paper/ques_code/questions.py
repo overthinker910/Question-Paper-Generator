@@ -4,7 +4,20 @@ import pandas, random
 from fpdf import FPDF
 import openpyxl
 
-pdf = FPDF('P', 'mm', 'Letter')
+class PDF(FPDF):
+    def header(self):
+        #logo
+        self.image('static/lion.jpg', 10, 8, 25)
+        #font
+        self.set_font('helvetica', 'B', 20)
+        #title
+        self.cell(0, 10, 'Question Paper', ln=1, align='C')
+        #line-break
+        self.ln(20)
+
+pdf = PDF('P', 'mm', 'Letter')
+
+
 
 def generate_ques(pathToQues):
     #loading the workbook in wb
@@ -24,6 +37,13 @@ def generate_ques(pathToQues):
     data = sh1['A2'].value
     print(type(data))
 
+    #generating the pdf
+    #adding a page
+    pdf.add_page()
+
+    #specifying fonts
+    pdf.set_font('helvetica', '', 16)
+    
     #looping it
     questions_index = []
     no_of_questions=2
@@ -43,16 +63,6 @@ def generate_ques(pathToQues):
         i=i+1
         no_of_questions=no_of_questions+1
 
-        #generating the pdf
-        #adding a page
-        pdf.add_page()
+        pdf.cell(40, 30, f'{i-1}'+'. '+data, ln=True)
 
-        #specifying fonts
-        pdf.set_font('helvetica', '', 16)
-
-        #adding text
-        #create cell
-        for i in range(0,7):
-            pdf.cell(40, 10, f'{i}'+'. '+data)
-
-        pdf.output('pdf_1.pdf')
+    pdf.output('pdf_1.pdf')
