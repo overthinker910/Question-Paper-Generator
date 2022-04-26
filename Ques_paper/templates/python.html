@@ -26,131 +26,130 @@
             </ul>
     </div>
 </head>
-<body>
+<style>
+body{
+    background-image:url('static/python.png') !important; 
+    background-repeat: no-repeat;
+    background-size: 1540px 800px; 
+    margin-right: 0;
+    margin-bottom: 0;
+    }
 
-    <style>
-        body{
-        background-image:url('static/python.png') !important; 
-        background-repeat: no-repeat;
-          background-size: 1540px 800px; 
-          margin: 0px;
-        }
-        
-        .diff
-        {
-          text-align:center;
-          color:white;
-          font-size:25px;
-          padding-top:350px;
-        }
-        
-        @import url(https://fonts.googleapis.com/css?family=Roboto:300);
-        
-        * {
-            -webkit-box-sizing: border-box;
-            -moz-box-sizing: border-box;
-            box-sizing: border-box;
-            font-family: 'Roboto', Arial, sans-serif;
-        }
-        
-        #checkbox, .btn span { /* Hide the checkbox input & word "Menu" in the button */
-            display: none;
-        }
-        
-        /* Menu button - starts */
-        .btn {
-            display: block;
-            background-color: #ffb2a7;
-            color: #fff;
-            width: 50px;
-            height: 50px;
-            line-height: 50px;
-            padding: 0 20px;
-            cursor: pointer;
-            transition: width .3s ease-in-out;
-        }
-        
-        .sidebar {
-            background-color: #e6739f;
-            position: fixed;
-            width: 250px;
-            height: 100%;
-            z-index: 1111;
-            transition: transform .3s ease-in-out;
-            transform: translateX(-250px);
-            font-family: Arial, Helvetica, sans-serif;
-        }
-        
-        .sidebar ul {
-            padding: 0;
-            margin: 0;
-            list-style-type: none;
-        }
-        
-        .sidebar ul a {
-            position: relative;
-            text-decoration: none;
-            display: block;
-            background-color: transparent;
-            color: #161920;
-            padding: 15px 20px;
-            font-size: 16px;
-        
-        }
-        
-        .sidebar-text
-        {
-          font-family: 'Quintessential', cursive;
-        }
-        
-        .sidebar ul a li i {
-            margin-right: 15px;
-        }
-        
-        
-        /* Add margin to the icon in the second item */
-        .sidebar ul a:nth-child(2) li i {
-            margin-left: 4px;
-            margin-right: 19px;
-        }
-        
-        .sidebar ul a:hover, .sidebar ul a.active {
-            background-color: #161920;
-            color: #fff;
-        }
-        
-        .sidebar ul a:hover::before, .sidebar ul a.active::before {
-            position: absolute;
-            top: 0;
-            left: 0;
-            content: "";
-            background-color: #ffb2a7;
-            width: 4px;
-            height: 100%;
-            font-family: Arial, Helvetica, sans-serif;
-        }
-        /* Sidebar - ends */
-        
-        /* Effect of showing the sidebar - starts */
-        #checkbox:checked ~ .sidebar {
-            transform: translateX(0);
-        }
-        
-        #checkbox:checked + .btn {
-            width: 250px;
-            padding: 0 20px;
-        }
-        
-        #checkbox:checked + .btn span { /* Show again the word "Menu" in the button */
-            display: inline;
-        }
-        
-        
-        
-        /* Effect of showing the sidebar - ends */
-        
-        
-        section {
+    .diff
+    {
+        text-align:center;
+        color:white;
+        font-size:25px;
+        padding-top:350px;
+    }
+
+    @import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+    * {
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        font-family: 'Roboto', Arial, sans-serif;
+    }
+
+    #checkbox, .btn span { /* Hide the checkbox input & word "Menu" in the button */
+        display: none;
+    }
+
+    /* Menu button - starts */
+    .btn {
+        display: block;
+        background-color: #ffb2a7;
+        color: #fff;
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        padding: 0 20px;
+        cursor: pointer;
+        transition: width .3s ease-in-out;
+    }
+
+    .sidebar {
+        background-color: #e6739f;
+        position: fixed;
+        width: 250px;
+        height: 100%;
+        z-index: 1111;
+        transition: transform .3s ease-in-out;
+        transform: translateX(-250px);
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .sidebar ul {
+        padding: 0;
+        margin: 0;
+        list-style-type: none;
+    }
+
+    .sidebar ul a {
+        position: relative;
+        text-decoration: none;
+        display: block;
+        background-color: transparent;
+        color: #161920;
+        padding: 15px 20px;
+        font-size: 16px;
+
+    }
+
+    .sidebar-text
+    {
+        font-family: 'Quintessential', cursive;
+    }
+
+    .sidebar ul a li i {
+        margin-right: 15px;
+    }
+
+
+    /* Add margin to the icon in the second item */
+    .sidebar ul a:nth-child(2) li i {
+        margin-left: 4px;
+        margin-right: 19px;
+    }
+
+    .sidebar ul a:hover, .sidebar ul a.active {
+        background-color: #161920;
+        color: #fff;
+    }
+
+    .sidebar ul a:hover::before, .sidebar ul a.active::before {
+        position: absolute;
+        top: 0;
+        left: 0;
+        content: "";
+        background-color: #ffb2a7;
+        width: 4px;
+        height: 100%;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    /* Sidebar - ends */
+
+    /* Effect of showing the sidebar - starts */
+    #checkbox:checked ~ .sidebar {
+        transform: translateX(0);
+    }
+
+    #checkbox:checked + .btn {
+        width: 250px;
+        padding: 0 20px;
+    }
+
+    #checkbox:checked + .btn span { /* Show again the word "Menu" in the button */
+        display: inline;
+    }
+
+
+
+    /* Effect of showing the sidebar - ends */
+
+
+    section {
     width: 100%;
     display: inline-block;
     background: white;
@@ -164,7 +163,7 @@
     word-spacing: 5mm;
     }
 
-  .img-1{
+    .img-1{
     display: block;
     position: absolute;
     left: 12em;
@@ -172,123 +171,123 @@
     width: 50%;
     height: 100px;
     object-fit: contain; 
-  }
-  
-  .footer-distributed{
-      background: #666;
-      box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
-      box-sizing: border-box;
-      width: 100%;
-      text-align: left;
-      font: bold 16px 'Open Sans';
-      padding: 55px 50px;
-      word-spacing: normal;
-      font-family: 'Open Sans';
-      margin-right:0;
-  }
-  
-  .footer-distributed .footer-left,
-  .footer-distributed .footer-center,
-  .footer-distributed .footer-right{
-      display: inline-block;
-      vertical-align: top;
-  }
-  
-  /* Footer left */
-  
-  .footer-distributed .footer-left{
-      width: 40%;
-  }
-  
-  /* The company logo */
-  
-  .footer-distributed h3{
-      color:  #ffffff;
-      font: normal 36px 'Open Sans', cursive;
-      margin: 0;
-  }
-  
-  .footer-distributed h3 span{
-      color:  lightseagreen;
-  }
-  
-  /* Footer links */
-  
-  .footer-distributed .footer-links{
-      color:  #ffffff;
-      margin: 20px 0 12px;
-      padding: 0;
-  }
-  
-  .footer-distributed .footer-links a{
-      display:inline-block;
-      line-height: 1.8;
+    }
+
+    .footer-distributed{
+    background: #666;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+    box-sizing: border-box;
+    width: 100%;
+    text-align: left;
+    font: bold 16px 'Open Sans';
+    padding: 55px 50px;
+    word-spacing: normal;
+    font-family: 'Open Sans';
+    margin-right:0;
+    }
+
+    .footer-distributed .footer-left,
+    .footer-distributed .footer-center,
+    .footer-distributed .footer-right{
+    display: inline-block;
+    vertical-align: top;
+    }
+
+    /* Footer left */
+
+    .footer-distributed .footer-left{
+    width: 40%;
+    }
+
+    /* The company logo */
+
+    .footer-distributed h3{
+    color:  #ffffff;
+    font: normal 36px 'Open Sans', cursive;
+    margin: 0;
+    }
+
+    .footer-distributed h3 span{
+    color:  lightseagreen;
+    }
+
+    /* Footer links */
+
+    .footer-distributed .footer-links{
+    color:  #ffffff;
+    margin: 20px 0 12px;
+    padding: 0;
+    }
+
+    .footer-distributed .footer-links a{
+    display:inline-block;
+    line-height: 1.8;
     font-weight:400;
-      text-decoration: none;
-      color:  inherit;
-  }
-  
-  .footer-distributed .footer-company-name{
-      color:  #222;
-      font-size: 14px;
-      font-weight: normal;
-      margin: 0;
-      word-spacing: normal;
-  }
-  
-  /* Footer Center */
-  
-  .footer-distributed .footer-center{
-      width: 35%;
-      word-spacing: normal;
-  }
-  
-  .footer-distributed .footer-center i
-  {
-      background-color:  #33383b;
-      color: #ffffff;
-      font-size: 25px;
-      width: 38px;
-      height: 38px;
-      border-radius: 50%;
-      text-align: center;
-      line-height: 42px;
-      margin: 10px 15px;
-      vertical-align: middle;
-  }
-  
-  .footer-distributed .footer-center i.fa-envelope
-  {
-      font-size: 17px;
-      line-height: 38px;
-  }
-  
-  .footer-distributed .footer-center p
-  {
-      display: inline-block;
-      color: #ffffff;
+    text-decoration: none;
+    color:  inherit;
+    }
+
+    .footer-distributed .footer-company-name{
+    color:  #222;
+    font-size: 14px;
+    font-weight: normal;
+    margin: 0;
+    word-spacing: normal;
+    }
+
+    /* Footer Center */
+
+    .footer-distributed .footer-center{
+    width: 35%;
+    word-spacing: normal;
+    }
+
+    .footer-distributed .footer-center i
+    {
+    background-color:  #33383b;
+    color: #ffffff;
+    font-size: 25px;
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 42px;
+    margin: 10px 15px;
+    vertical-align: middle;
+    }
+
+    .footer-distributed .footer-center i.fa-envelope
+    {
+    font-size: 17px;
+    line-height: 38px;
+    }
+
+    .footer-distributed .footer-center p
+    {
+    display: inline-block;
+    color: #ffffff;
     font-weight:400;
-      vertical-align: middle;
-      margin:0;
-  }
-  
-  .footer-distributed .footer-center p span
-  {
-      display:block;
-      font-weight: normal;
-      font-size:14px;
-      line-height:2;
-      word-spacing: normal;
-  }
-  
-  .footer-distributed .footer-center p a
-  {
-      color:  lightseagreen;
-      text-decoration: none;;
-  }
-  
-  .footer-distributed .footer-links a:before 
-  {
+    vertical-align: middle;
+    margin:0;
+    }
+
+    .footer-distributed .footer-center p span
+    {
+    display:block;
+    font-weight: normal;
+    font-size:14px;
+    line-height:2;
+    word-spacing: normal;
+    }
+
+    .footer-distributed .footer-center p a
+    {
+    color:  lightseagreen;
+    text-decoration: none;;
+    }
+
+    .footer-distributed .footer-links a:before 
+    {
     content: "|";
     font-weight:300;
     font-size: 20px;
@@ -296,100 +295,101 @@
     color: #fff;
     display: inline-block;
     padding-right: 5px;
-  }
-  
-  .footer-distributed .footer-links .link-1:before
-  {
+    }
+
+    .footer-distributed .footer-links .link-1:before
+    {
     content: none;
-  }
-  
-  /* Footer Right */
-  
-  .footer-distributed .footer-right
-  {
-      width: 20%;
-  }
-  
-  .footer-distributed .footer-company-about
-  {
-      line-height: 20px;
-      color: #cbcbc2;
-      font-size: 13px;
-      font-weight: normal;
-      margin: 0;
-      text-align: justify;
-  }
-  
-  .footer-distributed .footer-company-about span{
-      display: block;
-      color:  #ffffff;
-      font-size: 14px;
-      font-weight: bold;
-      margin-bottom: 20px;
-  }
-  
-  .footer-distributed .footer-icons{
-      margin-top: 25px;
-  }
-  
-  .footer-distributed .footer-icons a{
-      display: inline-block;
-      width: 35px;
-      height: 35px;
-      cursor: pointer;
-      background-color:  #33383b;
-      border-radius: 2px;
-  
-      font-size: 20px;
-      color: #ffffff;
-      text-align: center;
-      line-height: 35px;
-  
-      margin-right: 3px;
-      margin-bottom: 5px;
-  }
-  
-  /* If you don't want the footer to be responsive, remove these media queries */
-  
-  @media (max-width: 880px) {
-  
-      .footer-distributed{
-          font: bold 14px t;
-      }
-  
-      .footer-distributed .footer-left,
-      .footer-distributed .footer-center,
-      .footer-distributed .footer-right{
-          display: block;
-          width: 100%;
-          margin-bottom: 40px;
-          text-align: center;
-      }
-  
-      .footer-distributed .footer-center i{
-          margin-left: 0;
-      }
-  
-  }
+    }
 
-        .btn-secondary{
-            display: block;
-            background-color: #ffb2a7;
-            color: #fff;
-            font-size: medium;
-            line-height: 50px;
-            padding: 0 20px;
-            cursor: pointer;
-            top:70%;
-            left:45.5%;
-            width:100px;
-            height:40px;
-            position: absolute;
-            z-index: 2;
-            
-        }
-    </style>
+    /* Footer Right */
 
+    .footer-distributed .footer-right
+    {
+    width: 20%;
+    }
+
+    .footer-distributed .footer-company-about
+    {
+    line-height: 20px;
+    color: #cbcbc2;
+    font-size: 13px;
+    font-weight: normal;
+    margin: 0;
+    text-align: justify;
+    }
+
+    .footer-distributed .footer-company-about span{
+    display: block;
+    color:  #ffffff;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    }
+
+    .footer-distributed .footer-icons{
+    margin-top: 25px;
+    }
+
+    .footer-distributed .footer-icons a{
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+    background-color:  #33383b;
+    border-radius: 2px;
+
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 35px;
+
+    margin-right: 3px;
+    margin-bottom: 5px;
+    }
+
+    /* If you don't want the footer to be responsive, remove these media queries */
+
+    @media (max-width: 880px) {
+
+    .footer-distributed{
+        font: bold 14px t;
+    }
+
+    .footer-distributed .footer-left,
+    .footer-distributed .footer-center,
+    .footer-distributed .footer-right{
+        display: block;
+        width: 100%;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+
+    .footer-distributed .footer-center i{
+        margin-left: 0;
+    }
+
+    }
+
+    .btn-secondary{
+        display: block;
+        background-color: #ffb2a7;
+        color: #fff;
+        font-size: medium;
+        line-height: 50px;
+        padding: 0 20px;
+        cursor: pointer;
+        top:70%;
+        left:45.5%;
+        width:100px;
+        height:40px;
+        position: absolute;
+        z-index: 2;
+        
+    }
+</style>
+
+<body>
 <div class="diff">
     <form class="form-signin" method="POST" action ="/python">
         {% csrf_token %}
@@ -399,12 +399,12 @@
         <option value="medium">Medium</option>
         <option value="hard">Hard</option>
     </select>
-    <button class="btn-secondary type="submit">Submit</button>
+    <button class="btn-secondary" type="submit">Submit</button>
 </form>
 </div>
-
+</body>
     <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <footer class="footer-distributed">
+<footer class="footer-distributed">
 
         <div class="footer-left">
             <div>
@@ -454,5 +454,4 @@
             </div>
         </div>
     </footer>
-    </body>
     </html>
