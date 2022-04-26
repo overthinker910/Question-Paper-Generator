@@ -55,3 +55,7 @@ def preloader(request):
 def locations_qp(request):
     #return HttpResponse('Its working')
     return render(request, 'location.html')
+
+def priv_pol(request):
+    #return HttpResponse('Its working')
+    return render(request, 'priv.html')
