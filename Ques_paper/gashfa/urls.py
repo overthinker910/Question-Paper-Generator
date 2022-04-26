@@ -11,4 +11,5 @@ urlpatterns = [
     path("data_str", views.dataStruc, name='data_str'),
     path("math", views.math, name='math'),
     path("cpp", views.cpp, name='cpp'),
+    path("preloader", views.preloader, name='preloader'),
 ]
