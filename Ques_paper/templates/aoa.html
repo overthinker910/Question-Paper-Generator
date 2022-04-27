@@ -428,6 +428,8 @@
 
 {% block content %}
     <div class="diff">
+    <form class="form-signin" method="POST" action ="/python">
+        {% csrf_token %}
     <label for="difficulty">Enter difficulty</label>
     <select name="difficulty" id="difficulty">
     <option value="easy">Easy</option>
