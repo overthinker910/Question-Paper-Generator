@@ -15,14 +15,14 @@ class PDF(FPDF):
         #line-break
         self.ln(20)
 
-pdf = PDF('P', 'mm', 'Letter')
+# pdf = PDF('P', 'mm', 'Letter')
 
 
 
 def generate_ques(pathToQues):
     #loading the workbook in wb
     #!!!!add your path for the excel sheet here!!!!
-    #SHREYA'S PATH: C:\Users\shrey\question paper\Question-Paper-Generator\questions
+    #SHREYA'S PATH: C:\\Users\\shrey\\Desktop\\question paper\\Question-Paper-Generator-1\\questions\\
     wb = openpyxl.load_workbook(r'C:\\Users\\farde\\OneDrive\\Desktop\\QPG\\Question-Paper-Generator\\questions\\'+f'{pathToQues}.xlsx')
     #"questions/aoa_excel.xlsx"
     #cheching the sheets present in that workbook
@@ -34,10 +34,11 @@ def generate_ques(pathToQues):
 
     #a simple way to print any value inside the cell
     #without any problem
-    data = sh1['A2'].value
-    print(type(data))
+    # data = sh1['A2'].value
+    # print(type(data))
 
     #generating the pdf
+    pdf = PDF('P', 'mm', 'Letter')
     #adding a page
     pdf.add_page()
 
