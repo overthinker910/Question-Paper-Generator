@@ -59,3 +59,8 @@ def locations_qp(request):
 def priv_pol(request):
     #return HttpResponse('Its working')
     return render(request, 'priv.html')
+
+def preloader2(request):
+    if request.method=="POST":
+        questions.generate_ques('dsm_excel')
+    return render(request, 'dsm.html')
