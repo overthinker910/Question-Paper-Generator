@@ -421,7 +421,7 @@
 
 </a>
 <div class="diff">
-    <form class="form-signin" method="POST" action ="/cpp">
+    <form class="form-signin" method="POST" action ="/preloader">   
         {% csrf_token %}
 <label for="difficulty">Enter difficulty</label>
 <select name="difficulty" id="difficulty">
@@ -430,11 +430,11 @@
   <option value="hard">Hard</option>
 </select>
 <!-- <button class="btn-secondary" type="submit">Submit</button> -->
-<a href='/preloader'>
+{% comment %} <a href='/preloader'> {% endcomment %}
     <button class="btn-secondary">
-        Visit
+        Generate
     </button>
-</a>
+{% comment %} </a> {% endcomment %}
 </form>
 </div>
     <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
