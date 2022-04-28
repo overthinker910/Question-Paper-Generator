@@ -49,8 +49,8 @@ def pyth(request):
         questions.generate_ques('python_excel')
     return render(request, 'python.html')
 
-def preloader(request):
-    return render(request, 'preloader.html')
+# def preloader(request):
+#     return render(request, 'preloader.html')
 
 def locations_qp(request):
     #return HttpResponse('Its working')
@@ -59,3 +59,33 @@ def locations_qp(request):
 def priv_pol(request):
     #return HttpResponse('Its working')
     return render(request, 'priv.html')
+
+def preloader_aoa(request):
+    if request.method=="POST":
+        questions.generate_ques("aoa_excel")
+    return render(request, 'preloader.html')
+
+def preloader_python(request):
+    if request.method=="POST":
+        questions.generate_ques("python_excel")
+    return render(request, 'preloader.html')
+
+def preloader_cpp(request):
+    if request.method=="POST":
+        questions.generate_ques("cpp_excel")
+    return render(request, 'preloader.html')
+
+def preloader_datastr(request):
+    if request.method=="POST":
+        questions.generate_ques("data_struct_excel")
+    return render(request, 'preloader.html')
+
+def preloader_dsm(request):
+    if request.method=="POST":
+        questions.generate_ques("dsm_excel")
+    return render(request, 'preloader.html')
+
+def preloader_oop(request):
+    if request.method=="POST":
+        questions.generate_ques("oop_excel")
+    return render(request, 'preloader.html')
