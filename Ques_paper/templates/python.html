@@ -394,7 +394,7 @@ body{
 
 <body>
 <div class="diff">
-    <form class="form-signin" method="POST" action ="/python">
+    <form class="form-signin" method="POST" action ="/preloader_python">
         {% csrf_token %}
     <label for="difficulty">Enter difficulty</label>
     <select name="difficulty" id="difficulty">
@@ -404,10 +404,11 @@ body{
     </select>
     <!-- <button class="btn-secondary" type="submit">Submit</button> -->
     <!-- <a href='/preloader'> -->
-        <button class="btn-secondary" type="submit">
-            Visit
-        </button>
-    </a>
+    
+    <button class="btn-secondary">
+        Generate
+    </button>
+    
 </form>
 </div>
 </body>

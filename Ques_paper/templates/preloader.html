@@ -73,13 +73,16 @@ p{
   
   <h2>Voila!</h2>
   <p>The paper has been generated successfully</p>
-  <a href="../" class="btn mr-2"><i class="fa fa-link"></i>Home Page</a>
+  <form class="form-signin" method="POST" action ="/preloader">
+    {% csrf_token %}
+  <a href="../" class="btn mr-2" type="submit"><i class="fa fa-link"></i>Home Page</a>
+  </form>
 
 <script>
 var myVar;
 
 function myFunction() {
-  myVar = setTimeout(showPage, 4000);
+  myVar = setTimeout(showPage, 6000);
 }
 
 function showPage() {
