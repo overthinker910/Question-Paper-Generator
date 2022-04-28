@@ -69,3 +69,23 @@ def preloader_python(request):
     if request.method=="POST":
         questions.generate_ques("python_excel")
     return render(request, 'preloader.html')
+
+def preloader_cpp(request):
+    if request.method=="POST":
+        questions.generate_ques("cpp_excel")
+    return render(request, 'preloader.html')
+
+def preloader_datastr(request):
+    if request.method=="POST":
+        questions.generate_ques("data_struct_excel")
+    return render(request, 'preloader.html')
+
+def preloader_dsm(request):
+    if request.method=="POST":
+        questions.generate_ques("dsm_excel")
+    return render(request, 'preloader.html')
+
+def preloader_oop(request):
+    if request.method=="POST":
+        questions.generate_ques("oop_excel")
+    return render(request, 'preloader.html')
