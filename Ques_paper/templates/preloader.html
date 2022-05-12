@@ -44,7 +44,7 @@ body {
 }
 
 .img_positioning{
-  allign-items: center;
+  align-items: center;
   margin-left:38em;
   margin-top: 12em;
   padding-bottom: 0;
@@ -76,6 +76,7 @@ p{
   <form class="form-signin" method="POST" action ="/preloader">
     {% csrf_token %}
   <a href="../" class="btn mr-2" type="submit"><i class="fa fa-link"></i>Home Page</a>
+  <a href="/ques_pdf" title="">Click here to view the paper</a>
   </form>
 
 <script>
@@ -88,6 +89,10 @@ function myFunction() {
 function showPage() {
   document.getElementById("loader").style.display = "none";
   document.getElementById("myDiv").style.display = "block";
+}
+
+function alert(){
+  alert("Hello! I am an alert box!!");
 }
 </script>
 

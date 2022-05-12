@@ -1,6 +1,8 @@
+import webbrowser
 from django.shortcuts import render
 from django.http import HttpResponse
 from ques_code import questions
+import webbrowser
 
 # Create your views here.
 
@@ -89,3 +91,11 @@ def preloader_oop(request):
     if request.method=="POST":
         questions.generate_ques("oop_excel")
     return render(request, 'preloader.html')
+
+def ques_pdf(request):
+    def test():
+        path="pdf_1.pdf"
+        return webbrowser.open_new(path)
+    test()
+    return render(request, 'where.html')
+

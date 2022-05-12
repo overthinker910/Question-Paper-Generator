@@ -38,12 +38,12 @@ def generate_ques(pathToQues):
     # print(type(data))
 
     #generating the pdf
-    pdf = PDF('P', 'mm', 'Letter')
+    pdf = PDF('P', 'mm', 'A4')
     #adding a page
     pdf.add_page()
 
     #specifying fonts
-    pdf.set_font('helvetica', '', 16)
+    pdf.set_font('helvetica', '', 14)
     
     #looping it
     questions_index = []
