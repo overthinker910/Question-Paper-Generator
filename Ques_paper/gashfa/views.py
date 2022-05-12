@@ -1,6 +1,7 @@
 import webbrowser
-from django.shortcuts import render
+from django.shortcuts import redirect, render
 from django.http import HttpResponse
+from urllib3 import HTTPResponse
 from ques_code import questions
 import os, subprocess
 
@@ -70,7 +71,7 @@ def preloader_aoa(request):
 def preloader_python(request):
     if request.method=="POST":
         questions.generate_ques("python_excel")
-    return render(request, 'preloader.html')
+    return redirect(request, 'preloader.html')
 
 def preloader_cpp(request):
     if request.method=="POST":
@@ -95,5 +96,5 @@ def preloader_oop(request):
 def ques_pdf(request):
     path = "pdf_1.pdf"
     # os.system(path)
-    return webbrowser.open_new(path)
-    
+    webbrowser.open_new(path)
+    return redirect('where.html')

@@ -23,7 +23,7 @@ def generate_ques(pathToQues):
     #loading the workbook in wb
     #!!!!add your path for the excel sheet here!!!!
     #SHREYA'S PATH: C:\\Users\\shrey\\Desktop\\question paper\\Question-Paper-Generator-1\\questions\\
-    wb = openpyxl.load_workbook(r'C:\\Users\\user\\Desktop\\Question-Paper-Generator\\questions\\'+f'{pathToQues}.xlsx')
+    wb = openpyxl.load_workbook(r'C:\\Users\\gaura\\Desktop\\Question-Paper-Generator\\questions\\'+f'{pathToQues}.xlsx')
     #"questions/aoa_excel.xlsx"
     #cheching the sheets present in that workbook
     sheets = wb.sheetnames
