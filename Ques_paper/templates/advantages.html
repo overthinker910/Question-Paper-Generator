@@ -9,8 +9,10 @@
     <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Quintessential&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Italianno&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap" rel="stylesheet">
     <input type="checkbox" id="checkbox">
-    <label class="btn" for="checkbox"><i class="fa fa-bars"></i> <span>Menu</span></label>
+    <label class="btn" for="checkbox"><i class="fa fa-bars"></i> 
+        <span style="font-family:'Open Sans';font-weight: bold; color: #161920;">Menu</span></label>
     <div class="sidebar">
         <ul>
             <a href="main.html"><li class="sidebar-text">Home page</li></a>
@@ -38,11 +40,17 @@
         }
         
         .container{ 
-        float: right;
-        margin-right:15%;
-        margin-top: 7%;
-        padding: 40px;
-         }
+            float: right;
+            margin-top: 7%;
+            padding: 50px;
+            font-family: 'Open Sans';
+            font-weight: bold;
+            font-size: 25px;
+            margin-left: 27.5em;
+            text-align: justify;
+            margin-right: 25px;
+        }
+        
         #heading
         {
            font-size: 27px;
@@ -178,12 +186,6 @@
         
         /* Effect of showing the sidebar - ends */
         
-        @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,500,300,700);
-        
-        * {
-          font-family: Open Sans;
-        }
-        
         section {
           width: 100%;
           display: inline-block;
@@ -244,6 +246,7 @@
           font-weight:400;
             text-decoration: none;
             color:  inherit;
+            font-family: 'Open Sans';
         }
         
         .footer-distributed .footer-company-name{
@@ -319,10 +322,12 @@
         
         .footer-distributed .footer-company-about{
             line-height: 20px;
-            color:  #92999f;
+            color:  #ffffff;
             font-size: 13px;
             font-weight: normal;
             margin: 0;
+            text-align: justify;
+            font-family: 'Open Sans';
         }
         
         .footer-distributed .footer-company-about span{
@@ -381,83 +386,32 @@
           height: 100%;
         }
         
-        /* The hero image */
-        .hero-image {
-          
-          background-color:  #ffedff;
-          height: 65%;
-          background-position: center;
-          background-repeat: no-repeat;
-          background-size: cover;
-          position: relative;
-        }
         
-        .ellipse{
-          height: 310px;
-          width: 270px;
-          border-radius: 50%;
-          object-fit:unset;
-        }
-        
-        .header-heading
-        {
-          font-family: 'Italianno',cursive;
-          justify-content: center;
-          font-size: 55px;
-        }
-        
-        .restaurant-head
-        {
-            text-align: center;
-            top: 200px;
-            left: 0px;
-            width: 100vw;
-            height: 100px;
-        }
-        
-        .header-heading1
-        {
-            font-family:Arial, Helvetica, sans-serif;
-            font-size: 55px;
-        }
     </style>
 
 
     <div class="container">
-    
-        <div id="heading">
-            GET IN TOUCH <br><br><br>
-        </div>
-    
-        <div id="contact">
-        Phone number:
-        <a href= “tel:+9669696969”>9669696969</a> 
+    This system can be used in universities for generating and distributing question papers.
+    The system can also be implemented in different organizations that conduct regular exams.
+    We have used Python as the main language to implement the generator due to its flexibility, ease of use and extensive collection of libraries for natural language processing.
+    Its simple interface improves the ease of data updating and retrieving. Generates and prepares the Question Paper in seconds.
+
     </div>
-        <br></br>
-        <div id="email">
-        Email Address: 
-    <a href="mailto:shreyakhetan9@gmail.com">qpaper_generator@gmail.com</a></div>
-        <br></br>
-        <div id="add">
-            Mailing Address: South Street Ave,Blossom Blvd-09
-             
-        </div>
-    </div>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     <footer class="footer-distributed">
 
         <div class="footer-left">
             <div>
-                <h3 class="header-heading1">The Pink door</h3>
+                <h3 class="header-heading1">Question Paper Generator</h3>
             </div>
             <p class="footer-links">
-                <a href="#" class="link-1">Home</a>
+                <a href="where.html" class="link-1">Home</a>
                 
-                <a href="#">Menu</a>
+                <a href="contact_us.html">Contact Us</a>
             
-                <a href="#">Contact</a>
+                <a href="advantages.html">Advantages</a>
             
-                <a href="#">Reservation</a>
+                <a href="priv.html">Privacy Policy</a>
                 
             </p>
 
@@ -486,8 +440,9 @@
         <div class="footer-right">
 
             <p class="footer-company-about">
-                <span>About the restaurant</span>
-                Organizer, Gaurav Chawla,opened the first Pink Door Restaurant in Los Alamitos, California on September 27, 2016. Today, there are 37 areas all through Arizona, California, Illinois, Louisiana, Nevada, Oregon, Tennessee, and Washington.
+                <span style="font-family:'Open Sans'">About the system</span>
+                Developers, Gaurav Chawla, Fardeen Khan, Shreya Khetan developed the first dataset in KJ Somaiya college on March 27, 2015. Today, there are 50+ universities all through Arizona, California, Illinois, Louisiana, Nevada, Oregon, Tennessee, and Washington using this system actively.
+
             </p>
 
             <div class="footer-icons">

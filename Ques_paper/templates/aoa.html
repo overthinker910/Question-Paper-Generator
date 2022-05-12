@@ -9,8 +9,10 @@
     <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Quintessential&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Italianno&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap" rel="stylesheet">
     <input type="checkbox" id="checkbox">
-    <label class="btn" for="checkbox"><i class="fa fa-bars"></i> <span>Menu</span></label>
+    <label class="btn" for="checkbox"><i class="fa fa-bars"></i> 
+        <span style="font-family:'Open Sans';font-weight: bold; color: #161920;">Menu</span></label>
     <div class="sidebar">
         <ul>
             <a href="main.html"><li class="sidebar-text">Home page</li></a>
@@ -36,6 +38,8 @@
         background-image:url('static/algorithm.png') !important; 
         background-repeat: no-repeat;
           background-size: 1540px 800px; 
+          margin-right: 0;
+          margin-top: 0;
         }
         
         .diff
@@ -148,21 +152,9 @@
         }
         
         
-        
         /* Effect of showing the sidebar - ends */
         
-        @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,500,300,700);
-        
-        * {
-          font-family: Open Sans;
-        }
-        
-        @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,500,300,700);
-        
-        * {
-          font-family: Open Sans;
-        }
-        
+
         section {
           width: 100%;
           display: inline-block;
@@ -370,60 +362,23 @@
           height: 100%;
         }
         
-        /* The hero image */
-        .hero-image {
-          
-          background-color:  #ffedff;
-          height: 65%;
-          background-position: center;
-          background-repeat: no-repeat;
-          background-size: cover;
-          position: relative;
-        }
         
-        .ellipse{
-          height: 310px;
-          width: 270px;
-          border-radius: 50%;
-          object-fit:unset;
-        }
-        
-        .header-heading
-        {
-          font-family: 'Italianno',cursive;
-          justify-content: center;
-          font-size: 55px;
-        }
-        
-        .restaurant-head
-        {
-            text-align: center;
-            top: 200px;
-            left: 0px;
-            width: 100vw;
-            height: 100px;
-        }
-        
-        .header-heading1
-        {
-            font-family:Arial, Helvetica, sans-serif;
-            font-size: 55px;
-        }
         .btn-secondary{
             display: block;
             background-color: #ffb2a7;
-            color: #fff;
+            /* color: #fff; */
             font-size: medium;
-            line-height: 50px;
-            padding: 0 20px;
+            /* line-height: 50px; */
+            /* padding: 0 20px; */
             cursor: pointer;
-            top:70%;
-            left:45.5%;
-            width:100px;
-            height:40px;
+            top: 70%;
+            left: 45.5%;
+            width: 100px;
+            height: 40px;
             position: absolute;
             z-index: 2;
-            
+            text-align: center;
+            font-family: 'Open Sans';
         }
 </style>
 
@@ -431,7 +386,7 @@
     <div class="diff">
     <form class="form-signin" method="POST" action ="/preloader_aoa">
         {% csrf_token %}
-    <label for="difficulty">Enter difficulty</label>
+    <label for="difficulty" style="font-family: 'Open Sans';">Enter difficulty</label>
     <select name="difficulty" id="difficulty">
     <option value="easy">Easy</option>
     <option value="medium">Medium</option>
@@ -440,7 +395,7 @@
     <!-- <button class="btn-secondary" type="submit"> <a href="/preloader"></a>Submit</button>
     <a href="/preloader" class="btn-secondary"><i class="fas fa-link"></i> Visit Site</a> -->
         <button class="btn-secondary">
-            Visit
+            Generate
         </button>
     </form>
     </div>
@@ -452,13 +407,13 @@
                     <h3 class="header-heading1">Question Paper Generator</h3>
                 </div>
                 <p class="footer-links">
-                    <a href="#" class="link-1">Home</a>
+                    <a href="where.html" class="link-1">Home</a>
                     
-                    <a href="#">Contact Us</a>
+                    <a href="contact_us.html">Contact Us</a>
                 
-                    <a href="#">Advantages</a>
+                    <a href="advantages.html">Advantages</a>
                 
-                    <a href="#">Privacy Policy</a>
+                    <a href="priv.html">Privacy Policy</a>
                     
                 </p>
 
@@ -483,9 +438,9 @@
                 </div>
             </div>
             <div class="footer-right">
-        <p class="footer-company-about">
-                    <span>About the restaurant</span>
-                    Developers,Gaurav Chawla,Fardeen Khan,Shreya Khetan developed the first dataset in KJ Somaiya college on March 27, 2015. Today, there are 50+ universities all through Arizona, California, Illinois, Louisiana, Nevada, Oregon, Tennessee, and Washington using this system actively.
+        <p class="footer-company-about" style="text-align: justify;">
+                    <span>About the system</span>
+                    Developers, Gaurav Chawla, Fardeen Khan, Shreya Khetan developed the first dataset in KJ Somaiya college on March 27, 2015. Today, there are 50+ universities all through Arizona, California, Illinois, Louisiana, Nevada, Oregon, Tennessee, and Washington using this system actively.
                 </p>
                 <div class="footer-icons">
                     <a href="#"><i class="fa fa-facebook"></i></a>

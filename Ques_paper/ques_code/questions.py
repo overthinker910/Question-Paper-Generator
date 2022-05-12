@@ -25,7 +25,11 @@ def generate_ques(pathToQues):
     #loading the workbook in wb
     #!!!!add your path for the excel sheet here!!!!
     #SHREYA'S PATH: C:\\Users\\shrey\\Desktop\\question paper\\Question-Paper-Generator-1\\questions\\
+<<<<<<< HEAD
     wb = openpyxl.load_workbook(r'C:\\Users\\farde\\OneDrive\Desktop\\QPG\\Question-Paper-Generator\\questions\\'+f'{pathToQues}.xlsx')
+=======
+    wb = openpyxl.load_workbook(r'C:\\Users\\gaura\\Desktop\\Question-Paper-Generator\\questions\\'+f'{pathToQues}.xlsx')
+>>>>>>> f4f26d40b501988f905f16d4ac0e500dc4f20f50
     #"questions/aoa_excel.xlsx"
     #cheching the sheets present in that workbook
     sheets = wb.sheetnames
@@ -40,16 +44,25 @@ def generate_ques(pathToQues):
     # print(type(data))
 
     #generating the pdf
+<<<<<<< HEAD
     pdf = PDF('P', 'mm', 'Letter')
     pdf1 = PDF('P', 'mm', 'Letter')
+=======
+    pdf = PDF('P', 'mm', 'A4')
+>>>>>>> f4f26d40b501988f905f16d4ac0e500dc4f20f50
     #adding a page
     pdf.add_page()
     pdf1.add_page()
 
     #specifying fonts
+<<<<<<< HEAD
     pdf.set_font('helvetica', '', 16)
     pdf1.set_font('helvetica', '', 16)
     difficulty = '2'
+=======
+    pdf.set_font('helvetica', '', 14)
+    
+>>>>>>> f4f26d40b501988f905f16d4ac0e500dc4f20f50
     #looping it
     # questions_index = [1]
     no_of_questions=1

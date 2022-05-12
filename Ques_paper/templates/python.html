@@ -10,7 +10,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Italianno&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap" rel="stylesheet">
     <input type="checkbox" id="checkbox">
-    <label class="btn" for="checkbox"><i class="fa fa-bars"></i> <span>Menu</span></label>
+    <label class="btn" for="checkbox"><i class="fa fa-bars"></i> 
+        <span style="font-family:'Open Sans';font-weight: bold; color: #161920;">Menu</span></label>
     <div class="sidebar">
         <ul>
 
@@ -315,11 +316,12 @@ body{
     .footer-distributed .footer-company-about
     {
     line-height: 20px;
-    color: #cbcbc2;
+    color: #ffffff;
     font-size: 13px;
     font-weight: normal;
     margin: 0;
     text-align: justify;
+    font-family: 'Open Sans';
     }
 
     .footer-distributed .footer-company-about span{
@@ -377,18 +379,19 @@ body{
     .btn-secondary{
         display: block;
         background-color: #ffb2a7;
-        color: #fff;
+        /* color: #fff; */
         font-size: medium;
-        line-height: 50px;
-        padding: 0 20px;
+        /* line-height: 50px; */
+        /* padding: 0 20px; */
         cursor: pointer;
-        top:70%;
-        left:45.5%;
-        width:100px;
-        height:40px;
+        top: 70%;
+        left: 45.5%;
+        width: 100px;
+        height: 40px;
         position: absolute;
         z-index: 2;
-        
+        text-align: center;
+        font-family: 'Open Sans';
     }
 </style>
 
@@ -396,7 +399,7 @@ body{
 <div class="diff">
     <form class="form-signin" method="POST" action ="/preloader_python">
         {% csrf_token %}
-    <label for="difficulty">Enter difficulty</label>
+    <label for="difficulty" style="font-family: 'Open Sans';">Enter difficulty</label>
     <select name="difficulty" id="difficulty">
         <option value="easy">Easy</option>
         <option value="medium">Medium</option>
@@ -404,19 +407,11 @@ body{
     </select>
     <!-- <button class="btn-secondary" type="submit">Submit</button> -->
     <!-- <a href='/preloader'> -->
-<<<<<<< HEAD
     <a href="/preloader" target="_blank" onclick="">
         <button class="btn-secondary" type="submit">
-            Visit
+            Generate
         </button>
     </a>
-=======
-    
-    <button class="btn-secondary">
-        Generate
-    </button>
-    
->>>>>>> 029797e1a438683eceeebcef41f6b39362c9e221
 </form>
 </div>
 </body>
@@ -428,13 +423,13 @@ body{
                 <h3 class="header-heading1">Question Paper Generator</h3>
             </div>
             <p class="footer-links">
-                <a href="#" class="link-1">Home</a>
+                <a href="where.html" class="link-1">Home</a>
                 
-                <a href="#">Contact Us</a>
+                <a href="contact_us.html">Contact Us</a>
             
-                <a href="#">Advantages</a>
+                <a href="advantages.html">Advantages</a>
             
-                <a href="#">Privacy Policy</a>
+                <a href="priv.html">Privacy Policy</a>
                 
             </p>
 

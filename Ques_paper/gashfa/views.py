@@ -1,8 +1,9 @@
 import webbrowser
 from django.shortcuts import redirect, render
 from django.http import HttpResponse
+from urllib3 import HTTPResponse
 from ques_code import questions
-import os, subprocess
+import webbrowser
 
 # Create your views here.
 
@@ -98,6 +99,10 @@ def ques_pdf(request):
     path1 = "pdf_2.pdf"
     # os.system(path)
     webbrowser.open_new(path)
+<<<<<<< HEAD
     webbrowser.open_new(path1)
     return redirect('where.html')
     
+=======
+    return redirect('where.html')
+>>>>>>> f4f26d40b501988f905f16d4ac0e500dc4f20f50
