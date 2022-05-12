@@ -12,7 +12,7 @@ class PDF(FPDF):
         self.set_font('helvetica', 'B', 20)
         #title
         self.cell(0, 10, 'Question Paper', ln=1, align='C')
-        #line-break
+        #line-breaks
         self.ln(20)
 
 # pdf = PDF('P', 'mm', 'Letter')
@@ -38,12 +38,12 @@ def generate_ques(pathToQues):
     # print(type(data))
 
     #generating the pdf
-    pdf = PDF('P', 'mm', 'Letter')
+    pdf = PDF('P', 'mm', 'A4')
     #adding a page
     pdf.add_page()
 
     #specifying fonts
-    pdf.set_font('helvetica', '', 16)
+    pdf.set_font('helvetica', '', 14)
     
     #looping it
     questions_index = []
