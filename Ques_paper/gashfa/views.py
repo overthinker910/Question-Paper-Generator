@@ -1,5 +1,5 @@
 import webbrowser
-from django.shortcuts import render
+from django.shortcuts import redirect, render
 from django.http import HttpResponse
 from ques_code import questions
 import os, subprocess
@@ -43,6 +43,7 @@ def math(request):
 
 def oop(request):
     if request.method=="POST":
+        level = id
         questions.generate_ques('oop_excel')
     return render(request, 'oop.html')
 
@@ -94,6 +95,9 @@ def preloader_oop(request):
 
 def ques_pdf(request):
     path = "pdf_1.pdf"
+    path1 = "pdf_2.pdf"
     # os.system(path)
-    return webbrowser.open_new(path)
+    webbrowser.open_new(path)
+    webbrowser.open_new(path1)
+    return redirect('where.html')
     
