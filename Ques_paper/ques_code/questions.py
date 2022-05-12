@@ -12,7 +12,7 @@ class PDF(FPDF):
         self.set_font('helvetica', 'B', 20)
         #title
         self.cell(0, 10, 'Question Paper', ln=1, align='C')
-        #line-break
+        #line-breaks
         self.ln(20)
 
 # pdf = PDF('P', 'mm', 'Letter')
