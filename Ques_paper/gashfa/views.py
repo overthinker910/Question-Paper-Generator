@@ -3,11 +3,7 @@ from django.shortcuts import redirect, render
 from django.http import HttpResponse
 from urllib3 import HTTPResponse
 from ques_code import questions
-<<<<<<< HEAD
 import webbrowser
-=======
-import os, subprocess
->>>>>>> 4b9c9e4672dde3343e379e0947b73294e792ca69
 
 # Create your views here.
 
@@ -75,7 +71,7 @@ def preloader_aoa(request):
 def preloader_python(request):
     if request.method=="POST":
         questions.generate_ques("python_excel")
-    return redirect(request, 'preloader.html')
+    return render(request, 'preloader.html')
 
 def preloader_cpp(request):
     if request.method=="POST":
@@ -98,21 +94,7 @@ def preloader_oop(request):
     return render(request, 'preloader.html')
 
 def ques_pdf(request):
-<<<<<<< HEAD
-    def test():
-        path="pdf_1.pdf"
-        return webbrowser.open_new(path)
-    test()
-    return render(request, 'where.html')
-
-=======
     path = "pdf_1.pdf"
     # os.system(path)
-<<<<<<< HEAD
     webbrowser.open_new(path)
     return redirect('where.html')
-=======
-    return webbrowser.open_new(path)
-    
->>>>>>> 4b9c9e4672dde3343e379e0947b73294e792ca69
->>>>>>> ec253fcbebe8ea19e274488887fd4dbb4d574758

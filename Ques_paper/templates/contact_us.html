@@ -11,7 +11,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Italianno&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap" rel="stylesheet">
     <input type="checkbox" id="checkbox">
-    <label class="btn" for="checkbox"><i class="fa fa-bars"></i> <span>Menu</span></label>
+    <label class="btn" for="checkbox"><i class="fa fa-bars"></i> 
+        <span style="font-family:'Open Sans';font-weight: bold; color: #161920;">Menu</span></label>
     <div class="sidebar">
         <ul>
             <a href="main.html"><li class="sidebar-text">Home page</li></a>
@@ -29,11 +30,9 @@
             </ul>
     </div>
 </head>
-<body>
-
     <style>
         body{
-            background-image:url('contact_us.png'); 
+            background-image:url('../static/contact_us.png'); 
             background-repeat: no-repeat;
           background-size: 1540px 754px; 
           margin-top: 0;
@@ -78,11 +77,6 @@
             -moz-box-sizing: border-box;
             box-sizing: border-box;
             font-family: 'Roboto', Arial, sans-serif;
-        }
-        
-        body {
-            background-color: #ffedff;
-            display: inline-block;
         }
         
         #checkbox, .btn span { /* Hide the checkbox input & word "Menu" in the button */
@@ -234,6 +228,7 @@
             color:  #ffffff;
             margin: 20px 0 12px;
             padding: 0;
+            font-family: 'Open Sans';
         }
         
         .footer-distributed .footer-links a{
@@ -242,6 +237,7 @@
           font-weight:400;
             text-decoration: none;
             color:  inherit;
+            font-family: 'Open Sans';
         }
         
         .footer-distributed .footer-company-name{
@@ -317,10 +313,12 @@
         
         .footer-distributed .footer-company-about{
             line-height: 20px;
-            color:  #92999f;
+            color:  #ffffff;
             font-size: 13px;
             font-weight: normal;
             margin: 0;
+            text-align: justify;
+            font-family: 'Open Sans';
         }
         
         .footer-distributed .footer-company-about span{
@@ -381,22 +379,23 @@
         
         
     </style>
+<body>
     <div class="container">
     
-        <div id="heading">
+        <div id="heading" style="font-family:Open Sans">
             GET IN TOUCH <br><br><br>
         </div>
     
-        <div id="contact">
+        <div id="contact" style="font-family: Open Sans">
         Phone number:
         <a href= “tel:+9669696969”>9669696969</a> 
     </div>
         <br></br>
-        <div id="email">
+        <div id="email" style="font-family: Open Sans;">
         Email Address: 
     <a href="mailto:shreyakhetan9@gmail.com">qpaper_generator@gmail.com</a></div>
         <br></br>
-        <div id="add">
+        <div id="add" style="font-family: Open Sans;">
             Mailing Address: South Street Ave,Blossom Blvd-09
              
         </div>
@@ -409,13 +408,13 @@
                 <h3 class="header-heading1">Question Paper Generator</h3>
             </div>
             <p class="footer-links">
-                <a href="#" class="link-1">Home</a>
+                <a href="where.html" class="link-1">Home</a>
                 
-                <a href="#">Menu</a>
+                <a href="contact_us.html">Contact Us</a>
             
-                <a href="#">Contact</a>
+                <a href="advantages.html">Advantages</a>
             
-                <a href="#">Reservation</a>
+                <a href="priv.html">Privacy Policy</a>
                 
             </p>
 
@@ -444,8 +443,9 @@
         <div class="footer-right">
 
             <p class="footer-company-about">
-                <span>About the system</span>
-                A quick and easy way to generate question papers from a pre stored and well defined datebase impartially for university students .This system was made in the year 2015.
+                <span style="font-family: 'Open Sans';">About the system</span>
+                Developers, Gaurav Chawla, Fardeen Khan, Shreya Khetan developed the first dataset in KJ Somaiya college on March 27, 2015. Today, there are 50+ universities all through Arizona, California, Illinois, Louisiana, Nevada, Oregon, Tennessee, and Washington using this system actively.
+            
             </p>
 
             <div class="footer-icons">

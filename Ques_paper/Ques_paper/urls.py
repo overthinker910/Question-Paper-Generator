@@ -34,11 +34,7 @@ urlpatterns = [
     path('preloader.html', views.preloader_python, name="preloader_python"),
     path('preloader.html', views.preloader_aoa, name="preloader_aoa"),
     path('priv.html', views.priv_pol, name="privacy_policy"),
-<<<<<<< HEAD
     path('ques_pdf', views.ques_pdf, name="ques_pdf"),
-=======
-    path("ques_pdf", views.ques_pdf, name="ques_pdf"),  
->>>>>>> 4b9c9e4672dde3343e379e0947b73294e792ca69
     path('', include('gashfa.urls')),
     path('admin/', admin.site.urls),
 ]
