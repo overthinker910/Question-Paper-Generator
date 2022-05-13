@@ -70,6 +70,10 @@ def preloader_aoa(request):
         questions.generate_ques("aoa_excel")
     return render(request, 'preloader.html')
 
+def preloader1(request):
+    return render(request, 'preloader1.html')
+
+
 def preloader_python(request):
     if request.method=="POST":
         questions.generate_ques("python_excel")
@@ -98,7 +102,7 @@ def preloader_oop(request):
 def ques_pdf(request):
     path = "pdf_1.pdf"
     webbrowser.open_new(path)
-    return redirect('preloader.html')
+    return redirect('preloader1.html')
     
 def ques_pdf1(request):
     path = "pdf_2.pdf"
