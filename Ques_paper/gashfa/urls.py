@@ -20,4 +20,5 @@ urlpatterns = [
     path("preloader_dsm", views.preloader_dsm, name='preloader_dsm'),
     path("preloader_oop", views.preloader_oop, name='preloader_oop'),   
     path("ques_pdf",views.ques_pdf,name="ques_pdf"),
+    path("ques_pdf1",views.ques_pdf1,name="ques_pdf1"),
 ]

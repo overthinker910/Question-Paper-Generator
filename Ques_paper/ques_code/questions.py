@@ -1,7 +1,5 @@
 from operator import index
 import string, xlrd
-from xml.etree.ElementTree import tostring
-from numpy import diff
 import pandas, random
 from fpdf import FPDF
 import openpyxl
@@ -25,11 +23,7 @@ def generate_ques(pathToQues):
     #loading the workbook in wb
     #!!!!add your path for the excel sheet here!!!!
     #SHREYA'S PATH: C:\\Users\\shrey\\Desktop\\question paper\\Question-Paper-Generator-1\\questions\\
-<<<<<<< HEAD
-    wb = openpyxl.load_workbook(r'C:\\Users\\farde\\OneDrive\Desktop\\QPG\\Question-Paper-Generator\\questions\\'+f'{pathToQues}.xlsx')
-=======
     wb = openpyxl.load_workbook(r'C:\\Users\\gaura\\Desktop\\Question-Paper-Generator\\questions\\'+f'{pathToQues}.xlsx')
->>>>>>> f4f26d40b501988f905f16d4ac0e500dc4f20f50
     #"questions/aoa_excel.xlsx"
     #cheching the sheets present in that workbook
     sheets = wb.sheetnames
@@ -44,118 +38,50 @@ def generate_ques(pathToQues):
     # print(type(data))
 
     #generating the pdf
-<<<<<<< HEAD
-    pdf = PDF('P', 'mm', 'Letter')
-    pdf1 = PDF('P', 'mm', 'Letter')
-=======
-    pdf = PDF('P', 'mm', 'A4')
->>>>>>> f4f26d40b501988f905f16d4ac0e500dc4f20f50
+    pdf = PDF('P', 'mm', 'A3')
+    pdf1 = PDF('P', 'mm', 'A3')
     #adding a page
     pdf.add_page()
     pdf1.add_page()
 
     #specifying fonts
-<<<<<<< HEAD
     pdf.set_font('helvetica', '', 16)
     pdf1.set_font('helvetica', '', 16)
-    difficulty = '2'
-=======
-    pdf.set_font('helvetica', '', 14)
     
->>>>>>> f4f26d40b501988f905f16d4ac0e500dc4f20f50
     #looping it
-    # questions_index = [1]
-    no_of_questions=1
+    questions_index = []
+    no_of_questions=0
     i=1
     j=1
-    if(difficulty == '1'):
-        set_diffculty = [4, 2, 1]
-    elif(difficulty == '2'):
-        set_diffculty = [2, 4, 1]
-    elif(difficulty == '3'):
-        set_diffculty = [1, 2, 4]
-    else:
-        set_diffculty = [2, 4, 1]
-    a = set_diffculty[0]
-    b = set_diffculty[1]
-    c = set_diffculty[2]
-    
-    while no_of_questions < 7:
-        question_column = 'A'
+    while no_of_questions<7:
+        column_value = 'A'
         answer_column = 'B'
-        difficulty_column = 'C'
-        #     for col in sh1['C']:
-        #         if(col.value == 'easy'):
-        #             for i in range(0, 4):
-
-
-
         row_value = random.randint(2, 26)
-            
-            
         # new_column = sh1
-        answer_value = question_column + str(row_value)
+        answer_value = column_value + str(row_value)
         answer_value1 = answer_column + str(row_value)
-        difficulty_value = difficulty_column + str(row_value)
         
         answer_value = str(answer_value)
         answer_value1 = str(answer_value1)
-        difficulty_value = str(difficulty_value)
 
         #appending each question loction in this array for future use
 
         #printing questions
-        xyz = sh1["{}".format(difficulty_value)].value
-        x = pdf.cell(40, 30, f'{xyz}', ln=True)
-        print(type(xyz))
-        
-      
-        if(xyz == 1):
-            for i in range (0, a):
-                data = sh1["{}".format(answer_value)].value
-                print(str(i) + '. '+data)
-                i=i+1
-                no_of_questions=no_of_questions+1
-                pdf.cell(40, 30, f'{i-1}'+'. '+data, ln=True)
-                row_value = random.randint(2, 26)
-                answer_value = question_column + str(row_value)
-                answer_value = str(answer_value)
+        data = sh1["{}".format(answer_value)].value
+        print(str(i) + '. '+data)
+        i=i+1
+        no_of_questions=no_of_questions+1
 
-        elif(xyz == 2):
-            for i in range (0, b):
-                data = sh1["{}".format(answer_value)].value
-                print(str(i) + '. '+data)
-                i=i+1
-                no_of_questions=no_of_questions+1
-                pdf.cell(40, 30, f'{i-1}'+'. '+data, ln=True)
-                row_value = random.randint(2, 26)
-                answer_value = question_column + str(row_value)
-                answer_value = str(answer_value)
-
-        if(xyz == 3):
-            for i in range (0, c):
-                data = sh1["{}".format(answer_value)].value
-                print(str(i) + '. '+data)
-                i=i+1
-                no_of_questions=no_of_questions+1
-                pdf.cell(40, 30, f'{i-1}'+'. '+data, ln=True)
-                row_value = random.randint(2, 26)
-                answer_value = question_column + str(row_value)
-                answer_value = str(answer_value)
-        #else: 
-            #xyz = sh1["{}".format(difficulty_value)].value
-            #x = pdf.cell(40, 30, f'{xyz}', ln=True)
-            #print(x)
-        
+        pdf.cell(40, 30, f'{i-1}'+'. '+data, ln=True)
 
         #printing answers
         data1 = sh1["{}".format(answer_value1)].value
         print(str(j) + '. '+data1)
         j=j+1
-        no_of_questions=no_of_questions+1
+        # no_of_questions=no_of_questions+1
 
         pdf1.cell(40, 30, f'{j-1}'+'. '+data1, ln=True)
-        #questions_index.append(row_value)
+        questions_index.append(row_value)
 
     pdf.output('pdf_1.pdf')
-        #pdf1.output('pdf_2.pdf')
+    pdf1.output('pdf_2.pdf')

@@ -1,6 +1,7 @@
 import webbrowser
 from django.shortcuts import redirect, render
 from django.http import HttpResponse
+from sympy import true
 from urllib3 import HTTPResponse
 from ques_code import questions
 import webbrowser
@@ -96,13 +97,10 @@ def preloader_oop(request):
 
 def ques_pdf(request):
     path = "pdf_1.pdf"
-    path1 = "pdf_2.pdf"
-    # os.system(path)
     webbrowser.open_new(path)
-<<<<<<< HEAD
-    webbrowser.open_new(path1)
-    return redirect('where.html')
+    return redirect('preloader.html')
     
-=======
+def ques_pdf1(request):
+    path = "pdf_2.pdf"
+    webbrowser.open_new(path)
     return redirect('where.html')
->>>>>>> f4f26d40b501988f905f16d4ac0e500dc4f20f50
